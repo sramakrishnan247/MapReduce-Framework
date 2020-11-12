@@ -1,0 +1,22 @@
+./Gutenberg/txt/Abraham Lincoln___Lincoln Letters.txt
+./Gutenberg/txt/Abraham Lincoln___Lincoln's First Inaugural Address.txt
+./Gutenberg/txt/Abraham Lincoln___Lincoln's Gettysburg Address, given November 19, 1863.txt
+./Gutenberg/txt/Abraham Lincoln___Lincoln's Inaugurals, Addresses and Letters (Selections).txt
+./Gutenberg/txt/Abraham Lincoln___Lincoln's Second Inaugural Address.txt
+./Gutenberg/txt/Abraham Lincoln___Speeches and Letters of Abraham Lincoln, 1832-1865.txt
+./Gutenberg/txt/Abraham Lincoln___State of the Union Addresses.txt
+./Gutenberg/txt/Abraham Lincoln___The Emancipation Proclamation.txt
+./Gutenberg/txt/Abraham Lincoln___The Life and Public Service of General Zachary Taylor: An Address.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 1: 1832-1843.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 2: 1843-1858.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 3.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 4.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 5: 1858-1862.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 6: 1862-1863.txt
+./Gutenberg/txt/Abraham Lincoln___The Writings of Abraham Lincoln, Volume 7: 1863-1865.txt
+./Gutenberg/txt/Agatha Christie___The Mysterious Affair at Styles.txt
+./Gutenberg/txt/Agatha Christie___The Secret Adversary.txt
+./Gutenberg/txt/Albert Einstein___Relativity: The Special and General Theory.txt
+./Gutenberg/txt/Albert Einstein___Sidelights on Relativity.txt
+./Gutenberg/txt/Aldous Huxley___Crome Yellow.txt
+./Gutenberg/txt/Aldous Huxley___Mortal Coils.txt

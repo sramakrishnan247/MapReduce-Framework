@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "fstream": "cpp"
+    },
+    "python.pythonPath": "/usr/bin/python"
+}

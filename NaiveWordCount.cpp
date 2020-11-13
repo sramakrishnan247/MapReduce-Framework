@@ -23,7 +23,7 @@ std::string formatWord(std::string input){
     std::string output;
     output.resize(input.size());
 
-    //Transofrm uppercase to lowercase
+    //Transform uppercase to lowercase
     std::transform(input.begin(),
                  input.end(),
                  output.begin(),

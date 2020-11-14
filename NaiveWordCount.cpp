@@ -5,7 +5,7 @@
 #include <cctype>
 
 
-#define NUM_OF_FILES 1000
+#define NUM_OF_FILES 3000
 
 std::map<std::string, int> globalMap;
 

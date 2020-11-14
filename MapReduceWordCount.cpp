@@ -8,7 +8,7 @@
 #include <cstdio>
 #include <cstdlib>
 
-#define NUM_OF_FILES 1000
+#define NUM_OF_FILES 3000 
 #define TABLE_SIZE 100000
 #define MAX_WORD_COUNT 1000000
 

@@ -34,6 +34,9 @@ framework would increase speed, flexibility, simplicity and scalability.
 5. Extract the dataset to the project srce directory and run preprocess.py
 6. Run the build.sh script(For Linux/Windows please make changes to build.sh similar to [this](https://stackoverflow.com/questions/12002304/how-to-compile-openmp-using-g)) 
 
+### Demo
+![Demo](https://github.com/sramakrishnan247/MapReduce-Framework/blob/main/execution.gif)
+
 ### Implementation outline
 The dataset has been used for this project has been taken from [Project Gutenberg](http://www.gutenberg.org/).  The data is stored across text files. The program input is a file that has the name of each text file and the output is a text file with the words and their respective counts. The input is read using a reader thread which will add the file pointer for each file to a worker queue. For the map job and reduce job, there is a mapper thread and a reducer thread respectively. Finally, a writer thread writes the final word count to the output file. In order to store the count for each word, a hash table that is accessible globally is used to store the data in the form of <key,count> pairs. Updates to values in the hash table will be atomic in nature. Although the mapper phase can be run in parallel, the final reduce phase writes everthing to a global std::map.
 

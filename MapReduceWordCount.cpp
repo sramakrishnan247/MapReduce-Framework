@@ -198,9 +198,9 @@ int main(int argc, char const *argv[])
 
     printMap();
 
-	end = clock();
+    end = clock();
     double time = (double)(end - start) / CLOCKS_PER_SEC;
-	printf("Time taken: %f sec\n", time);
+    printf("Time taken: %f sec\n", time);
     //free memory allocated in free store
     deleteTable();
     fptr.close();

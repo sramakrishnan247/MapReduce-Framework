@@ -5,7 +5,7 @@
 #include <cctype>
 
 
-#define NUM_OF_FILES 20 
+#define NUM_OF_FILES 1000
 
 std::map<std::string, int> globalMap;
 
@@ -41,17 +41,21 @@ void printMap(){
     std::fstream fptr;
     fptr.open("./naive_word_count.txt");
 
+    long wordCount = 0;
     std::map<std::string, int>::iterator it;
     for(it = globalMap.begin(); it != globalMap.end(); it++){
         // std::string line = "Key: " + it->first + ", Value: " + std::to_string(it->second) + "\n";
         std::string line = it->first + " " + std::to_string(it->second) + "\n";
         fptr << line; 
+        wordCount++;
     }
     fptr.close();
+    // std::cout<<std::endl;
+    // std::cout<<"Total words: "<<wordCount<<std::endl;
 }
 
 void readFile(std::string filename){
-    std::cout<<filename;
+    // std::cout<<filename;
     std::fstream fptr;
     fptr.open(filename);
     std::string word;
@@ -65,7 +69,9 @@ void readFile(std::string filename){
 
 int main(int argc, char const *argv[])
 {
+    clock_t start,end;
 
+	start = clock();
     std::fstream fptr;
     fptr.open("./file_list.txt");
 
@@ -75,7 +81,7 @@ int main(int argc, char const *argv[])
     for(int i = 0; i < NUM_OF_FILES; i++ ){
         std::string line;
         std::getline(fptr, line);
-        std::cout<<line<<std::endl;
+        // std::cout<<line<<std::endl;
         file[i] = line;
     }
 
@@ -83,6 +89,10 @@ int main(int argc, char const *argv[])
         readFile(file[i]);
     }
     printMap();
+
+    end = clock();
+    double time = (double)(end - start) / CLOCKS_PER_SEC;
+	printf("Time taken: %f sec\n", time);
     fptr.close();
     
     

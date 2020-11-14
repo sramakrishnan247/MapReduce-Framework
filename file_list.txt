@@ -20,3 +20,2983 @@
 ./Gutenberg/txt/Albert Einstein___Sidelights on Relativity.txt
 ./Gutenberg/txt/Aldous Huxley___Crome Yellow.txt
 ./Gutenberg/txt/Aldous Huxley___Mortal Coils.txt
+./Gutenberg/txt/Aldous Huxley___The Defeat of Youth and Other Poems.txt
+./Gutenberg/txt/Alexander Pope___An Essay on Criticism.txt
+./Gutenberg/txt/Alexander Pope___Essay on Man.txt
+./Gutenberg/txt/Alexander Pope___The Poetical Works of Alexander Pope, Volume 1.txt
+./Gutenberg/txt/Alexander Pope___The Poetical Works of Alexander Pope, Volume 2.txt
+./Gutenberg/txt/Alexander Pope___The Rape of the Lock and Other Poems.txt
+./Gutenberg/txt/Alexander Pope___The Works of Alexander Pope, Volume 1.txt
+./Gutenberg/txt/Alfred Russel Wallace___Contributions to the Theory of Natural Selection.txt
+./Gutenberg/txt/Alfred Russel Wallace___Darwinism.txt
+./Gutenberg/txt/Alfred Russel Wallace___Is Mars Habitable?.txt
+./Gutenberg/txt/Alfred Russel Wallace___Island Life.txt
+./Gutenberg/txt/Alfred Russel Wallace___The Malay Archipelago, Volume 1.txt
+./Gutenberg/txt/Alfred Russel Wallace___The Malay Archipelago, Volume 2.txt
+./Gutenberg/txt/Ambrose Bierce___A Cynic Looks at Life.txt
+./Gutenberg/txt/Ambrose Bierce___A Son of the Gods, and A Horseman in the Sky.txt
+./Gutenberg/txt/Ambrose Bierce___An Occurrence at Owl Creek Bridge.txt
+./Gutenberg/txt/Ambrose Bierce___Black Beetles in Amber.txt
+./Gutenberg/txt/Ambrose Bierce___Can Such Things Be?.txt
+./Gutenberg/txt/Ambrose Bierce___Cobwebs From an Empty Skull.txt
+./Gutenberg/txt/Ambrose Bierce___Fantastic Fables.txt
+./Gutenberg/txt/Ambrose Bierce___Present at a Hanging and Other Ghost Stories.txt
+./Gutenberg/txt/Ambrose Bierce___Shapes of Clay.txt
+./Gutenberg/txt/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 1.txt
+./Gutenberg/txt/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 2.txt
+./Gutenberg/txt/Ambrose Bierce___The Collected Works of Ambrose Bierce, Volume 8.txt
+./Gutenberg/txt/Ambrose Bierce___The Damned Thing.txt
+./Gutenberg/txt/Ambrose Bierce___The Devil's Dictionary.txt
+./Gutenberg/txt/Ambrose Bierce___The Fiend's Delight.txt
+./Gutenberg/txt/Ambrose Bierce___The Parenticide Club.txt
+./Gutenberg/txt/Ambrose Bierce___The Shadow On The Dial, and Other Essays.txt
+./Gutenberg/txt/Ambrose Bierce___Write It Right.txt
+./Gutenberg/txt/Andrew Lang___A Collection of Ballads.txt
+./Gutenberg/txt/Andrew Lang___A Monk of Fife.txt
+./Gutenberg/txt/Andrew Lang___A Short History of Scotland.txt
+./Gutenberg/txt/Andrew Lang___Adventures among Books.txt
+./Gutenberg/txt/Andrew Lang___Alfred Tennyson.txt
+./Gutenberg/txt/Andrew Lang___Andrew Lang's Introduction to The Compleat Angler.txt
+./Gutenberg/txt/Andrew Lang___Angling Sketches.txt
+./Gutenberg/txt/Andrew Lang___Ballads in Blue China and Verses and Translations.txt
+./Gutenberg/txt/Andrew Lang___Ban and Arriere Ban.txt
+./Gutenberg/txt/Andrew Lang___Books and Bookmen.txt
+./Gutenberg/txt/Andrew Lang___Cock Lane and Common-Sense.txt
+./Gutenberg/txt/Andrew Lang___Custom and Myth.txt
+./Gutenberg/txt/Andrew Lang___Essays in Little.txt
+./Gutenberg/txt/Andrew Lang___Grass of Parnassus.txt
+./Gutenberg/txt/Andrew Lang___He.txt
+./Gutenberg/txt/Andrew Lang___Helen of Troy.txt
+./Gutenberg/txt/Andrew Lang___Historical Mysteries.txt
+./Gutenberg/txt/Andrew Lang___Homer and His Age.txt
+./Gutenberg/txt/Andrew Lang___How to Fail in Literature.txt
+./Gutenberg/txt/Andrew Lang___In the Wrong Paradise.txt
+./Gutenberg/txt/Andrew Lang___James VI and the Gowrie Mystery.txt
+./Gutenberg/txt/Andrew Lang___John Knox and the Reformation.txt
+./Gutenberg/txt/Andrew Lang___Letters on Literature.txt
+./Gutenberg/txt/Andrew Lang___Letters to Dead Authors.txt
+./Gutenberg/txt/Andrew Lang___Lost Leaders.txt
+./Gutenberg/txt/Andrew Lang___Modern Mythology.txt
+./Gutenberg/txt/Andrew Lang___Much Darker Days.txt
+./Gutenberg/txt/Andrew Lang___Myth, Ritual And Religion, Vol. 2 (of 2).txt
+./Gutenberg/txt/Andrew Lang___Myth, Ritual, and Religion, Vol. 1.txt
+./Gutenberg/txt/Andrew Lang___New Collected Rhymes.txt
+./Gutenberg/txt/Andrew Lang___Old Friends - Essays in Epistolary Parody.txt
+./Gutenberg/txt/Andrew Lang___Oxford.txt
+./Gutenberg/txt/Andrew Lang___Pickle the Spy.txt
+./Gutenberg/txt/Andrew Lang___Prince Prigio From "His Own Fairy Book".txt
+./Gutenberg/txt/Andrew Lang___Prince Prigio.txt
+./Gutenberg/txt/Andrew Lang___Prince Ricardo of Pantouflia.txt
+./Gutenberg/txt/Andrew Lang___Rhymes a la Mode.txt
+./Gutenberg/txt/Andrew Lang___Shakespeare, Bacon and the Great Unknown.txt
+./Gutenberg/txt/Andrew Lang___Sir Walter Scott and the Border Minstrelsy.txt
+./Gutenberg/txt/Andrew Lang___Tales of Troy and Greece.txt
+./Gutenberg/txt/Andrew Lang___The Arabian Nights Entertainments.txt
+./Gutenberg/txt/Andrew Lang___The Blue Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Book of Dreams and Ghosts.txt
+./Gutenberg/txt/Andrew Lang___The Brown Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Clyde Mystery.txt
+./Gutenberg/txt/Andrew Lang___The Crimson Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Disentanglers.txt
+./Gutenberg/txt/Andrew Lang___The Gold Of Fairnilee.txt
+./Gutenberg/txt/Andrew Lang___The Grey Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Library.txt
+./Gutenberg/txt/Andrew Lang___The Lilac Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Making of Religion.txt
+./Gutenberg/txt/Andrew Lang___The Mark Of Cain.txt
+./Gutenberg/txt/Andrew Lang___The Orange Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Pink Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Puzzle of Dickens's Last Plot.txt
+./Gutenberg/txt/Andrew Lang___The Red Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Valet's Tragedy and Other Stories.txt
+./Gutenberg/txt/Andrew Lang___The Violet Fairy Book.txt
+./Gutenberg/txt/Andrew Lang___The Yellow Fairy Book.txt
+./Gutenberg/txt/Anthony Trollope___A Ride Across Palestine.txt
+./Gutenberg/txt/Anthony Trollope___Aaron Trow.txt
+./Gutenberg/txt/Anthony Trollope___An Eye for an Eye.txt
+./Gutenberg/txt/Anthony Trollope___An Old Man's Love.txt
+./Gutenberg/txt/Anthony Trollope___An Unprotected Female at the Pyramids.txt
+./Gutenberg/txt/Anthony Trollope___Autobiography of Anthony Trollope.txt
+./Gutenberg/txt/Anthony Trollope___Ayala's Angel.txt
+./Gutenberg/txt/Anthony Trollope___Barchester Towers.txt
+./Gutenberg/txt/Anthony Trollope___Can You Forgive Her?.txt
+./Gutenberg/txt/Anthony Trollope___Castle Richmond.txt
+./Gutenberg/txt/Anthony Trollope___Cousin Henry.txt
+./Gutenberg/txt/Anthony Trollope___Doctor Thorne.txt
+./Gutenberg/txt/Anthony Trollope___Dr. Wortle's School.txt
+./Gutenberg/txt/Anthony Trollope___Framley Parsonage.txt
+./Gutenberg/txt/Anthony Trollope___George Walker At Suez.txt
+./Gutenberg/txt/Anthony Trollope___Harry Heathcote of Gangoil.txt
+./Gutenberg/txt/Anthony Trollope___He Knew He Was Right.txt
+./Gutenberg/txt/Anthony Trollope___Hunting Sketches.txt
+./Gutenberg/txt/Anthony Trollope___Is He Popenjoy?.txt
+./Gutenberg/txt/Anthony Trollope___John Bull on the Guadalquivir from Tales from all Countries.txt
+./Gutenberg/txt/Anthony Trollope___John Caldigate.txt
+./Gutenberg/txt/Anthony Trollope___Kept in the Dark.txt
+./Gutenberg/txt/Anthony Trollope___La Mere Bauche from Tales of All Countries.txt
+./Gutenberg/txt/Anthony Trollope___La Vendée.txt
+./Gutenberg/txt/Anthony Trollope___Lady Anna.txt
+./Gutenberg/txt/Anthony Trollope___Life of Cicero Volume One.txt
+./Gutenberg/txt/Anthony Trollope___Life of Cicero Volume Two.txt
+./Gutenberg/txt/Anthony Trollope___Linda Tressel.txt
+./Gutenberg/txt/Anthony Trollope___Marion Fay.txt
+./Gutenberg/txt/Anthony Trollope___Miss Mackenzie.txt
+./Gutenberg/txt/Anthony Trollope___Miss Sarah Jack, of Spanish Town, Jamaica.txt
+./Gutenberg/txt/Anthony Trollope___Mr. Scarborough's Family.txt
+./Gutenberg/txt/Anthony Trollope___Mrs. General Talboys.txt
+./Gutenberg/txt/Anthony Trollope___Nina Balatka.txt
+./Gutenberg/txt/Anthony Trollope___North America Volume 1.txt
+./Gutenberg/txt/Anthony Trollope___North America Volume 2.txt
+./Gutenberg/txt/Anthony Trollope___Orley Farm.txt
+./Gutenberg/txt/Anthony Trollope___Phineas Finn.txt
+./Gutenberg/txt/Anthony Trollope___Phineas Redux.txt
+./Gutenberg/txt/Anthony Trollope___Rachel Ray.txt
+./Gutenberg/txt/Anthony Trollope___Ralph the Heir.txt
+./Gutenberg/txt/Anthony Trollope___Returning Home.txt
+./Gutenberg/txt/Anthony Trollope___Sir Harry Hotspur of Humblethwaite.txt
+./Gutenberg/txt/Anthony Trollope___Thackeray.txt
+./Gutenberg/txt/Anthony Trollope___The American Senator.txt
+./Gutenberg/txt/Anthony Trollope___The Belton Estate.txt
+./Gutenberg/txt/Anthony Trollope___The Bertrams.txt
+./Gutenberg/txt/Anthony Trollope___The Chateau of Prince Polignac.txt
+./Gutenberg/txt/Anthony Trollope___The Claverings.txt
+./Gutenberg/txt/Anthony Trollope___The Courtship of Susan Bell.txt
+./Gutenberg/txt/Anthony Trollope___The Duke's Children.txt
+./Gutenberg/txt/Anthony Trollope___The Eustace Diamonds.txt
+./Gutenberg/txt/Anthony Trollope___The Fixed Period.txt
+./Gutenberg/txt/Anthony Trollope___The Golden Lion of Granpere.txt
+./Gutenberg/txt/Anthony Trollope___The House of Heine Brothers, in Munich.txt
+./Gutenberg/txt/Anthony Trollope___The Kellys and the O'Kellys.txt
+./Gutenberg/txt/Anthony Trollope___The Landleaguers.txt
+./Gutenberg/txt/Anthony Trollope___The Last Chronicle of Barset.txt
+./Gutenberg/txt/Anthony Trollope___The Macdermots of Ballycloran.txt
+./Gutenberg/txt/Anthony Trollope___The Man Who Kept His Money In A Box.txt
+./Gutenberg/txt/Anthony Trollope___The Mistletoe Bough.txt
+./Gutenberg/txt/Anthony Trollope___The O'Conors of Castle Conor from Tales from all Countries.txt
+./Gutenberg/txt/Anthony Trollope___The Parson's Daughter of Oxney Colne.txt
+./Gutenberg/txt/Anthony Trollope___The Prime Minister.txt
+./Gutenberg/txt/Anthony Trollope___The Relics of General Chasse.txt
+./Gutenberg/txt/Anthony Trollope___The Small House at Allington.txt
+./Gutenberg/txt/Anthony Trollope___The Struggles of Brown, Jones, and Robinson.txt
+./Gutenberg/txt/Anthony Trollope___The Three Clerks.txt
+./Gutenberg/txt/Anthony Trollope___The Vicar of Bullhampton.txt
+./Gutenberg/txt/Anthony Trollope___The Warden.txt
+./Gutenberg/txt/Anthony Trollope___The Way We Live Now.txt
+./Gutenberg/txt/Arnold Joseph Toynbee___Turkey: A Past and a Future.txt
+./Gutenberg/txt/Baronness Orczy___"Unto Caesar".txt
+./Gutenberg/txt/Baronness Orczy___A Bride of the Plains.txt
+./Gutenberg/txt/Baronness Orczy___Castles in the Air.txt
+./Gutenberg/txt/Baronness Orczy___El Dorado.txt
+./Gutenberg/txt/Baronness Orczy___I Will Repay.txt
+./Gutenberg/txt/Baronness Orczy___Lord Tony's Wife.txt
+./Gutenberg/txt/Baronness Orczy___Petticoat Rule.txt
+./Gutenberg/txt/Baronness Orczy___The Bronze Eagle.txt
+./Gutenberg/txt/Baronness Orczy___The Elusive Pimpernel.txt
+./Gutenberg/txt/Baronness Orczy___The Heart of a Woman.txt
+./Gutenberg/txt/Baronness Orczy___The Laughing Cavalier.txt
+./Gutenberg/txt/Baronness Orczy___The League of the Scarlet Pimpernel.txt
+./Gutenberg/txt/Baronness Orczy___The Nest of the Sparrowhawk.txt
+./Gutenberg/txt/Baronness Orczy___The Old Man in the Corner.txt
+./Gutenberg/txt/Baronness Orczy___The Scarlet Pimpernel.txt
+./Gutenberg/txt/Baronness Orczy___The Tangled Skein.txt
+./Gutenberg/txt/Beatrix Potter___A Collection of Beatrix Potter Stories.txt
+./Gutenberg/txt/Beatrix Potter___Cecily Parsley's Nursery Rhymes.txt
+./Gutenberg/txt/Beatrix Potter___The Great Big Treasury of Beatrix Potter.txt
+./Gutenberg/txt/Beatrix Potter___The Story of Miss Moppet.txt
+./Gutenberg/txt/Beatrix Potter___The Tailor of Gloucester.txt
+./Gutenberg/txt/Beatrix Potter___The Tale Of Benjamin Bunny.txt
+./Gutenberg/txt/Beatrix Potter___The Tale Of Peter Rabbit.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Ginger and Pickles.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Jemima Puddle-Duck.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Johnny Town-Mouse.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Mr. Jeremy Fisher.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Mr. Tod.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Mrs. Tiggy-Winkle.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Mrs. Tittlemouse.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Samuel Whiskers.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Squirrel Nutkin.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Timmy Tiptoes.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of Tom Kitten.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of the Flopsy Bunnies.txt
+./Gutenberg/txt/Beatrix Potter___The Tale of the Pie and the Patty Pan.txt
+./Gutenberg/txt/Benjamin Disraeli___Alroy.txt
+./Gutenberg/txt/Benjamin Disraeli___Coningsby.txt
+./Gutenberg/txt/Benjamin Disraeli___Count Alarcos.txt
+./Gutenberg/txt/Benjamin Disraeli___Endymion.txt
+./Gutenberg/txt/Benjamin Disraeli___Henrietta Temple.txt
+./Gutenberg/txt/Benjamin Disraeli___Ixion In Heaven.txt
+./Gutenberg/txt/Benjamin Disraeli___Lord George Bentinck.txt
+./Gutenberg/txt/Benjamin Disraeli___Lothair.txt
+./Gutenberg/txt/Benjamin Disraeli___Sketches.txt
+./Gutenberg/txt/Benjamin Disraeli___Sybil.txt
+./Gutenberg/txt/Benjamin Disraeli___Tancred.txt
+./Gutenberg/txt/Benjamin Disraeli___The Infernal Marriage.txt
+./Gutenberg/txt/Benjamin Disraeli___The Rise of Iskander.txt
+./Gutenberg/txt/Benjamin Disraeli___The Voyage of Captain Popanilla.txt
+./Gutenberg/txt/Benjamin Disraeli___The Young Duke.txt
+./Gutenberg/txt/Benjamin Disraeli___Venetia.txt
+./Gutenberg/txt/Benjamin Disraeli___Vivian Grey.txt
+./Gutenberg/txt/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 1.txt
+./Gutenberg/txt/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 2.txt
+./Gutenberg/txt/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 3.txt
+./Gutenberg/txt/Benjamin Franklin___Autobiography of Benjamin Franklin, Version 4.txt
+./Gutenberg/txt/Bertrand Russell___Mysticism and Logic and Other Essays.txt
+./Gutenberg/txt/Bertrand Russell___Our Knowledge of the External World as a Field for Scientific Method in Philosophy.txt
+./Gutenberg/txt/Bertrand Russell___Political Ideals.txt
+./Gutenberg/txt/Bertrand Russell___Proposed Roads To Freedom.txt
+./Gutenberg/txt/Bertrand Russell___The Analysis of Mind.txt
+./Gutenberg/txt/Bertrand Russell___The Practice and Theory of Bolshevism.txt
+./Gutenberg/txt/Bertrand Russell___The Problem of China.txt
+./Gutenberg/txt/Bertrand Russell___The Problems of Philosophy.txt
+./Gutenberg/txt/Bram Stoker___Dracula's Guest.txt
+./Gutenberg/txt/Bram Stoker___Dracula.txt
+./Gutenberg/txt/Bram Stoker___The Jewel of Seven Stars.txt
+./Gutenberg/txt/Bram Stoker___The Lady of the Shroud.txt
+./Gutenberg/txt/Bram Stoker___The Lair of the White Worm.txt
+./Gutenberg/txt/Bram Stoker___The Man.txt
+./Gutenberg/txt/Bret Harte___A Drift from Redwood Camp.txt
+./Gutenberg/txt/Bret Harte___A First Family of Tasajara.txt
+./Gutenberg/txt/Bret Harte___A Millionaire of Rough-and-Ready.txt
+./Gutenberg/txt/Bret Harte___A Phyllis of the Sierras.txt
+./Gutenberg/txt/Bret Harte___A Protegee of Jack Hamlin's and Other Stories.txt
+./Gutenberg/txt/Bret Harte___A Sappho of Green Springs.txt
+./Gutenberg/txt/Bret Harte___A Waif of the Plains.txt
+./Gutenberg/txt/Bret Harte___A Ward of the Golden Gate.txt
+./Gutenberg/txt/Bret Harte___By Shore and Sedge.txt
+./Gutenberg/txt/Bret Harte___Clarence.txt
+./Gutenberg/txt/Bret Harte___Colonel Starbottle's Client and Other Stories.txt
+./Gutenberg/txt/Bret Harte___Complete Poetical Works of Bret Harte.txt
+./Gutenberg/txt/Bret Harte___Condensed Novels.txt
+./Gutenberg/txt/Bret Harte___Cressy.txt
+./Gutenberg/txt/Bret Harte___Devil's Ford.txt
+./Gutenberg/txt/Bret Harte___Dickens in Camp.txt
+./Gutenberg/txt/Bret Harte___Drift from Two Shores.txt
+./Gutenberg/txt/Bret Harte___East and West.txt
+./Gutenberg/txt/Bret Harte___Excelsior.txt
+./Gutenberg/txt/Bret Harte___Flip, A California Romance.txt
+./Gutenberg/txt/Bret Harte___Found At Blazing Star.txt
+./Gutenberg/txt/Bret Harte___From Sand Hill to Pine.txt
+./Gutenberg/txt/Bret Harte___Frontier Stories.txt
+./Gutenberg/txt/Bret Harte___Gabriel Conroy.txt
+./Gutenberg/txt/Bret Harte___Her Letter His Answer & Her Last Letter.txt
+./Gutenberg/txt/Bret Harte___In a Hollow of the Hills.txt
+./Gutenberg/txt/Bret Harte___In the Carquinez Woods.txt
+./Gutenberg/txt/Bret Harte___Jeff Briggs's Love Story.txt
+./Gutenberg/txt/Bret Harte___Legends and Tales.txt
+./Gutenberg/txt/Bret Harte___Maruja.txt
+./Gutenberg/txt/Bret Harte___Mr. Jack Hamlin's Mediation and Other Stories.txt
+./Gutenberg/txt/Bret Harte___Mrs. Skaggs's Husbands and Other Stories.txt
+./Gutenberg/txt/Bret Harte___New Burlesques.txt
+./Gutenberg/txt/Bret Harte___On the Frontier.txt
+./Gutenberg/txt/Bret Harte___Openings in the Old Trail.txt
+./Gutenberg/txt/Bret Harte___Sally Dows and Other Stories.txt
+./Gutenberg/txt/Bret Harte___Salomy Jane.txt
+./Gutenberg/txt/Bret Harte___Selected Stories.txt
+./Gutenberg/txt/Bret Harte___Snow-Bound at Eagle's.txt
+./Gutenberg/txt/Bret Harte___Stories in Light and Shadow.txt
+./Gutenberg/txt/Bret Harte___Susy, A Story of the Plains.txt
+./Gutenberg/txt/Bret Harte___Tales of Trail and Town.txt
+./Gutenberg/txt/Bret Harte___Tales of the Argonauts.txt
+./Gutenberg/txt/Bret Harte___Tennessee's Partner.txt
+./Gutenberg/txt/Bret Harte___Thankful Blossom.txt
+./Gutenberg/txt/Bret Harte___The Argonauts of North Liberty.txt
+./Gutenberg/txt/Bret Harte___The Bell-Ringer of Angel's and Other Stories.txt
+./Gutenberg/txt/Bret Harte___The Crusade of the Excelsior.txt
+./Gutenberg/txt/Bret Harte___The Heritage of Dedlow Marsh and Other Tales.txt
+./Gutenberg/txt/Bret Harte___The Luck of Roaring Camp and Other Tales.txt
+./Gutenberg/txt/Bret Harte___The Queen of the Pirate Isle.txt
+./Gutenberg/txt/Bret Harte___The Story of a Mine.txt
+./Gutenberg/txt/Bret Harte___The Three Partners.txt
+./Gutenberg/txt/Bret Harte___The Twins of Table Mountain and Other Stories.txt
+./Gutenberg/txt/Bret Harte___Trent's Trust and Other Stories.txt
+./Gutenberg/txt/Bret Harte___Two Men of Sandy Bar.txt
+./Gutenberg/txt/Bret Harte___Under the Redwoods.txt
+./Gutenberg/txt/Bret Harte___Urban Sketches.txt
+./Gutenberg/txt/Charles Darwin___A Monograph on the Sub-class Cirripedia (Volume 1 of 2).txt
+./Gutenberg/txt/Charles Darwin___A Naturalist's Voyage Round the World.txt
+./Gutenberg/txt/Charles Darwin___Coral Reefs.txt
+./Gutenberg/txt/Charles Darwin___Geological Observations On South America.txt
+./Gutenberg/txt/Charles Darwin___Insectivorous Plants.txt
+./Gutenberg/txt/Charles Darwin___On the Origin of Species 1st Edition.txt
+./Gutenberg/txt/Charles Darwin___On the Origin of Species 6th Edition.txt
+./Gutenberg/txt/Charles Darwin___On the Origin of Species by Means of Natural Selection or the Preservation of Favoured Races in the Struggle for Life. (2nd edition).txt
+./Gutenberg/txt/Charles Darwin___The Autobiography of Charles Darwin.txt
+./Gutenberg/txt/Charles Darwin___The Descent of Man and Selection in Relation to Sex Volume I (1st edition).txt
+./Gutenberg/txt/Charles Darwin___The Descent of Man and Selection in Relation to Sex Volume II (1st Edition).txt
+./Gutenberg/txt/Charles Darwin___The Descent of Man and Selection in Relation to Sex.txt
+./Gutenberg/txt/Charles Darwin___The Different Forms of Flowers on Plants of the Same Species.txt
+./Gutenberg/txt/Charles Darwin___The Effects of Cross & Self-Fertilisation in the Vegetable Kingdom.txt
+./Gutenberg/txt/Charles Darwin___The Expression of Emotion in Man and Animals.txt
+./Gutenberg/txt/Charles Darwin___The Formation of Vegetable Mould through the action of worms with observations of their habits.txt
+./Gutenberg/txt/Charles Darwin___The Movements and Habits of Climbing Plants.txt
+./Gutenberg/txt/Charles Darwin___The Variation of Animals and Plants under Domestication Volume I.txt
+./Gutenberg/txt/Charles Darwin___The Variation of Animals and Plants under Domestication Volume II.txt
+./Gutenberg/txt/Charles Darwin___Volcanic Islands.txt
+./Gutenberg/txt/Charles Dickens___A Child's History of England.txt
+./Gutenberg/txt/Charles Dickens___A Christmas Carol.txt
+./Gutenberg/txt/Charles Dickens___A Message from the Sea.txt
+./Gutenberg/txt/Charles Dickens___A Tale of Two Cities.txt
+./Gutenberg/txt/Charles Dickens___American Notes for General Circulation.txt
+./Gutenberg/txt/Charles Dickens___Barnaby Rudge.txt
+./Gutenberg/txt/Charles Dickens___Bleak House.txt
+./Gutenberg/txt/Charles Dickens___Captain Boldheart & the Latin-Grammar Master.txt
+./Gutenberg/txt/Charles Dickens___Charles Dickens' Children Stories.txt
+./Gutenberg/txt/Charles Dickens___David Copperfield.txt
+./Gutenberg/txt/Charles Dickens___Doctor Marigold.txt
+./Gutenberg/txt/Charles Dickens___Dombey and Son.txt
+./Gutenberg/txt/Charles Dickens___George Silverman's Explanation.txt
+./Gutenberg/txt/Charles Dickens___Going into Society.txt
+./Gutenberg/txt/Charles Dickens___Great Expectations.txt
+./Gutenberg/txt/Charles Dickens___Hard Times.txt
+./Gutenberg/txt/Charles Dickens___Holiday Romance.txt
+./Gutenberg/txt/Charles Dickens___Hunted Down.txt
+./Gutenberg/txt/Charles Dickens___Life And Adventures Of Martin Chuzzlewit.txt
+./Gutenberg/txt/Charles Dickens___Little Dorrit.txt
+./Gutenberg/txt/Charles Dickens___Master Humphrey's Clock.txt
+./Gutenberg/txt/Charles Dickens___Miscellaneous Papers.txt
+./Gutenberg/txt/Charles Dickens___Mrs. Lirriper's Legacy.txt
+./Gutenberg/txt/Charles Dickens___Mrs. Lirriper's Lodgings.txt
+./Gutenberg/txt/Charles Dickens___Mudfog and Other Sketches.txt
+./Gutenberg/txt/Charles Dickens___Mugby Junction.txt
+./Gutenberg/txt/Charles Dickens___Nicholas Nickleby.txt
+./Gutenberg/txt/Charles Dickens___Oliver Twist.txt
+./Gutenberg/txt/Charles Dickens___Our Mutual Friend.txt
+./Gutenberg/txt/Charles Dickens___Pictures from Italy.txt
+./Gutenberg/txt/Charles Dickens___Reprinted Pieces.txt
+./Gutenberg/txt/Charles Dickens___Sketches by Boz.txt
+./Gutenberg/txt/Charles Dickens___Sketches of Young Couples.txt
+./Gutenberg/txt/Charles Dickens___Sketches of Young Gentlemen.txt
+./Gutenberg/txt/Charles Dickens___Some Christmas Stories.txt
+./Gutenberg/txt/Charles Dickens___Somebody's Luggage.txt
+./Gutenberg/txt/Charles Dickens___Speeches: Literary and Social.txt
+./Gutenberg/txt/Charles Dickens___Sunday Under Three Heads.txt
+./Gutenberg/txt/Charles Dickens___The Battle of Life.txt
+./Gutenberg/txt/Charles Dickens___The Chimes.txt
+./Gutenberg/txt/Charles Dickens___The Cricket on the Hearth.txt
+./Gutenberg/txt/Charles Dickens___The Haunted Man and the Ghost's Bargin.txt
+./Gutenberg/txt/Charles Dickens___The Holly-Tree.txt
+./Gutenberg/txt/Charles Dickens___The Lamplighter.txt
+./Gutenberg/txt/Charles Dickens___The Lazy Tour of Two Idle Apprentices.txt
+./Gutenberg/txt/Charles Dickens___The Letters of Charles Dickens Volume 1.txt
+./Gutenberg/txt/Charles Dickens___The Letters of Charles Dickens Volume 2.txt
+./Gutenberg/txt/Charles Dickens___The Letters of Charles Dickens Volume 3.txt
+./Gutenberg/txt/Charles Dickens___The Magic Fishbone.txt
+./Gutenberg/txt/Charles Dickens___The Mystery of Edwin Drood.txt
+./Gutenberg/txt/Charles Dickens___The Old Curiosity Shop.txt
+./Gutenberg/txt/Charles Dickens___The Perils of Certain English Prisoners.txt
+./Gutenberg/txt/Charles Dickens___The Pickwick Papers.txt
+./Gutenberg/txt/Charles Dickens___The Poems and Verses of Charles Dickens.txt
+./Gutenberg/txt/Charles Dickens___The Seven Poor Travellers.txt
+./Gutenberg/txt/Charles Dickens___The Trial of William Tinkling.txt
+./Gutenberg/txt/Charles Dickens___The Uncommercial Traveller.txt
+./Gutenberg/txt/Charles Dickens___The Wreck of the Golden Mary.txt
+./Gutenberg/txt/Charles Dickens___Three Ghost Stories.txt
+./Gutenberg/txt/Charles Dickens___To be Read at Dusk.txt
+./Gutenberg/txt/Charles Dickens___Tom Tiddler's Ground.txt
+./Gutenberg/txt/Charles Kingsley___Alexandria and her Schools.txt
+./Gutenberg/txt/Charles Kingsley___All Saints' Day and Other Sermons.txt
+./Gutenberg/txt/Charles Kingsley___Andromeda and Other Poems.txt
+./Gutenberg/txt/Charles Kingsley___At Last.txt
+./Gutenberg/txt/Charles Kingsley___Daily Thoughts.txt
+./Gutenberg/txt/Charles Kingsley___David.txt
+./Gutenberg/txt/Charles Kingsley___Discipline and Other Sermons.txt
+./Gutenberg/txt/Charles Kingsley___Froude's History of England.txt
+./Gutenberg/txt/Charles Kingsley___Glaucus; or The Wonders of the Shore.txt
+./Gutenberg/txt/Charles Kingsley___Health and Education.txt
+./Gutenberg/txt/Charles Kingsley___Hereward, The Last of the English.txt
+./Gutenberg/txt/Charles Kingsley___Historical Lectures and Essays.txt
+./Gutenberg/txt/Charles Kingsley___Hypatia.txt
+./Gutenberg/txt/Charles Kingsley___Lectures Delivered in America in 1874.txt
+./Gutenberg/txt/Charles Kingsley___Literary and General Lectures and Essays.txt
+./Gutenberg/txt/Charles Kingsley___Madam How and Lady Why.txt
+./Gutenberg/txt/Charles Kingsley___Out of the Deep.txt
+./Gutenberg/txt/Charles Kingsley___Phaethon.txt
+./Gutenberg/txt/Charles Kingsley___Plays and Puritans.txt
+./Gutenberg/txt/Charles Kingsley___Prose Idylls.txt
+./Gutenberg/txt/Charles Kingsley___Sanitary and Social Lectures and Essays.txt
+./Gutenberg/txt/Charles Kingsley___Scientific Essays and Lectures.txt
+./Gutenberg/txt/Charles Kingsley___Sermons for the Times.txt
+./Gutenberg/txt/Charles Kingsley___Sermons on National Subjects.txt
+./Gutenberg/txt/Charles Kingsley___Sir Walter Raleigh and his Time.txt
+./Gutenberg/txt/Charles Kingsley___The Ancien Regime.txt
+./Gutenberg/txt/Charles Kingsley___The Good News of God.txt
+./Gutenberg/txt/Charles Kingsley___The Gospel of the Pentateuch.txt
+./Gutenberg/txt/Charles Kingsley___The Hermits.txt
+./Gutenberg/txt/Charles Kingsley___The Heroes.txt
+./Gutenberg/txt/Charles Kingsley___The Roman and the Teuton.txt
+./Gutenberg/txt/Charles Kingsley___The Saint's Tragedy.txt
+./Gutenberg/txt/Charles Kingsley___The Water of Life and Other Sermons.txt
+./Gutenberg/txt/Charles Kingsley___The Water-Babies.txt
+./Gutenberg/txt/Charles Kingsley___Town Geology.txt
+./Gutenberg/txt/Charles Kingsley___Town and Country Sermons.txt
+./Gutenberg/txt/Charles Kingsley___True Words for Brave Men.txt
+./Gutenberg/txt/Charles Kingsley___Twenty-Five Village Sermons.txt
+./Gutenberg/txt/Charles Kingsley___Two Years Ago, Volume I.txt
+./Gutenberg/txt/Charles Kingsley___Two Years Ago, Volume II.txt
+./Gutenberg/txt/Charles Kingsley___Westminster Sermons.txt
+./Gutenberg/txt/Charles Kingsley___Westward Ho!.txt
+./Gutenberg/txt/Charles Kingsley___Women and Politics.txt
+./Gutenberg/txt/Charles Kingsley___Yeast: A Problem.txt
+./Gutenberg/txt/Charlotte Bronte___Jane Eyre.txt
+./Gutenberg/txt/Charlotte Bronte___Shirley.txt
+./Gutenberg/txt/Charlotte Bronte___The Professor.txt
+./Gutenberg/txt/Charlotte Bronte___Villette.txt
+./Gutenberg/txt/Charlotte Mary Yonge___A Book of Golden Deeds.txt
+./Gutenberg/txt/Charlotte Mary Yonge___A Modern Telemachus.txt
+./Gutenberg/txt/Charlotte Mary Yonge___A Reputed Changeling.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Abbeychurch.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Aunt Charlotte's Stories of Greek History.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Beechcroft at Rockstone.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Cameos from English History, from Rollo to Edward II.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Chantry House.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Countess Kate.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Dynevor Terrace (Vol. I).txt
+./Gutenberg/txt/Charlotte Mary Yonge___Dynevor Terrace (Vol. II).txt
+./Gutenberg/txt/Charlotte Mary Yonge___Friarswood Post-Office.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Grisly Grisell.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Heartsease.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Henrietta's Wish.txt
+./Gutenberg/txt/Charlotte Mary Yonge___History of France.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Hopes and Fears.txt
+./Gutenberg/txt/Charlotte Mary Yonge___John Keble's Parishes.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Lady Hester, or Ursula's Narrative.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Life of John Coleridge Patteson.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Little Lucy's Wonderful Globe.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Love and Life.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Magnum Bonum.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Modern Broods.txt
+./Gutenberg/txt/Charlotte Mary Yonge___More Bywords.txt
+./Gutenberg/txt/Charlotte Mary Yonge___My Young Alcides.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Nuttie's Father.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Old Times at Otterbourne.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Pioneers and Founders.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Scenes and Characters.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Sowing and Sewing.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Stray Pearls.txt
+./Gutenberg/txt/Charlotte Mary Yonge___That Stick.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Armourer's Prentices.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Caged Lion.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Carbonels.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Chaplet of Pearls.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Chosen People.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Clever Woman of the Family.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Daisy Chain.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Dove in the Eagle's Nest.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Heir of Redclyffe.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Herd Boy and His Hermit.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Lances of Lynwood.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Little Duke.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Long Vacation.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Pigeon Pie.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Pillars of the House, V1.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Prince and the Page.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Stokesley Secret.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Three Brides.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Trial.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Two Guardians.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Two Sides of the Shield.txt
+./Gutenberg/txt/Charlotte Mary Yonge___The Young Step-Mother.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Two Penniless Princesses.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Under the Storm.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Unknown to History.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Young Folks' History of England.txt
+./Gutenberg/txt/Charlotte Mary Yonge___Young Folks' History of Rome.txt
+./Gutenberg/txt/D H Lawrence___Aaron's Rod.txt
+./Gutenberg/txt/D H Lawrence___Amores.txt
+./Gutenberg/txt/D H Lawrence___Bay.txt
+./Gutenberg/txt/D H Lawrence___England, My England.txt
+./Gutenberg/txt/D H Lawrence___Fantasia of the Unconscious.txt
+./Gutenberg/txt/D H Lawrence___Look! We Have Come Through!.txt
+./Gutenberg/txt/D H Lawrence___New Poems.txt
+./Gutenberg/txt/D H Lawrence___Sea and Sardinia.txt
+./Gutenberg/txt/D H Lawrence___Sons and Lovers.txt
+./Gutenberg/txt/D H Lawrence___The Lost Girl.txt
+./Gutenberg/txt/D H Lawrence___The Prussian Officer.txt
+./Gutenberg/txt/D H Lawrence___The Rainbow.txt
+./Gutenberg/txt/D H Lawrence___The Trespasser.txt
+./Gutenberg/txt/D H Lawrence___The White Peacock.txt
+./Gutenberg/txt/D H Lawrence___Tortoises.txt
+./Gutenberg/txt/D H Lawrence___Touch and Go.txt
+./Gutenberg/txt/D H Lawrence___Twilight in Italy.txt
+./Gutenberg/txt/D H Lawrence___Wintry Peacock.txt
+./Gutenberg/txt/D H Lawrence___Women in Love.txt
+./Gutenberg/txt/Daniel Defoe___A Journal of the Plague Year.txt
+./Gutenberg/txt/Daniel Defoe___A New Voyage Round the World by a Course Never Sailed Before.txt
+./Gutenberg/txt/Daniel Defoe___A Seasonable Warning and Caution against the Insinuations of Papists and Jacobites.txt
+./Gutenberg/txt/Daniel Defoe___A Short Narrative of the Life and Actions of His Grace John, D. of Marlborogh.txt
+./Gutenberg/txt/Daniel Defoe___A True Relation of the Apparition of one Mrs. Veal.txt
+./Gutenberg/txt/Daniel Defoe___A Vindication of the Press.txt
+./Gutenberg/txt/Daniel Defoe___An Answer to a Question that Nobody thinks of, viz., But what if the Queen should Die?.txt
+./Gutenberg/txt/Daniel Defoe___An Appeal to Honour and Justice, Though It Be of His Worst Enemies.txt
+./Gutenberg/txt/Daniel Defoe___An Essay Upon Projects.txt
+./Gutenberg/txt/Daniel Defoe___An Humble Proposal to the People of England.txt
+./Gutenberg/txt/Daniel Defoe___And What if the Pretender should Come?.txt
+./Gutenberg/txt/Daniel Defoe___Atalantis Major.txt
+./Gutenberg/txt/Daniel Defoe___Augusta Triumphans.txt
+./Gutenberg/txt/Daniel Defoe___Dickory Cronke.txt
+./Gutenberg/txt/Daniel Defoe___Everybody's Business is Nobody's Business.txt
+./Gutenberg/txt/Daniel Defoe___From London to Land's End.txt
+./Gutenberg/txt/Daniel Defoe___History of the Plague in London.txt
+./Gutenberg/txt/Daniel Defoe___Memoirs of Major Alexander Ramkins (1718).txt
+./Gutenberg/txt/Daniel Defoe___Memoirs of a Cavalier.txt
+./Gutenberg/txt/Daniel Defoe___Military Memoirs of Capt. George Carleton.txt
+./Gutenberg/txt/Daniel Defoe___Of Captain Mission.txt
+./Gutenberg/txt/Daniel Defoe___Reasons against the Succession of the House of Hanover.txt
+./Gutenberg/txt/Daniel Defoe___Second Thoughts are Best.txt
+./Gutenberg/txt/Daniel Defoe___The Complete English Tradesman (1839 ed.).txt
+./Gutenberg/txt/Daniel Defoe___The Consolidator.txt
+./Gutenberg/txt/Daniel Defoe___The Fortunate Mistress (Parts 1 and 2).txt
+./Gutenberg/txt/Daniel Defoe___The Fortunes and Misfortunes of the Famous Moll Flanders.txt
+./Gutenberg/txt/Daniel Defoe___The Further Adventures of Robinson Crusoe.txt
+./Gutenberg/txt/Daniel Defoe___The History of the Devil.txt
+./Gutenberg/txt/Daniel Defoe___The History of the Life and Adventures of Mr. Duncan Campbell.txt
+./Gutenberg/txt/Daniel Defoe___The History of the Remarkable Life of John Sheppard.txt
+./Gutenberg/txt/Daniel Defoe___The King of Pirates.txt
+./Gutenberg/txt/Daniel Defoe___The Lay-Man's Sermon upon the Late Storm.txt
+./Gutenberg/txt/Daniel Defoe___The Life and Adventures of Robinson Crusoe (1808).txt
+./Gutenberg/txt/Daniel Defoe___The Life and Adventures of Robinson Crusoe Of York, Mariner, Vol. 1.txt
+./Gutenberg/txt/Daniel Defoe___The Life and Adventures of Robinson Crusoe.txt
+./Gutenberg/txt/Daniel Defoe___The Life and Most Surprising Adventures of Robinson Crusoe.txt
+./Gutenberg/txt/Daniel Defoe___The Life, Adventures & Piracies of the Famous Captain Singleton.txt
+./Gutenberg/txt/Daniel Defoe___The True-Born Englishman.txt
+./Gutenberg/txt/Daniel Defoe___Tour through the Eastern Counties of England, 1722.txt
+./Gutenberg/txt/Edgar Allan Poe___Edgar Allan Poe's Complete Poetical Works.txt
+./Gutenberg/txt/Edgar Allan Poe___Eureka.txt
+./Gutenberg/txt/Edgar Allan Poe___The Cask of Amontillado.txt
+./Gutenberg/txt/Edgar Allan Poe___The Fall of the House of Usher.txt
+./Gutenberg/txt/Edgar Allan Poe___The Masque of the Red Death.txt
+./Gutenberg/txt/Edgar Allan Poe___The Raven.txt
+./Gutenberg/txt/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 1.txt
+./Gutenberg/txt/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 2.txt
+./Gutenberg/txt/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 3.txt
+./Gutenberg/txt/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 4.txt
+./Gutenberg/txt/Edgar Allan Poe___The Works of Edgar Allan Poe Volume 5.txt
+./Gutenberg/txt/Edgar Rice Burroughs___A Princess of Mars.txt
+./Gutenberg/txt/Edgar Rice Burroughs___At the Earth's Core.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Jungle Tales of Tarzan.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Out of Time's Abyss.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Pellucidar.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Tarzan and the Jewels of Opar.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Tarzan of the Apes.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Tarzan the Terrible.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Tarzan the Untamed.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Beasts of Tarzan.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Chessmen of Mars.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Efficiency Expert.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Gods of Mars.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Land That Time Forgot.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Lost Continent.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Mad King.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Monster Men.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Mucker.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Oakdale Affair.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Outlaw of Torn.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The People that Time Forgot.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Return of Tarzan.txt
+./Gutenberg/txt/Edgar Rice Burroughs___The Son of Tarzan.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Thuvia, Maid of Mars.txt
+./Gutenberg/txt/Edgar Rice Burroughs___Warlord of Mars.txt
+./Gutenberg/txt/Edmund Burke___Burke's Speech on Conciliation with America.txt
+./Gutenberg/txt/Edmund Burke___Selections from the Speeches and Writings of Edmund Burke.txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 01 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 02 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 03 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 04 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 05 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 06 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 07 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 08 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 09 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 10 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 11 (of 12).txt
+./Gutenberg/txt/Edmund Burke___The Works of the Right Honourable Edmund Burke, Vol. 12 (of 12).txt
+./Gutenberg/txt/Edmund Burke___Thoughts on the Present Discontents.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___A Lost Leader.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___A Maker of History.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___A Millionaire of Yesterday.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___A Monk of Cruta.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___A People's Man.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___A Prince of Sinners.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___An Amiable Charlatan.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Anna the Adventuress.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Berenice.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Havoc.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Jacob's Ladder.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Jeanne of the Marshes.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Mr. Grex of Monte Carlo.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Mr. Marx's Secret.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Mysterious Mr. Sabin.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Nobody's Man.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___Peter Ruff and the Double Four.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Avenger.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Betrayal.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Black Box.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Box with the Broken Seals.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Cinema Murder.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Devil's Paw.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Double Four.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Double Life Of Mr. Alfred Burton.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Double Traitor.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Evil Shepherd.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Golden Web.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Governors.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Great Impersonation.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Great Prince Shan.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Great Secret.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Hillman.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Illustrious Prince.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Kingdom of the Blind.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Lighted Way.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Lost Ambassador.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Malefactor.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Master Mummer.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Mischief Maker.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Missioner.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Moving Finger.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The New Tenant.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Pawns Count.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Profiteers.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Survivor.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Tempting of Tavernake.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Traitors.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Vanished Messenger.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Wicked Marquis.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Yellow Crayon.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___The Zeppelin's Passenger.txt
+./Gutenberg/txt/Edward Phillips Oppenheim___To Win the Love He Sought.txt
+./Gutenberg/txt/Edward Stratemeyer___American Boy's Life of Theodore Roosevelt.txt
+./Gutenberg/txt/Edward Stratemeyer___At the Fall of Port Arthur.txt
+./Gutenberg/txt/Edward Stratemeyer___Boys of The Fort.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter At Bear Camp.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter and His Double.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter and His Rivals.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter and the Runaways.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter at Star Ranch.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter in the Far North.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter in the Gold Fields.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter in the South Seas.txt
+./Gutenberg/txt/Edward Stratemeyer___Dave Porter on Cave Island.txt
+./Gutenberg/txt/Edward Stratemeyer___Fighting in Cuban Waters.txt
+./Gutenberg/txt/Edward Stratemeyer___First at the North Pole.txt
+./Gutenberg/txt/Edward Stratemeyer___For the Liberty of Texas.txt
+./Gutenberg/txt/Edward Stratemeyer___Four Boy Hunters.txt
+./Gutenberg/txt/Edward Stratemeyer___Guns And Snowshoes.txt
+./Gutenberg/txt/Edward Stratemeyer___Leo the Circus Boy.txt
+./Gutenberg/txt/Edward Stratemeyer___Marching on Niagara.txt
+./Gutenberg/txt/Edward Stratemeyer___On the Trail of Pontiac.txt
+./Gutenberg/txt/Edward Stratemeyer___Out with Gun and Camera.txt
+./Gutenberg/txt/Edward Stratemeyer___Richard Dare's Venture.txt
+./Gutenberg/txt/Edward Stratemeyer___The Boy Land Boomer.txt
+./Gutenberg/txt/Edward Stratemeyer___The Campaign of the Jungle.txt
+./Gutenberg/txt/Edward Stratemeyer___The Last Cruise of the Spitfire.txt
+./Gutenberg/txt/Edward Stratemeyer___The Missing Tin Box.txt
+./Gutenberg/txt/Edward Stratemeyer___The Mystery at Putnam Hall.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys In The Mountains.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys at Big Horn Ranch.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys at Colby Hall.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys at College.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys at School.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in Alaska.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in Business.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in Camp.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in New York.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in Southern Waters.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in the Air.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in the Jungle.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys in the Land of Luck.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on Land and Sea.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on Snowshoe Island.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on Treasure Isle.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on a Hunt.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on a Tour.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on the Farm.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on the Great Lakes.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on the Ocean.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on the Plains.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys on the River.txt
+./Gutenberg/txt/Edward Stratemeyer___The Rover Boys out West.txt
+./Gutenberg/txt/Edward Stratemeyer___The Young Bridge-Tender.txt
+./Gutenberg/txt/Edward Stratemeyer___The Young Oarsmen of Lakeview.txt
+./Gutenberg/txt/Edward Stratemeyer___Three Young Ranchmen.txt
+./Gutenberg/txt/Edward Stratemeyer___To Alaska for Gold.txt
+./Gutenberg/txt/Edward Stratemeyer___True to Himself.txt
+./Gutenberg/txt/Edward Stratemeyer___Young Auctioneers.txt
+./Gutenberg/txt/Edward Stratemeyer___Young Hunters of the Lake.txt
+./Gutenberg/txt/Elizabeth Barrett Browning___'He Giveth His Beloved Sleep'.txt
+./Gutenberg/txt/Elizabeth Barrett Browning___Sonnets from the Portuguese.txt
+./Gutenberg/txt/Elizabeth Barrett Browning___The Letters of Elizabeth Barrett Browning (1 of 2).txt
+./Gutenberg/txt/Elizabeth Barrett Browning___The Letters of Elizabeth Barrett Browning (2 of 2).txt
+./Gutenberg/txt/Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume I.txt
+./Gutenberg/txt/Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume II.txt
+./Gutenberg/txt/Elizabeth Barrett Browning___The Poetical Works of Elizabeth Barrett Browning Volume IV.txt
+./Gutenberg/txt/Emily Bronte___Wuthering Heights.txt
+./Gutenberg/txt/Eugene O_Neill___Anna Christie.txt
+./Gutenberg/txt/Eugene O_Neill___The First Man.txt
+./Gutenberg/txt/Eugene O_Neill___The Hairy Ape.txt
+./Gutenberg/txt/Eugene O_Neill___The Straw.txt
+./Gutenberg/txt/Ezra Pound___Certain Noble Plays of Japan.txt
+./Gutenberg/txt/Ezra Pound___Hugh Selwyn Mauberley.txt
+./Gutenberg/txt/Frank Richard Stockton___A Bicycle of Cathay.txt
+./Gutenberg/txt/Frank Richard Stockton___A Chosen Few.txt
+./Gutenberg/txt/Frank Richard Stockton___A Jolly Fellowship.txt
+./Gutenberg/txt/Frank Richard Stockton___Amos Kilbright; His Adscititious Experiences.txt
+./Gutenberg/txt/Frank Richard Stockton___Buccaneers and Pirates of Our Coasts.txt
+./Gutenberg/txt/Frank Richard Stockton___John Gayther's Garden and the Stories Told Therein.txt
+./Gutenberg/txt/Frank Richard Stockton___Kate Bonnet.txt
+./Gutenberg/txt/Frank Richard Stockton___Mrs. Cliff's Yacht.txt
+./Gutenberg/txt/Frank Richard Stockton___My Terminal Moraine.txt
+./Gutenberg/txt/Frank Richard Stockton___Pomona's Travels.txt
+./Gutenberg/txt/Frank Richard Stockton___Round-about Rambles in Lands of Fact and Fancy.txt
+./Gutenberg/txt/Frank Richard Stockton___Rudder Grange.txt
+./Gutenberg/txt/Frank Richard Stockton___Stories of New Jersey.txt
+./Gutenberg/txt/Frank Richard Stockton___The Adventures of Captain Horn.txt
+./Gutenberg/txt/Frank Richard Stockton___The Associate Hermits.txt
+./Gutenberg/txt/Frank Richard Stockton___The Bee-Man of Orn and Other Fanciful Tales.txt
+./Gutenberg/txt/Frank Richard Stockton___The Captain's Toll-Gate.txt
+./Gutenberg/txt/Frank Richard Stockton___The Casting Away of Mrs. Lecks and Mrs. Aleshine.txt
+./Gutenberg/txt/Frank Richard Stockton___The Dusantes.txt
+./Gutenberg/txt/Frank Richard Stockton___The Girl at Cobhurst.txt
+./Gutenberg/txt/Frank Richard Stockton___The Great Stone of Sardis.txt
+./Gutenberg/txt/Frank Richard Stockton___The Great War Syndicate.txt
+./Gutenberg/txt/Frank Richard Stockton___The House of Martha.txt
+./Gutenberg/txt/Frank Richard Stockton___The Lady, or the Tiger?.txt
+./Gutenberg/txt/Frank Richard Stockton___The Late Mrs. Null.txt
+./Gutenberg/txt/Frank Richard Stockton___The Magic Egg and Other Stories.txt
+./Gutenberg/txt/Frank Richard Stockton___The Rudder Grangers Abroad and Other Stories.txt
+./Gutenberg/txt/Frank Richard Stockton___The Squirrel Inn.txt
+./Gutenberg/txt/Frank Richard Stockton___The Stories of the Three Burglars.txt
+./Gutenberg/txt/Frank Richard Stockton___The Vizier of the Two-Horned Alexander.txt
+./Gutenberg/txt/Frank Richard Stockton___Ting-a-ling.txt
+./Gutenberg/txt/Frank Richard Stockton___What Might Have Been Expected.txt
+./Gutenberg/txt/G K Chesterton___A Miscellany of Men.txt
+./Gutenberg/txt/G K Chesterton___A Short History of England.txt
+./Gutenberg/txt/G K Chesterton___Alarms and Discursions.txt
+./Gutenberg/txt/G K Chesterton___All Things Considered.txt
+./Gutenberg/txt/G K Chesterton___Appreciations and Criticisms of the Works of Charles Dickens.txt
+./Gutenberg/txt/G K Chesterton___Eugenics and Other Evils.txt
+./Gutenberg/txt/G K Chesterton___George Bernard Shaw.txt
+./Gutenberg/txt/G K Chesterton___Greybeards at Play.txt
+./Gutenberg/txt/G K Chesterton___Heretics.txt
+./Gutenberg/txt/G K Chesterton___Lord Kitchener.txt
+./Gutenberg/txt/G K Chesterton___Magic.txt
+./Gutenberg/txt/G K Chesterton___Manalive.txt
+./Gutenberg/txt/G K Chesterton___Orthodoxy.txt
+./Gutenberg/txt/G K Chesterton___Poems.txt
+./Gutenberg/txt/G K Chesterton___Robert Browning.txt
+./Gutenberg/txt/G K Chesterton___The Appetite of Tyranny.txt
+./Gutenberg/txt/G K Chesterton___The Ball and The Cross.txt
+./Gutenberg/txt/G K Chesterton___The Ballad of St. Barbara.txt
+./Gutenberg/txt/G K Chesterton___The Ballad of the White Horse.txt
+./Gutenberg/txt/G K Chesterton___The Barbarism of Berlin.txt
+./Gutenberg/txt/G K Chesterton___The Club of Queer Trades.txt
+./Gutenberg/txt/G K Chesterton___The Crimes of England.txt
+./Gutenberg/txt/G K Chesterton___The Defendant.txt
+./Gutenberg/txt/G K Chesterton___The Innocence of Father Brown.txt
+./Gutenberg/txt/G K Chesterton___The Man Who Knew Too Much.txt
+./Gutenberg/txt/G K Chesterton___The Man Who Was Thursday.txt
+./Gutenberg/txt/G K Chesterton___The Napoleon of Notting Hill.txt
+./Gutenberg/txt/G K Chesterton___The New Jerusalem.txt
+./Gutenberg/txt/G K Chesterton___The Trees of Pride.txt
+./Gutenberg/txt/G K Chesterton___The Victorian Age in Literature.txt
+./Gutenberg/txt/G K Chesterton___The Wild Knight and Other Poems.txt
+./Gutenberg/txt/G K Chesterton___The Wisdom of Father Brown.txt
+./Gutenberg/txt/G K Chesterton___Tremendous Trifles.txt
+./Gutenberg/txt/G K Chesterton___Twelve Types.txt
+./Gutenberg/txt/G K Chesterton___Utopia of Usurers and other Essays.txt
+./Gutenberg/txt/G K Chesterton___Varied Types.txt
+./Gutenberg/txt/G K Chesterton___What I Saw in America.txt
+./Gutenberg/txt/G K Chesterton___What's Wrong With The World.txt
+./Gutenberg/txt/G K Chesterton___Wine, Water, and Song.txt
+./Gutenberg/txt/George Alfred Henty___A Chapter of Adventures.txt
+./Gutenberg/txt/George Alfred Henty___A Final Reckoning.txt
+./Gutenberg/txt/George Alfred Henty___A Girl of the Commune.txt
+./Gutenberg/txt/George Alfred Henty___A Jacobite Exile.txt
+./Gutenberg/txt/George Alfred Henty___A Knight of the White Cross.txt
+./Gutenberg/txt/George Alfred Henty___A March on London.txt
+./Gutenberg/txt/George Alfred Henty___A Roving Commission.txt
+./Gutenberg/txt/George Alfred Henty___A Search For A Secret, a Novel, Volume 1.txt
+./Gutenberg/txt/George Alfred Henty___A Search For A Secret, a Novel, Volume 2.txt
+./Gutenberg/txt/George Alfred Henty___A Search For A Secret, a Novel, Volume 3.txt
+./Gutenberg/txt/George Alfred Henty___Among Malay Pirates.txt
+./Gutenberg/txt/George Alfred Henty___At Aboukir and Acre.txt
+./Gutenberg/txt/George Alfred Henty___At Agincourt.txt
+./Gutenberg/txt/George Alfred Henty___At the Point of the Bayonet.txt
+./Gutenberg/txt/George Alfred Henty___Beric the Briton.txt
+./Gutenberg/txt/George Alfred Henty___Bonnie Prince Charlie.txt
+./Gutenberg/txt/George Alfred Henty___Both Sides the Border.txt
+./Gutenberg/txt/George Alfred Henty___By Conduct and Courage.txt
+./Gutenberg/txt/George Alfred Henty___By England's Aid or The Freeing of the Netherlands (1585-1604).txt
+./Gutenberg/txt/George Alfred Henty___By Pike and Dyke:  A Tale of the Rise of the Dutch Republic.txt
+./Gutenberg/txt/George Alfred Henty___By Right of Conquest.txt
+./Gutenberg/txt/George Alfred Henty___By Sheer Pluck.txt
+./Gutenberg/txt/George Alfred Henty___Captain Bayley's Heir.txt
+./Gutenberg/txt/George Alfred Henty___Colonel Thorndyke's Secret.txt
+./Gutenberg/txt/George Alfred Henty___Condemned as a Nihilist.txt
+./Gutenberg/txt/George Alfred Henty___Dorothy's Double, Volume 1.txt
+./Gutenberg/txt/George Alfred Henty___Dorothy's Double, Volume 2.txt
+./Gutenberg/txt/George Alfred Henty___Dorothy's Double, Volume 3.txt
+./Gutenberg/txt/George Alfred Henty___Facing Death.txt
+./Gutenberg/txt/George Alfred Henty___For Name and Fame.txt
+./Gutenberg/txt/George Alfred Henty___For the Temple.txt
+./Gutenberg/txt/George Alfred Henty___Friends, though divided.txt
+./Gutenberg/txt/George Alfred Henty___Held Fast For England.txt
+./Gutenberg/txt/George Alfred Henty___In Freedom's Cause.txt
+./Gutenberg/txt/George Alfred Henty___In The Heart Of The Rockies.txt
+./Gutenberg/txt/George Alfred Henty___In Times of Peril.txt
+./Gutenberg/txt/George Alfred Henty___In the Hands of the Malays, and Other Stories.txt
+./Gutenberg/txt/George Alfred Henty___In the Irish Brigade.txt
+./Gutenberg/txt/George Alfred Henty___In the Reign of Terror.txt
+./Gutenberg/txt/George Alfred Henty___Jack Archer.txt
+./Gutenberg/txt/George Alfred Henty___Maori and Settler.txt
+./Gutenberg/txt/George Alfred Henty___March to Magdala.txt
+./Gutenberg/txt/George Alfred Henty___No Surrender!.txt
+./Gutenberg/txt/George Alfred Henty___On the Irrawaddy.txt
+./Gutenberg/txt/George Alfred Henty___On the Pampas.txt
+./Gutenberg/txt/George Alfred Henty___One of the 28th.txt
+./Gutenberg/txt/George Alfred Henty___Orange and Green.txt
+./Gutenberg/txt/George Alfred Henty___Out on the Pampas.txt
+./Gutenberg/txt/George Alfred Henty___Rujub, the Juggler.txt
+./Gutenberg/txt/George Alfred Henty___Saint Bartholomew's Eve.txt
+./Gutenberg/txt/George Alfred Henty___Saint George for England.txt
+./Gutenberg/txt/George Alfred Henty___Sturdy and Strong.txt
+./Gutenberg/txt/George Alfred Henty___Tales of Daring and Danger.txt
+./Gutenberg/txt/George Alfred Henty___The Boy Knight.txt
+./Gutenberg/txt/George Alfred Henty___The Bravest of the Brave.txt
+./Gutenberg/txt/George Alfred Henty___The Cat of Bubastes.txt
+./Gutenberg/txt/George Alfred Henty___The Cornet of Horse.txt
+./Gutenberg/txt/George Alfred Henty___The Curse of Carne's Hold.txt
+./Gutenberg/txt/George Alfred Henty___The Dash for Khartoum.txt
+./Gutenberg/txt/George Alfred Henty___The Dragon and the Raven.txt
+./Gutenberg/txt/George Alfred Henty___The Golden Canyon.txt
+./Gutenberg/txt/George Alfred Henty___The Lion of Saint Mark.txt
+./Gutenberg/txt/George Alfred Henty___The Lion of the North.txt
+./Gutenberg/txt/George Alfred Henty___The Lost Heir.txt
+./Gutenberg/txt/George Alfred Henty___The Queen's Cup.txt
+./Gutenberg/txt/George Alfred Henty___The Tiger of Mysore.txt
+./Gutenberg/txt/George Alfred Henty___The Treasure of the Incas.txt
+./Gutenberg/txt/George Alfred Henty___The Young Buglers.txt
+./Gutenberg/txt/George Alfred Henty___The Young Carthaginian.txt
+./Gutenberg/txt/George Alfred Henty___The Young Colonists.txt
+./Gutenberg/txt/George Alfred Henty___The Young Franc Tireurs.txt
+./Gutenberg/txt/George Alfred Henty___Through Russian Snows.txt
+./Gutenberg/txt/George Alfred Henty___Through Three Campaigns.txt
+./Gutenberg/txt/George Alfred Henty___Through the Fray.txt
+./Gutenberg/txt/George Alfred Henty___True to the Old Flag.txt
+./Gutenberg/txt/George Alfred Henty___Under Drake's Flag.txt
+./Gutenberg/txt/George Alfred Henty___Under Wellington's Command.txt
+./Gutenberg/txt/George Alfred Henty___When London Burned.txt
+./Gutenberg/txt/George Alfred Henty___Winning His Spurs.txt
+./Gutenberg/txt/George Alfred Henty___With Buller in Natal.txt
+./Gutenberg/txt/George Alfred Henty___With Clive in India.txt
+./Gutenberg/txt/George Alfred Henty___With Cochrane the Dauntless.txt
+./Gutenberg/txt/George Alfred Henty___With Frederick the Great.txt
+./Gutenberg/txt/George Alfred Henty___With Kitchener in the Soudan.txt
+./Gutenberg/txt/George Alfred Henty___With Lee in Virginia.txt
+./Gutenberg/txt/George Alfred Henty___With Moore At Corunna.txt
+./Gutenberg/txt/George Alfred Henty___With Wolfe in Canada.txt
+./Gutenberg/txt/George Alfred Henty___Won by the Sword.txt
+./Gutenberg/txt/George Alfred Henty___Wulf the Saxon.txt
+./Gutenberg/txt/George Bernard Shaw___A Treatise on Parents and Children.txt
+./Gutenberg/txt/George Bernard Shaw___An Unsocial Socialist.txt
+./Gutenberg/txt/George Bernard Shaw___Androcles and the Lion.txt
+./Gutenberg/txt/George Bernard Shaw___Annajanska, the Bolshevik Empress.txt
+./Gutenberg/txt/George Bernard Shaw___Arms and the Man.txt
+./Gutenberg/txt/George Bernard Shaw___Augustus Does His Bit.txt
+./Gutenberg/txt/George Bernard Shaw___Back to Methuselah.txt
+./Gutenberg/txt/George Bernard Shaw___Bernard Shaw's Preface to Major Barbara.txt
+./Gutenberg/txt/George Bernard Shaw___Caesar and Cleopatra.txt
+./Gutenberg/txt/George Bernard Shaw___Candida.txt
+./Gutenberg/txt/George Bernard Shaw___Captain Brassbound's Conversion.txt
+./Gutenberg/txt/George Bernard Shaw___Cashel Byron's Profession.txt
+./Gutenberg/txt/George Bernard Shaw___Dark Lady of the Sonnets.txt
+./Gutenberg/txt/George Bernard Shaw___Fanny's First Play.txt
+./Gutenberg/txt/George Bernard Shaw___Getting Married.txt
+./Gutenberg/txt/George Bernard Shaw___Great Catherine.txt
+./Gutenberg/txt/George Bernard Shaw___Heartbreak House.txt
+./Gutenberg/txt/George Bernard Shaw___How He Lied to Her Husband.txt
+./Gutenberg/txt/George Bernard Shaw___John Bull's Other Island.txt
+./Gutenberg/txt/George Bernard Shaw___Major Barbara.txt
+./Gutenberg/txt/George Bernard Shaw___Man And Superman.txt
+./Gutenberg/txt/George Bernard Shaw___Maxims for Revolutionists.txt
+./Gutenberg/txt/George Bernard Shaw___Misalliance.txt
+./Gutenberg/txt/George Bernard Shaw___Mrs. Warren's Profession.txt
+./Gutenberg/txt/George Bernard Shaw___O'Flaherty V. C.txt
+./Gutenberg/txt/George Bernard Shaw___Overruled.txt
+./Gutenberg/txt/George Bernard Shaw___Preface to Androcles and the Lion.txt
+./Gutenberg/txt/George Bernard Shaw___Press Cuttings.txt
+./Gutenberg/txt/George Bernard Shaw___Pygmalion.txt
+./Gutenberg/txt/George Bernard Shaw___Revolutionist's Handbook and Pocket Companion.txt
+./Gutenberg/txt/George Bernard Shaw___The Admirable Bashville.txt
+./Gutenberg/txt/George Bernard Shaw___The Devil's Disciple.txt
+./Gutenberg/txt/George Bernard Shaw___The Doctor's Dilemma.txt
+./Gutenberg/txt/George Bernard Shaw___The Doctor's Dilemma: Preface on Doctors.txt
+./Gutenberg/txt/George Bernard Shaw___The Inca of Perusalem.txt
+./Gutenberg/txt/George Bernard Shaw___The Irrational Knot.txt
+./Gutenberg/txt/George Bernard Shaw___The Man of Destiny.txt
+./Gutenberg/txt/George Bernard Shaw___The Miraculous Revenge.txt
+./Gutenberg/txt/George Bernard Shaw___The Perfect Wagnerite.txt
+./Gutenberg/txt/George Bernard Shaw___The Philanderer.txt
+./Gutenberg/txt/George Bernard Shaw___The Shewing-up of Blanco Posnet.txt
+./Gutenberg/txt/George Bernard Shaw___You Never Can Tell.txt
+./Gutenberg/txt/George Eliot___Adam Bede.txt
+./Gutenberg/txt/George Eliot___Brother Jacob.txt
+./Gutenberg/txt/George Eliot___Daniel Deronda.txt
+./Gutenberg/txt/George Eliot___How Lisa Loved the King.txt
+./Gutenberg/txt/George Eliot___Impressions of Theophrastus Such.txt
+./Gutenberg/txt/George Eliot___Middlemarch.txt
+./Gutenberg/txt/George Eliot___Romola.txt
+./Gutenberg/txt/George Eliot___Scenes of Clerical Life.txt
+./Gutenberg/txt/George Eliot___Silas Marner.txt
+./Gutenberg/txt/George Eliot___The Essays of George Eliot.txt
+./Gutenberg/txt/George Eliot___The Lifted Veil.txt
+./Gutenberg/txt/George Eliot___The Mill on the Floss.txt
+./Gutenberg/txt/George Eliot___Tom and Maggie Tulliver.txt
+./Gutenberg/txt/George Washington___State of the Union Addresses of George Washington.txt
+./Gutenberg/txt/Grant Allen___An African Millionaire.txt
+./Gutenberg/txt/Grant Allen___Anglo-Saxon Britain.txt
+./Gutenberg/txt/Grant Allen___Biographies of Working Men.txt
+./Gutenberg/txt/Grant Allen___Charles Darwin.txt
+./Gutenberg/txt/Grant Allen___Falling in Love.txt
+./Gutenberg/txt/Grant Allen___Hilda Wade.txt
+./Gutenberg/txt/Grant Allen___Michael's Crag.txt
+./Gutenberg/txt/Grant Allen___Miss Cayley's Adventures.txt
+./Gutenberg/txt/Grant Allen___Philistia.txt
+./Gutenberg/txt/Grant Allen___Post-Prandial Philosophy.txt
+./Gutenberg/txt/Grant Allen___Recalled to Life.txt
+./Gutenberg/txt/Grant Allen___Science in Arcady.txt
+./Gutenberg/txt/Grant Allen___Strange Stories.txt
+./Gutenberg/txt/Grant Allen___The Beckoning Hand and Other Stories.txt
+./Gutenberg/txt/Grant Allen___The British Barbarians.txt
+./Gutenberg/txt/Grant Allen___The Great Taboo.txt
+./Gutenberg/txt/Grant Allen___The White Man's Foot.txt
+./Gutenberg/txt/Grant Allen___The Woman Who Did.txt
+./Gutenberg/txt/Grant Allen___What's Bred In the Bone.txt
+./Gutenberg/txt/Hamlin Garland___A Daughter of the Middle Border.txt
+./Gutenberg/txt/Hamlin Garland___A Little Norsk; Or, Ol' Pap's Flaxen.txt
+./Gutenberg/txt/Hamlin Garland___A Son of the Middle Border.txt
+./Gutenberg/txt/Hamlin Garland___A Spoil of Office.txt
+./Gutenberg/txt/Hamlin Garland___Cavanaugh: Forest Ranger.txt
+./Gutenberg/txt/Hamlin Garland___Main-Travelled Roads.txt
+./Gutenberg/txt/Hamlin Garland___Money Magic.txt
+./Gutenberg/txt/Hamlin Garland___Other Main-Travelled Roads.txt
+./Gutenberg/txt/Hamlin Garland___Prairie Folks.txt
+./Gutenberg/txt/Hamlin Garland___Rose of Dutcher's Coolly.txt
+./Gutenberg/txt/Hamlin Garland___The Captain of the Gray-Horse Troop.txt
+./Gutenberg/txt/Hamlin Garland___The Eagle's Heart.txt
+./Gutenberg/txt/Hamlin Garland___The Forester's Daughter.txt
+./Gutenberg/txt/Hamlin Garland___The Light of the Star.txt
+./Gutenberg/txt/Hamlin Garland___The Moccasin Ranch.txt
+./Gutenberg/txt/Hamlin Garland___The Shadow World.txt
+./Gutenberg/txt/Hamlin Garland___The Spirit of Sweetwater.txt
+./Gutenberg/txt/Hamlin Garland___The Trail of the Goldseekers.txt
+./Gutenberg/txt/Hamlin Garland___The Tyranny of the Dark.txt
+./Gutenberg/txt/Hamlin Garland___They of the High Trails.txt
+./Gutenberg/txt/Hamlin Garland___Victor Ollnee's Discipline.txt
+./Gutenberg/txt/Hamlin Garland___Wayside Courtships.txt
+./Gutenberg/txt/Harold Bindloss___A Damaged Reputation.txt
+./Gutenberg/txt/Harold Bindloss___A Prairie Courtship.txt
+./Gutenberg/txt/Harold Bindloss___Alton of Somasco.txt
+./Gutenberg/txt/Harold Bindloss___Blake's Burden.txt
+./Gutenberg/txt/Harold Bindloss___Brandon of the Engineers.txt
+./Gutenberg/txt/Harold Bindloss___By Right of Purchase.txt
+./Gutenberg/txt/Harold Bindloss___Carmen's Messenger.txt
+./Gutenberg/txt/Harold Bindloss___Delilah of the Snows.txt
+./Gutenberg/txt/Harold Bindloss___For Jacinta.txt
+./Gutenberg/txt/Harold Bindloss___For the Allinson Honor.txt
+./Gutenberg/txt/Harold Bindloss___Harding of Allenwood.txt
+./Gutenberg/txt/Harold Bindloss___Hawtrey's Deputy.txt
+./Gutenberg/txt/Harold Bindloss___Johnstone of the Border.txt
+./Gutenberg/txt/Harold Bindloss___Kit Musgrave's Luck.txt
+./Gutenberg/txt/Harold Bindloss___Lister's Great Adventure.txt
+./Gutenberg/txt/Harold Bindloss___Long Odds.txt
+./Gutenberg/txt/Harold Bindloss___Lorimer of the Northwest.txt
+./Gutenberg/txt/Harold Bindloss___Masters of the Wheat-Lands.txt
+./Gutenberg/txt/Harold Bindloss___Northwest!.txt
+./Gutenberg/txt/Harold Bindloss___Partners of the Out-Trail.txt
+./Gutenberg/txt/Harold Bindloss___Prescott of Saskatchewan.txt
+./Gutenberg/txt/Harold Bindloss___Ranching for Sylvia.txt
+./Gutenberg/txt/Harold Bindloss___The Boy Ranchers of Puget Sound.txt
+./Gutenberg/txt/Harold Bindloss___The Buccaneer Farmer.txt
+./Gutenberg/txt/Harold Bindloss___The Cattle-Baron's Daughter.txt
+./Gutenberg/txt/Harold Bindloss___The Coast of Adventure.txt
+./Gutenberg/txt/Harold Bindloss___The Dust of Conflict.txt
+./Gutenberg/txt/Harold Bindloss___The Girl From Keller's.txt
+./Gutenberg/txt/Harold Bindloss___The Gold Trail.txt
+./Gutenberg/txt/Harold Bindloss___The Greater Power.txt
+./Gutenberg/txt/Harold Bindloss___The Impostor.txt
+./Gutenberg/txt/Harold Bindloss___The Intriguers.txt
+./Gutenberg/txt/Harold Bindloss___The League of the Leopard.txt
+./Gutenberg/txt/Harold Bindloss___The Long Portage.txt
+./Gutenberg/txt/Harold Bindloss___The Lure of the North.txt
+./Gutenberg/txt/Harold Bindloss___The Mistress of Bonaventure.txt
+./Gutenberg/txt/Harold Bindloss___The Protector.txt
+./Gutenberg/txt/Harold Bindloss___The Secret of the Reef.txt
+./Gutenberg/txt/Harold Bindloss___Thrice Armed.txt
+./Gutenberg/txt/Harold Bindloss___Thurston of Orchard Valley.txt
+./Gutenberg/txt/Harold Bindloss___Vane of the Timberlands.txt
+./Gutenberg/txt/Harold Bindloss___Winston of the Prairie.txt
+./Gutenberg/txt/Harold Bindloss___Wyndham's Pal.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Betty's Bright Idea.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Household Papers and Stories.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Lady Byron Vindicated.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Oldtown Fireside Stories.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Pink and White Tyranny.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Queer Little Folks.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Sunny Memories Of Foreign Lands, Volume 1 (of 2).txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Sunny Memories Of Foreign Lands, Volume 2 (of 2).txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___The May Flower, and Miscellaneous Writings.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___The Pearl of Orr's Island.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Uncle Tom's Cabin, Young Folks' Edition.txt
+./Gutenberg/txt/Harriet Elizabeth Beecher Stowe___Uncle Tom's Cabin.txt
+./Gutenberg/txt/Hector Hugh Munro___Beasts and Super-Beasts.txt
+./Gutenberg/txt/Hector Hugh Munro___Reginald in Russia.txt
+./Gutenberg/txt/Hector Hugh Munro___Reginald.txt
+./Gutenberg/txt/Hector Hugh Munro___The Chronicles of Clovis.txt
+./Gutenberg/txt/Hector Hugh Munro___The Toys of Peace.txt
+./Gutenberg/txt/Hector Hugh Munro___The Unbearable Bassington.txt
+./Gutenberg/txt/Hector Hugh Munro___When William Came.txt
+./Gutenberg/txt/Henry David Thoreau___A Plea for Captain John Brown.txt
+./Gutenberg/txt/Henry David Thoreau___A Week on the Concord and Merrimack Rivers.txt
+./Gutenberg/txt/Henry David Thoreau___Canoeing in the wilderness.txt
+./Gutenberg/txt/Henry David Thoreau___Cape Cod.txt
+./Gutenberg/txt/Henry David Thoreau___Excursions.txt
+./Gutenberg/txt/Henry David Thoreau___On the Duty of Civil Disobedience.txt
+./Gutenberg/txt/Henry David Thoreau___Walden, and On The Duty Of Civil Disobedience.txt
+./Gutenberg/txt/Henry David Thoreau___Walking.txt
+./Gutenberg/txt/Henry David Thoreau___Wild Apples.txt
+./Gutenberg/txt/Henry Francis Cary___Lives of the English Poets.txt
+./Gutenberg/txt/Henry James___A  Passionate Pilgrim.txt
+./Gutenberg/txt/Henry James___A Bundle of Letters.txt
+./Gutenberg/txt/Henry James___A Little Tour in France, Version 1.txt
+./Gutenberg/txt/Henry James___A Little Tour in France, Version 2.txt
+./Gutenberg/txt/Henry James___A London Life and Other Tales.txt
+./Gutenberg/txt/Henry James___A Small Boy and Others.txt
+./Gutenberg/txt/Henry James___An International Episode.txt
+./Gutenberg/txt/Henry James___Confidence.txt
+./Gutenberg/txt/Henry James___Daisy Miller.txt
+./Gutenberg/txt/Henry James___Embarrassments.txt
+./Gutenberg/txt/Henry James___Eugene Pickering.txt
+./Gutenberg/txt/Henry James___Four Meetings.txt
+./Gutenberg/txt/Henry James___Georgina's Reasons.txt
+./Gutenberg/txt/Henry James___Glasses.txt
+./Gutenberg/txt/Henry James___Greville Fane.txt
+./Gutenberg/txt/Henry James___Hawthorne.txt
+./Gutenberg/txt/Henry James___In the Cage.txt
+./Gutenberg/txt/Henry James___Italian Hours.txt
+./Gutenberg/txt/Henry James___Lady Barbarina.txt
+./Gutenberg/txt/Henry James___Louisa Pallant.txt
+./Gutenberg/txt/Henry James___Madame de Mauves.txt
+./Gutenberg/txt/Henry James___Nona Vincent.txt
+./Gutenberg/txt/Henry James___Notes of a Son and Brother.txt
+./Gutenberg/txt/Henry James___Pandora.txt
+./Gutenberg/txt/Henry James___Picture and Text.txt
+./Gutenberg/txt/Henry James___Roderick Hudson.txt
+./Gutenberg/txt/Henry James___Sir Dominick Ferrand.txt
+./Gutenberg/txt/Henry James___Some Short Stories.txt
+./Gutenberg/txt/Henry James___The Altar of the Dead.txt
+./Gutenberg/txt/Henry James___The Ambassadors.txt
+./Gutenberg/txt/Henry James___The American.txt
+./Gutenberg/txt/Henry James___The Aspern Papers.txt
+./Gutenberg/txt/Henry James___The Author Of Beltraffio.txt
+./Gutenberg/txt/Henry James___The Awkward Age.txt
+./Gutenberg/txt/Henry James___The Beast in the Jungle.txt
+./Gutenberg/txt/Henry James___The Beldonald Holbein.txt
+./Gutenberg/txt/Henry James___The Bostonians, Volume 1.txt
+./Gutenberg/txt/Henry James___The Bostonians, Volume 2.txt
+./Gutenberg/txt/Henry James___The Chaperon.txt
+./Gutenberg/txt/Henry James___The Coxon Fund.txt
+./Gutenberg/txt/Henry James___The Death of the Lion.txt
+./Gutenberg/txt/Henry James___The Diary of a Man of Fifty.txt
+./Gutenberg/txt/Henry James___The Europeans.txt
+./Gutenberg/txt/Henry James___The Figure in the Carpet.txt
+./Gutenberg/txt/Henry James___The Finer Grain.txt
+./Gutenberg/txt/Henry James___The Golden Bowl.txt
+./Gutenberg/txt/Henry James___The Jolly Corner.txt
+./Gutenberg/txt/Henry James___The Lesson of the Master.txt
+./Gutenberg/txt/Henry James___The Letters of Henry James, Volume 1.txt
+./Gutenberg/txt/Henry James___The Letters of Henry James, Volume 2.txt
+./Gutenberg/txt/Henry James___The Madonna of the Future.txt
+./Gutenberg/txt/Henry James___The Marriages.txt
+./Gutenberg/txt/Henry James___The Middle Years.txt
+./Gutenberg/txt/Henry James___The Outcry.txt
+./Gutenberg/txt/Henry James___The Patagonia.txt
+./Gutenberg/txt/Henry James___The Path Of Duty.txt
+./Gutenberg/txt/Henry James___The Pension Beaurepas.txt
+./Gutenberg/txt/Henry James___The Point of View.txt
+./Gutenberg/txt/Henry James___The Portrait of a Lady, Volume 1.txt
+./Gutenberg/txt/Henry James___The Portrait of a Lady, Volume 2.txt
+./Gutenberg/txt/Henry James___The Pupil.txt
+./Gutenberg/txt/Henry James___The Real Thing.txt
+./Gutenberg/txt/Henry James___The Reverberator.txt
+./Gutenberg/txt/Henry James___The Sacred Fount.txt
+./Gutenberg/txt/Henry James___The Spoils of Poynton.txt
+./Gutenberg/txt/Henry James___The Tragic Muse.txt
+./Gutenberg/txt/Henry James___The Turn of the Screw.txt
+./Gutenberg/txt/Henry James___The Wings of the Dove, Volume 1.txt
+./Gutenberg/txt/Henry James___The Wings of the Dove, Volume 2.txt
+./Gutenberg/txt/Henry James___Washington Square.txt
+./Gutenberg/txt/Henry James___What Maisie Knew.txt
+./Gutenberg/txt/Henry James___Within the Rim and Other Essays.txt
+./Gutenberg/txt/Henry Rider Haggard___A Tale of Three Lions.txt
+./Gutenberg/txt/Henry Rider Haggard___Allan Quatermain.txt
+./Gutenberg/txt/Henry Rider Haggard___Allan and the Holy Flower.txt
+./Gutenberg/txt/Henry Rider Haggard___Allan's Wife.txt
+./Gutenberg/txt/Henry Rider Haggard___Ayesha.txt
+./Gutenberg/txt/Henry Rider Haggard___Beatrice.txt
+./Gutenberg/txt/Henry Rider Haggard___Benita, An African Romance.txt
+./Gutenberg/txt/Henry Rider Haggard___Black Heart and White Heart.txt
+./Gutenberg/txt/Henry Rider Haggard___Cetywayo and his White Neighbours.txt
+./Gutenberg/txt/Henry Rider Haggard___Child of Storm.txt
+./Gutenberg/txt/Henry Rider Haggard___Cleopatra.txt
+./Gutenberg/txt/Henry Rider Haggard___Colonel Quaritch, V.C.txt
+./Gutenberg/txt/Henry Rider Haggard___Dawn.txt
+./Gutenberg/txt/Henry Rider Haggard___Doctor Therne.txt
+./Gutenberg/txt/Henry Rider Haggard___Elissa.txt
+./Gutenberg/txt/Henry Rider Haggard___Eric Brighteyes.txt
+./Gutenberg/txt/Henry Rider Haggard___Fair Margaret.txt
+./Gutenberg/txt/Henry Rider Haggard___Finished.txt
+./Gutenberg/txt/Henry Rider Haggard___Hunter Quatermain's Story.txt
+./Gutenberg/txt/Henry Rider Haggard___Jess.txt
+./Gutenberg/txt/Henry Rider Haggard___King Solomon's Mines.txt
+./Gutenberg/txt/Henry Rider Haggard___Long Odds.txt
+./Gutenberg/txt/Henry Rider Haggard___Love Eternal.txt
+./Gutenberg/txt/Henry Rider Haggard___Lysbeth.txt
+./Gutenberg/txt/Henry Rider Haggard___Maiwa's Revenge.txt
+./Gutenberg/txt/Henry Rider Haggard___Marie.txt
+./Gutenberg/txt/Henry Rider Haggard___Montezuma's Daughter.txt
+./Gutenberg/txt/Henry Rider Haggard___Moon of Israel.txt
+./Gutenberg/txt/Henry Rider Haggard___Morning Star.txt
+./Gutenberg/txt/Henry Rider Haggard___Mr. Meeson's Will.txt
+./Gutenberg/txt/Henry Rider Haggard___Nada the Lily.txt
+./Gutenberg/txt/Henry Rider Haggard___Pearl-Maiden.txt
+./Gutenberg/txt/Henry Rider Haggard___Queen Sheba's Ring.txt
+./Gutenberg/txt/Henry Rider Haggard___Red Eve.txt
+./Gutenberg/txt/Henry Rider Haggard___Regeneration.txt
+./Gutenberg/txt/Henry Rider Haggard___She and Allan.txt
+./Gutenberg/txt/Henry Rider Haggard___She.txt
+./Gutenberg/txt/Henry Rider Haggard___Smith and the Pharaohs, and Other Tales.txt
+./Gutenberg/txt/Henry Rider Haggard___Stella Fregelius.txt
+./Gutenberg/txt/Henry Rider Haggard___Swallow.txt
+./Gutenberg/txt/Henry Rider Haggard___The Ancient Allan.txt
+./Gutenberg/txt/Henry Rider Haggard___The Brethren.txt
+./Gutenberg/txt/Henry Rider Haggard___The Ghost Kings.txt
+./Gutenberg/txt/Henry Rider Haggard___The Ivory Child.txt
+./Gutenberg/txt/Henry Rider Haggard___The Lady Of Blossholme.txt
+./Gutenberg/txt/Henry Rider Haggard___The Mahatma and the Hare.txt
+./Gutenberg/txt/Henry Rider Haggard___The People Of The Mist.txt
+./Gutenberg/txt/Henry Rider Haggard___The Virgin of the Sun.txt
+./Gutenberg/txt/Henry Rider Haggard___The Wanderer's Necklace.txt
+./Gutenberg/txt/Henry Rider Haggard___The Wizard.txt
+./Gutenberg/txt/Henry Rider Haggard___The Yellow God.txt
+./Gutenberg/txt/Henry Rider Haggard___When the World Shook.txt
+./Gutenberg/txt/Herbert George Wells___A Modern Utopia.txt
+./Gutenberg/txt/Herbert George Wells___A Short History of the World.txt
+./Gutenberg/txt/Herbert George Wells___An Englishman Looks at the World.txt
+./Gutenberg/txt/Herbert George Wells___Ann Veronica.txt
+./Gutenberg/txt/Herbert George Wells___Anticipations.txt
+./Gutenberg/txt/Herbert George Wells___Boon, The Mind of the Race, The Wild Asses of the Devil, and The Last Trump.txt
+./Gutenberg/txt/Herbert George Wells___Certain Personal Matters.txt
+./Gutenberg/txt/Herbert George Wells___First and Last Things.txt
+./Gutenberg/txt/Herbert George Wells___Floor Games; a companion volume to "Little Wars".txt
+./Gutenberg/txt/Herbert George Wells___God The Invisible King.txt
+./Gutenberg/txt/Herbert George Wells___In The Fourth Year.txt
+./Gutenberg/txt/Herbert George Wells___In the Days of the Comet.txt
+./Gutenberg/txt/Herbert George Wells___Kipps.txt
+./Gutenberg/txt/Herbert George Wells___Little Wars; a game for boys from twelve years of age to one hundred and fifty and for that more intelligent sort of girl who likes boys' games and books.txt
+./Gutenberg/txt/Herbert George Wells___Love and Mr. Lewisham.txt
+./Gutenberg/txt/Herbert George Wells___Mankind in the Making.txt
+./Gutenberg/txt/Herbert George Wells___Marriage.txt
+./Gutenberg/txt/Herbert George Wells___Mr. Britling Sees It Through.txt
+./Gutenberg/txt/Herbert George Wells___New Worlds For Old.txt
+./Gutenberg/txt/Herbert George Wells___Select Conversations with an Uncle.txt
+./Gutenberg/txt/Herbert George Wells___Soul of a Bishop.txt
+./Gutenberg/txt/Herbert George Wells___Tales of Space and Time.txt
+./Gutenberg/txt/Herbert George Wells___Text Book of Biology, Part 1: Vertebrata.txt
+./Gutenberg/txt/Herbert George Wells___The Country of the Blind, And Other Stories.txt
+./Gutenberg/txt/Herbert George Wells___The Door in the Wall And Other Stories.txt
+./Gutenberg/txt/Herbert George Wells___The First Men In The Moon.txt
+./Gutenberg/txt/Herbert George Wells___The Food of the Gods and How It Came to Earth.txt
+./Gutenberg/txt/Herbert George Wells___The History of Mr. Polly.txt
+./Gutenberg/txt/Herbert George Wells___The Invisible Man.txt
+./Gutenberg/txt/Herbert George Wells___The Island of Doctor Moreau.txt
+./Gutenberg/txt/Herbert George Wells___The New Machiavelli.txt
+./Gutenberg/txt/Herbert George Wells___The Passionate Friends.txt
+./Gutenberg/txt/Herbert George Wells___The Red Room.txt
+./Gutenberg/txt/Herbert George Wells___The Research Magnificent.txt
+./Gutenberg/txt/Herbert George Wells___The Salvaging Of Civilisation.txt
+./Gutenberg/txt/Herbert George Wells___The Sea Lady.txt
+./Gutenberg/txt/Herbert George Wells___The Secret Places of the Heart.txt
+./Gutenberg/txt/Herbert George Wells___The Sleeper Awakes.txt
+./Gutenberg/txt/Herbert George Wells___The Stolen Bacillus and Other Incidents.txt
+./Gutenberg/txt/Herbert George Wells___The Time Machine.txt
+./Gutenberg/txt/Herbert George Wells___The War in the Air.txt
+./Gutenberg/txt/Herbert George Wells___The War of the Worlds.txt
+./Gutenberg/txt/Herbert George Wells___The Wheels of Chance.txt
+./Gutenberg/txt/Herbert George Wells___The Wife of Sir Isaac Harman.txt
+./Gutenberg/txt/Herbert George Wells___The Wonderful Visit.txt
+./Gutenberg/txt/Herbert George Wells___The World Set Free.txt
+./Gutenberg/txt/Herbert George Wells___Tono Bungay.txt
+./Gutenberg/txt/Herbert George Wells___Twelve Stories and a Dream.txt
+./Gutenberg/txt/Herbert George Wells___War and the Future.txt
+./Gutenberg/txt/Herbert George Wells___What is Coming?.txt
+./Gutenberg/txt/Herbert George Wells___When the Sleeper Wakes.txt
+./Gutenberg/txt/Herbert Spencer___Essays on Education and Kindred Subjects.txt
+./Gutenberg/txt/Herbert Spencer___Essays: Scientific, Political, & Speculative, Volume I.txt
+./Gutenberg/txt/Herbert Spencer___The Philosophy of Style.txt
+./Gutenberg/txt/Herbert Spencer___The Right To Ignore The State.txt
+./Gutenberg/txt/Herman Melville___Bartleby, The Scrivener.txt
+./Gutenberg/txt/Herman Melville___Battle-Pieces and Aspects of the War.txt
+./Gutenberg/txt/Herman Melville___I and My Chimney.txt
+./Gutenberg/txt/Herman Melville___Israel Potter.txt
+./Gutenberg/txt/Herman Melville___John Marr and Other Poems.txt
+./Gutenberg/txt/Herman Melville___Mardi: and A Voyage Thither, Volume 1.txt
+./Gutenberg/txt/Herman Melville___Mardi: and A Voyage Thither, Volume 2.txt
+./Gutenberg/txt/Herman Melville___Moby Dick.txt
+./Gutenberg/txt/Herman Melville___Omoo: Adventures in the South Seas.txt
+./Gutenberg/txt/Herman Melville___Pierre; or The Ambiguities.txt
+./Gutenberg/txt/Herman Melville___Redburn. His First Voyage.txt
+./Gutenberg/txt/Herman Melville___The Confidence-Man.txt
+./Gutenberg/txt/Herman Melville___The Piazza Tales.txt
+./Gutenberg/txt/Herman Melville___Typee.txt
+./Gutenberg/txt/Herman Melville___White Jacket.txt
+./Gutenberg/txt/Howard Pyle___Howard Pyle's Book of Pirates.txt
+./Gutenberg/txt/Howard Pyle___Men of Iron.txt
+./Gutenberg/txt/Howard Pyle___Otto of the Silver Hand.txt
+./Gutenberg/txt/Howard Pyle___Pepper & Salt.txt
+./Gutenberg/txt/Howard Pyle___Stolen Treasure.txt
+./Gutenberg/txt/Howard Pyle___The Merry Adventures of Robin Hood.txt
+./Gutenberg/txt/Howard Pyle___The Rose of Paradise.txt
+./Gutenberg/txt/Howard Pyle___The Ruby of Kishmoor.txt
+./Gutenberg/txt/Howard Pyle___The Story of Sir Launcelot and His Companions.txt
+./Gutenberg/txt/Howard Pyle___The Story of the Champions of the Round Table.txt
+./Gutenberg/txt/Howard Pyle___Twilight Land.txt
+./Gutenberg/txt/Isaac Asimov___Youth.txt
+./Gutenberg/txt/Jack London___A Daughter of the Snows.txt
+./Gutenberg/txt/Jack London___A Son Of The Sun.txt
+./Gutenberg/txt/Jack London___Adventure.txt
+./Gutenberg/txt/Jack London___Before Adam.txt
+./Gutenberg/txt/Jack London___Brown Wolf and Other Jack London Stories.txt
+./Gutenberg/txt/Jack London___Burning Daylight.txt
+./Gutenberg/txt/Jack London___Children of the Frost.txt
+./Gutenberg/txt/Jack London___Dutch Courage and Other Stories.txt
+./Gutenberg/txt/Jack London___Jerry of the Islands.txt
+./Gutenberg/txt/Jack London___John Barleycorn.txt
+./Gutenberg/txt/Jack London___Lost Face.txt
+./Gutenberg/txt/Jack London___Love of Life and Other Stories.txt
+./Gutenberg/txt/Jack London___Martin Eden.txt
+./Gutenberg/txt/Jack London___Michael, Brother of Jerry.txt
+./Gutenberg/txt/Jack London___Moon-Face and Other Stories.txt
+./Gutenberg/txt/Jack London___On the Makaloa Mat.txt
+./Gutenberg/txt/Jack London___Revolution and Other Essays.txt
+./Gutenberg/txt/Jack London___Smoke Bellew.txt
+./Gutenberg/txt/Jack London___South Sea Tales.txt
+./Gutenberg/txt/Jack London___Stories of Ships and the Sea.txt
+./Gutenberg/txt/Jack London___Tales of the Fish Patrol.txt
+./Gutenberg/txt/Jack London___The Acorn-Planter.txt
+./Gutenberg/txt/Jack London___The Call of the Wild.txt
+./Gutenberg/txt/Jack London___The Cruise of the Dazzler.txt
+./Gutenberg/txt/Jack London___The Cruise of the Snark.txt
+./Gutenberg/txt/Jack London___The Faith of Men.txt
+./Gutenberg/txt/Jack London___The Game.txt
+./Gutenberg/txt/Jack London___The God of His Fathers.txt
+./Gutenberg/txt/Jack London___The House of Pride.txt
+./Gutenberg/txt/Jack London___The Human Drift and Other Stories.txt
+./Gutenberg/txt/Jack London___The Iron Heel.txt
+./Gutenberg/txt/Jack London___The Jacket (The Star-Rover).txt
+./Gutenberg/txt/Jack London___The Little Lady of the Big House.txt
+./Gutenberg/txt/Jack London___The Mutiny of the Elsinore.txt
+./Gutenberg/txt/Jack London___The Night-Born.txt
+./Gutenberg/txt/Jack London___The People of the Abyss.txt
+./Gutenberg/txt/Jack London___The Red One.txt
+./Gutenberg/txt/Jack London___The Road.txt
+./Gutenberg/txt/Jack London___The Scarlet Plague.txt
+./Gutenberg/txt/Jack London___The Sea-Wolf.txt
+./Gutenberg/txt/Jack London___The Son of the Wolf.txt
+./Gutenberg/txt/Jack London___The Strength of the Strong.txt
+./Gutenberg/txt/Jack London___The Turtles of Tasman.txt
+./Gutenberg/txt/Jack London___The Valley of the Moon.txt
+./Gutenberg/txt/Jack London___Theft.txt
+./Gutenberg/txt/Jack London___War of the Classes.txt
+./Gutenberg/txt/Jack London___When God Laughs and Other Stories.txt
+./Gutenberg/txt/Jack London___White Fang.txt
+./Gutenberg/txt/Jacob Abbott___Alexander the Great.txt
+./Gutenberg/txt/Jacob Abbott___Caleb in the Country.txt
+./Gutenberg/txt/Jacob Abbott___Charles I.txt
+./Gutenberg/txt/Jacob Abbott___Cleopatra.txt
+./Gutenberg/txt/Jacob Abbott___Cyrus the Great.txt
+./Gutenberg/txt/Jacob Abbott___Darius the Great.txt
+./Gutenberg/txt/Jacob Abbott___Forests of Maine.txt
+./Gutenberg/txt/Jacob Abbott___Genghis Khan.txt
+./Gutenberg/txt/Jacob Abbott___Gentle Measures in the Management and Training of the Young.txt
+./Gutenberg/txt/Jacob Abbott___Georgie.txt
+./Gutenberg/txt/Jacob Abbott___Hannibal.txt
+./Gutenberg/txt/Jacob Abbott___History of Julius Caesar.txt
+./Gutenberg/txt/Jacob Abbott___History of King Charles II of England.txt
+./Gutenberg/txt/Jacob Abbott___Jonas on a Farm in Winter.txt
+./Gutenberg/txt/Jacob Abbott___King Alfred of England.txt
+./Gutenberg/txt/Jacob Abbott___Marco Paul's Voyages and Travels; Vermont.txt
+./Gutenberg/txt/Jacob Abbott___Margaret of Anjou.txt
+./Gutenberg/txt/Jacob Abbott___Mary Erskine.txt
+./Gutenberg/txt/Jacob Abbott___Mary Queen of Scots.txt
+./Gutenberg/txt/Jacob Abbott___Nero.txt
+./Gutenberg/txt/Jacob Abbott___Peter the Great.txt
+./Gutenberg/txt/Jacob Abbott___Pyrrhus.txt
+./Gutenberg/txt/Jacob Abbott___Queen Elizabeth.txt
+./Gutenberg/txt/Jacob Abbott___Richard I.txt
+./Gutenberg/txt/Jacob Abbott___Richard II.txt
+./Gutenberg/txt/Jacob Abbott___Richard III.txt
+./Gutenberg/txt/Jacob Abbott___Rollo at Play.txt
+./Gutenberg/txt/Jacob Abbott___Rollo at Work.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Geneva.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Holland.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in London.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Naples.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Paris.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Rome.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Scotland.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in Switzerland.txt
+./Gutenberg/txt/Jacob Abbott___Rollo in the Woods.txt
+./Gutenberg/txt/Jacob Abbott___Rollo on the Atlantic.txt
+./Gutenberg/txt/Jacob Abbott___Rollo on the Rhine.txt
+./Gutenberg/txt/Jacob Abbott___Rollo's Experiments.txt
+./Gutenberg/txt/Jacob Abbott___Rollo's Museum.txt
+./Gutenberg/txt/Jacob Abbott___Rollo's Philosophy. [Air].txt
+./Gutenberg/txt/Jacob Abbott___Romulus.txt
+./Gutenberg/txt/Jacob Abbott___Stuyvesant.txt
+./Gutenberg/txt/Jacob Abbott___The Teacher.txt
+./Gutenberg/txt/Jacob Abbott___William the Conqueror.txt
+./Gutenberg/txt/Jacob Abbott___Xerxes.txt
+./Gutenberg/txt/James Bowker___Goblin Tales of Lancashire.txt
+./Gutenberg/txt/James Fenimore Cooper___A Residence in France.txt
+./Gutenberg/txt/James Fenimore Cooper___Afloat And Ashore.txt
+./Gutenberg/txt/James Fenimore Cooper___Autobiography of a Pocket-Hankerchief.txt
+./Gutenberg/txt/James Fenimore Cooper___Home as Found.txt
+./Gutenberg/txt/James Fenimore Cooper___Homeward Bound.txt
+./Gutenberg/txt/James Fenimore Cooper___Jack Tier or The Florida Reef.txt
+./Gutenberg/txt/James Fenimore Cooper___Mercedes of Castile.txt
+./Gutenberg/txt/James Fenimore Cooper___Miles Wallingford.txt
+./Gutenberg/txt/James Fenimore Cooper___Ned Myers.txt
+./Gutenberg/txt/James Fenimore Cooper___New York.txt
+./Gutenberg/txt/James Fenimore Cooper___Oak Openings.txt
+./Gutenberg/txt/James Fenimore Cooper___Precaution.txt
+./Gutenberg/txt/James Fenimore Cooper___Recollections of Europe.txt
+./Gutenberg/txt/James Fenimore Cooper___Satanstoe.txt
+./Gutenberg/txt/James Fenimore Cooper___Tales for Fifteen.txt
+./Gutenberg/txt/James Fenimore Cooper___The Bravo.txt
+./Gutenberg/txt/James Fenimore Cooper___The Chainbearer.txt
+./Gutenberg/txt/James Fenimore Cooper___The Crater.txt
+./Gutenberg/txt/James Fenimore Cooper___The Deerslayer.txt
+./Gutenberg/txt/James Fenimore Cooper___The Headsman.txt
+./Gutenberg/txt/James Fenimore Cooper___The Lake Gun.txt
+./Gutenberg/txt/James Fenimore Cooper___The Last of the Mohicans.txt
+./Gutenberg/txt/James Fenimore Cooper___The Monikins.txt
+./Gutenberg/txt/James Fenimore Cooper___The Pathfinder.txt
+./Gutenberg/txt/James Fenimore Cooper___The Pilot.txt
+./Gutenberg/txt/James Fenimore Cooper___The Pioneers.txt
+./Gutenberg/txt/James Fenimore Cooper___The Prairie.txt
+./Gutenberg/txt/James Fenimore Cooper___The Red Rover.txt
+./Gutenberg/txt/James Fenimore Cooper___The Redskins; or, Indian and Injin, Volume 1.txt
+./Gutenberg/txt/James Fenimore Cooper___The Sea Lions.txt
+./Gutenberg/txt/James Fenimore Cooper___The Spy.txt
+./Gutenberg/txt/James Fenimore Cooper___The Two Admirals.txt
+./Gutenberg/txt/James Fenimore Cooper___The Water-Witch.txt
+./Gutenberg/txt/James Fenimore Cooper___The Wept of Wish-Ton-Wish.txt
+./Gutenberg/txt/James Fenimore Cooper___The Wing-and-Wing.txt
+./Gutenberg/txt/James Fenimore Cooper___Wyandotte.txt
+./Gutenberg/txt/James Joyce___A Portrait of the Artist as a Young Man.txt
+./Gutenberg/txt/James Joyce___Chamber Music.txt
+./Gutenberg/txt/James Joyce___Dubliners.txt
+./Gutenberg/txt/James Joyce___Ulysses.txt
+./Gutenberg/txt/James Matthew Barrie___"Der Tag".txt
+./Gutenberg/txt/James Matthew Barrie___A Holiday in Bed and Other Sketches.txt
+./Gutenberg/txt/James Matthew Barrie___A Window in Thrums.txt
+./Gutenberg/txt/James Matthew Barrie___Alice Sit-By-The-Fire.txt
+./Gutenberg/txt/James Matthew Barrie___An Edinburgh Eleven.txt
+./Gutenberg/txt/James Matthew Barrie___Auld Licht Idylls.txt
+./Gutenberg/txt/James Matthew Barrie___Better Dead.txt
+./Gutenberg/txt/James Matthew Barrie___Courage.txt
+./Gutenberg/txt/James Matthew Barrie___Dear Brutus.txt
+./Gutenberg/txt/James Matthew Barrie___Echoes of the War.txt
+./Gutenberg/txt/James Matthew Barrie___Margaret Ogilvy.txt
+./Gutenberg/txt/James Matthew Barrie___My Lady Nicotine.txt
+./Gutenberg/txt/James Matthew Barrie___Peter Pan in Kensington Gardens, Version 1.txt
+./Gutenberg/txt/James Matthew Barrie___Peter Pan in Kensington Gardens, Version 2.txt
+./Gutenberg/txt/James Matthew Barrie___Peter Pan.txt
+./Gutenberg/txt/James Matthew Barrie___Peter and Wendy.txt
+./Gutenberg/txt/James Matthew Barrie___Quality Street.txt
+./Gutenberg/txt/James Matthew Barrie___Sentimental Tommy.txt
+./Gutenberg/txt/James Matthew Barrie___The Admirable Crichton.txt
+./Gutenberg/txt/James Matthew Barrie___The Little Minister.txt
+./Gutenberg/txt/James Matthew Barrie___The Little White Bird.txt
+./Gutenberg/txt/James Matthew Barrie___Tommy and Grizel.txt
+./Gutenberg/txt/James Matthew Barrie___What Every Woman Knows.txt
+./Gutenberg/txt/James Otis___A District Messenger Boy and a Necktie Party.txt
+./Gutenberg/txt/James Otis___A Runaway Brig.txt
+./Gutenberg/txt/James Otis___An Amateur Fireman.txt
+./Gutenberg/txt/James Otis___Aunt Hannah and Seth.txt
+./Gutenberg/txt/James Otis___Commodore Barney's Young Spies.txt
+./Gutenberg/txt/James Otis___Corporal 'Lige's Recruit.txt
+./Gutenberg/txt/James Otis___Defending the Island.txt
+./Gutenberg/txt/James Otis___Dick in the Desert.txt
+./Gutenberg/txt/James Otis___Down the Slope.txt
+./Gutenberg/txt/James Otis___Left Behind.txt
+./Gutenberg/txt/James Otis___Messenger No. 48.txt
+./Gutenberg/txt/James Otis___Mr. Stubbs's Brother.txt
+./Gutenberg/txt/James Otis___Neal, the Miller.txt
+./Gutenberg/txt/James Otis___On the Kentucky Frontier.txt
+./Gutenberg/txt/James Otis___Ralph Gurney's Oil Speculation.txt
+./Gutenberg/txt/James Otis___Richard of Jamestown.txt
+./Gutenberg/txt/James Otis___Teddy and Carrots.txt
+./Gutenberg/txt/James Otis___The Adventures of a Country Boy at a Country Fair.txt
+./Gutenberg/txt/James Otis___The Boys of ’98.txt
+./Gutenberg/txt/James Otis___The Club at Crow's Corner.txt
+./Gutenberg/txt/James Otis___The Minute Boys of Boston.txt
+./Gutenberg/txt/James Otis___The Minute Boys of York Town.txt
+./Gutenberg/txt/James Otis___The Minute Boys of the Mohawk Valley.txt
+./Gutenberg/txt/James Otis___The Princess and Joe Potter.txt
+./Gutenberg/txt/James Otis___The Search for the Silver City.txt
+./Gutenberg/txt/James Otis___Toby Tyler.txt
+./Gutenberg/txt/James Otis___Under the Liberty Tree.txt
+./Gutenberg/txt/James Russell Lowell___Abraham Lincoln.txt
+./Gutenberg/txt/James Russell Lowell___Among My Books, First Series.txt
+./Gutenberg/txt/James Russell Lowell___Among My Books, Second Series.txt
+./Gutenberg/txt/James Russell Lowell___My Garden Acquaintance.txt
+./Gutenberg/txt/James Russell Lowell___Poems of James Russell Lowell.txt
+./Gutenberg/txt/James Russell Lowell___The Biglow Papers.txt
+./Gutenberg/txt/James Russell Lowell___The Complete Poetical Works of James Russell Lowell.txt
+./Gutenberg/txt/James Russell Lowell___The Function Of The Poet And Other Essays.txt
+./Gutenberg/txt/James Russell Lowell___The Vision of Sir Launfal And Other Poems, Version 1.txt
+./Gutenberg/txt/James Russell Lowell___The Vision of Sir Launfal And Other Poems, Version 2.txt
+./Gutenberg/txt/James Russell Lowell___The Writings of James Russell Lowell in Prose and Poetry, Volume V.txt
+./Gutenberg/txt/Jane Austen___Emma.txt
+./Gutenberg/txt/Jane Austen___Lady Susan.txt
+./Gutenberg/txt/Jane Austen___Love And Freindship And Other Early Works.txt
+./Gutenberg/txt/Jane Austen___Mansfield Park.txt
+./Gutenberg/txt/Jane Austen___Northanger Abbey.txt
+./Gutenberg/txt/Jane Austen___Persuasion.txt
+./Gutenberg/txt/Jane Austen___Pride and Prejudice.txt
+./Gutenberg/txt/Jane Austen___Sense and Sensibility.txt
+./Gutenberg/txt/Jerome Klapka Jerome___All Roads Lead to Calvary.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Clocks.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Diary of a Pilgrimage.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Dreams.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Evergreens.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Fanny and the Servant Problem.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Idle Ideas in 1905.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Idle Thoughts of an Idle Fellow.txt
+./Gutenberg/txt/Jerome Klapka Jerome___John Ingerfield and Other Stories.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Malvina of Brittany.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Mrs. Korner Sins Her Mercies.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Novel Notes.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Passing of the Third Floor Back.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Paul Kelver.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Sketches in Lavender, Blue and Green.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Stage-Land.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Tea-table Talk.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Angel and the Author - and Others.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Cost of Kindness.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Love of Ulrich Nebendahl.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Master of Mrs. Chilvers.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Observations of Henry.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Philosopher's Joke.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Second Thoughts of An Idle Fellow.txt
+./Gutenberg/txt/Jerome Klapka Jerome___The Soul of Nicholas Snyders.txt
+./Gutenberg/txt/Jerome Klapka Jerome___They and I.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Three Men in a Boat.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Three Men on the Bummel.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Told After Supper.txt
+./Gutenberg/txt/Jerome Klapka Jerome___Tommy and Co.txt
+./Gutenberg/txt/John Bunyan___Grace Abounding to the Chief of Sinners.txt
+./Gutenberg/txt/John Bunyan___Miscellaneous Pieces.txt
+./Gutenberg/txt/John Bunyan___The Heavenly Footman.txt
+./Gutenberg/txt/John Bunyan___The Holy War.txt
+./Gutenberg/txt/John Bunyan___The Jerusalem Sinner Saved.txt
+./Gutenberg/txt/John Bunyan___The Life and Death of Mr. Badman.txt
+./Gutenberg/txt/John Bunyan___The Pharisee And The Publican.txt
+./Gutenberg/txt/John Bunyan___The Pilgrim's Progress.txt
+./Gutenberg/txt/John Bunyan___The Works of John Bunyan.txt
+./Gutenberg/txt/John Dryden___All for Love.txt
+./Gutenberg/txt/John Dryden___Discourses on Satire and Epic Poetry.txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 16 (of 18).txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 2 (of 18).txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 3 (of 18).txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 4 (of 18).txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 5 (of 18).txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 6 (of 18).txt
+./Gutenberg/txt/John Dryden___Dryden's Works Vol. 7 (of 18).txt
+./Gutenberg/txt/John Dryden___His Majesties Declaration Defended.txt
+./Gutenberg/txt/John Dryden___Palamon and Arcite.txt
+./Gutenberg/txt/John Dryden___The Poetical Works of John Dryden, Volume 1.txt
+./Gutenberg/txt/John Dryden___The Poetical Works of John Dryden, Volume 2.txt
+./Gutenberg/txt/John Galsworthy___A Bit O' Love.txt
+./Gutenberg/txt/John Galsworthy___A Family Man.txt
+./Gutenberg/txt/John Galsworthy___Another Sheaf.txt
+./Gutenberg/txt/John Galsworthy___Beyond.txt
+./Gutenberg/txt/John Galsworthy___Essays Concerning Letters.txt
+./Gutenberg/txt/John Galsworthy___Essays on Censorship and Art.txt
+./Gutenberg/txt/John Galsworthy___Five Tales.txt
+./Gutenberg/txt/John Galsworthy___Fraternity.txt
+./Gutenberg/txt/John Galsworthy___Hall-Marked and Others.txt
+./Gutenberg/txt/John Galsworthy___Inn of Tranquility and Other Essays.txt
+./Gutenberg/txt/John Galsworthy___Joy.txt
+./Gutenberg/txt/John Galsworthy___Justice.txt
+./Gutenberg/txt/John Galsworthy___Loyalties.txt
+./Gutenberg/txt/John Galsworthy___Quality and Other Studies and Essays.txt
+./Gutenberg/txt/John Galsworthy___Saint's Progress.txt
+./Gutenberg/txt/John Galsworthy___Six Short Plays, Complete.txt
+./Gutenberg/txt/John Galsworthy___Strife.txt
+./Gutenberg/txt/John Galsworthy___Tatterdemalion.txt
+./Gutenberg/txt/John Galsworthy___The Burning Spear.txt
+./Gutenberg/txt/John Galsworthy___The Complete Essays of John Galsworthy.txt
+./Gutenberg/txt/John Galsworthy___The Country House.txt
+./Gutenberg/txt/John Galsworthy___The Dark Flower.txt
+./Gutenberg/txt/John Galsworthy___The Eldest Son.txt
+./Gutenberg/txt/John Galsworthy___The First and The Last.txt
+./Gutenberg/txt/John Galsworthy___The Forsyte Saga, Complete.txt
+./Gutenberg/txt/John Galsworthy___The Foundations.txt
+./Gutenberg/txt/John Galsworthy___The Freelands.txt
+./Gutenberg/txt/John Galsworthy___The Fugitive.txt
+./Gutenberg/txt/John Galsworthy___The Island Pharisees.txt
+./Gutenberg/txt/John Galsworthy___The Little Dream.txt
+./Gutenberg/txt/John Galsworthy___The Little Man.txt
+./Gutenberg/txt/John Galsworthy___The Mob.txt
+./Gutenberg/txt/John Galsworthy___The Patrician.txt
+./Gutenberg/txt/John Galsworthy___The Pigeon.txt
+./Gutenberg/txt/John Galsworthy___The Project Gutenberg Plays of John Galsworthy, Complete.txt
+./Gutenberg/txt/John Galsworthy___The Silver Box.txt
+./Gutenberg/txt/John Galsworthy___The Skin Game.txt
+./Gutenberg/txt/John Galsworthy___To Let.txt
+./Gutenberg/txt/John Galsworthy___Villa Rubein and Other Stories.txt
+./Gutenberg/txt/John Galsworthy___Windows.txt
+./Gutenberg/txt/John Keats___Endymion.txt
+./Gutenberg/txt/John Keats___Keats: Poems Published in 1820.txt
+./Gutenberg/txt/John Keats___Lamia.txt
+./Gutenberg/txt/John Keats___Letters of John Keats to His Family and Friends.txt
+./Gutenberg/txt/John Keats___Poems 1817.txt
+./Gutenberg/txt/John Locke___An Essay Concerning Humane Understanding, Volume 1.txt
+./Gutenberg/txt/John Locke___An Essay Concerning Humane Understanding, Volume 2.txt
+./Gutenberg/txt/John Locke___Second Treatise of Government.txt
+./Gutenberg/txt/John Maynard Keynes___The Economic Consequences of the Peace.txt
+./Gutenberg/txt/John Milton___Areopagitica.txt
+./Gutenberg/txt/John Milton___L'Allegro, Il Penseroso, Comus, and Lycidas.txt
+./Gutenberg/txt/John Milton___Milton's Comus.txt
+./Gutenberg/txt/John Milton___Minor Poems by Milton.txt
+./Gutenberg/txt/John Milton___Paradise Lost.txt
+./Gutenberg/txt/John Milton___Paradise Regained.txt
+./Gutenberg/txt/John Milton___The Poetical Works of John Milton.txt
+./Gutenberg/txt/John Morley___Burke.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 1, Essay 1, Robespierre.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 1, Essay 2, Carlyle.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 1, Essay 3, Byron.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 1, Essay 4, Macaulay.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 1, Essay 5, Emerson.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 2, Essay 1, Vauvenargues.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 2, Essay 2, Turgot.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 2, Essay 3, Condorcet.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 2, Essay 4, Joseph de Maistre.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 1, On Popular Culture.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 10, Auguste Comte.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 4, The Life of George Eliot.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 5, On Pattison's Memoirs.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 6, Harriet Martineau.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 7, A Sketch.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 8, France in the Eighteenth Century.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essay 9, The Expansion of England.txt
+./Gutenberg/txt/John Morley___Critical Miscellanies, Volume 3, Essays 2 and 3.txt
+./Gutenberg/txt/John Morley___Diderot and the Encyclopædists (Vol 1 of 2).txt
+./Gutenberg/txt/John Morley___Diderot and the Encyclopædists (Vol 2 of 2).txt
+./Gutenberg/txt/John Morley___Indian speeches (1907-1909).txt
+./Gutenberg/txt/John Morley___On Compromise.txt
+./Gutenberg/txt/John Morley___Rousseau.txt
+./Gutenberg/txt/John Morley___Studies in Literature.txt
+./Gutenberg/txt/John Morley___The Life of William Ewart Gladstone (Vol 1 of 3).txt
+./Gutenberg/txt/John Morley___The Life of William Ewart Gladstone (Vol 2 of 3).txt
+./Gutenberg/txt/John Morley___The Life of William Ewart Gladstone (Vol 3 of 3).txt
+./Gutenberg/txt/John Ruskin___A Joy For Ever.txt
+./Gutenberg/txt/John Ruskin___Aratra Pentelici, Seven Lectures on the Elements of Sculpture.txt
+./Gutenberg/txt/John Ruskin___Ariadne Florentina.txt
+./Gutenberg/txt/John Ruskin___Frondes Agrestes.txt
+./Gutenberg/txt/John Ruskin___Giotto and his works in Padua.txt
+./Gutenberg/txt/John Ruskin___Hortus Inclusus.txt
+./Gutenberg/txt/John Ruskin___Lectures on Architecture and Painting.txt
+./Gutenberg/txt/John Ruskin___Lectures on Art.txt
+./Gutenberg/txt/John Ruskin___Lectures on Landscape.txt
+./Gutenberg/txt/John Ruskin___Letters to the Clergy.txt
+./Gutenberg/txt/John Ruskin___Love's Meinie.txt
+./Gutenberg/txt/John Ruskin___Modern Painters, Volume 1 (of 5).txt
+./Gutenberg/txt/John Ruskin___Modern Painters, Volume 2 (of 5).txt
+./Gutenberg/txt/John Ruskin___Modern Painters, Volume 3 (of 5).txt
+./Gutenberg/txt/John Ruskin___Modern Painters, Volume 4 (of 5).txt
+./Gutenberg/txt/John Ruskin___Mornings in Florence.txt
+./Gutenberg/txt/John Ruskin___On the Old Road, Vol. 1 (of 2).txt
+./Gutenberg/txt/John Ruskin___On the Old Road, Vol. 2 (of 2).txt
+./Gutenberg/txt/John Ruskin___Our Fathers Have Told Us, Part I, The Bible of Amiens.txt
+./Gutenberg/txt/John Ruskin___Proserpina, Volume 1.txt
+./Gutenberg/txt/John Ruskin___Proserpina, Volume 2.txt
+./Gutenberg/txt/John Ruskin___Saint Ursula.txt
+./Gutenberg/txt/John Ruskin___Selections From the Works of John Ruskin.txt
+./Gutenberg/txt/John Ruskin___Sesame and Lilies.txt
+./Gutenberg/txt/John Ruskin___Stones of Venice [introductions].txt
+./Gutenberg/txt/John Ruskin___The Crown of Wild Olive.txt
+./Gutenberg/txt/John Ruskin___The Elements of Drawing.txt
+./Gutenberg/txt/John Ruskin___The Ethics of the Dust.txt
+./Gutenberg/txt/John Ruskin___The Harbours of England.txt
+./Gutenberg/txt/John Ruskin___The King of the Golden River.txt
+./Gutenberg/txt/John Ruskin___The Pleasures of England.txt
+./Gutenberg/txt/John Ruskin___The Poetry of Architecture.txt
+./Gutenberg/txt/John Ruskin___The Queen of the Air.txt
+./Gutenberg/txt/John Ruskin___The Seven Lamps of Architecture.txt
+./Gutenberg/txt/John Ruskin___The Stones of Venice, Volume I (of 3).txt
+./Gutenberg/txt/John Ruskin___The Stones of Venice, Volume II (of 3).txt
+./Gutenberg/txt/John Ruskin___The Stones of Venice, Volume III (of 3).txt
+./Gutenberg/txt/John Ruskin___The Storm-Cloud of the Nineteenth Century.txt
+./Gutenberg/txt/John Ruskin___The Two Paths.txt
+./Gutenberg/txt/John Ruskin___Time and Tide by Weare and Tyne.txt
+./Gutenberg/txt/John Ruskin___Unto This Last and Other Essays on Political Economy.txt
+./Gutenberg/txt/John Ruskin___Val d'Arno.txt
+./Gutenberg/txt/John Stuart Mill___A System Of Logic, Ratiocinative And Inductive.txt
+./Gutenberg/txt/John Stuart Mill___Auguste Comte and Positivism.txt
+./Gutenberg/txt/John Stuart Mill___Autobiography.txt
+./Gutenberg/txt/John Stuart Mill___Considerations on Representative Government.txt
+./Gutenberg/txt/John Stuart Mill___Essays on some unsettled Questions of Political Economy.txt
+./Gutenberg/txt/John Stuart Mill___On Liberty.txt
+./Gutenberg/txt/John Stuart Mill___Principles Of Political Economy.txt
+./Gutenberg/txt/John Stuart Mill___Socialism.txt
+./Gutenberg/txt/John Stuart Mill___The Contest in America.txt
+./Gutenberg/txt/John Stuart Mill___The Subjection of Women.txt
+./Gutenberg/txt/John Stuart Mill___Utilitarianism.txt
+./Gutenberg/txt/Jonathan Swift___A Modest Proposal.txt
+./Gutenberg/txt/Jonathan Swift___A Tale of a Tub.txt
+./Gutenberg/txt/Jonathan Swift___Gulliver's Travels.txt
+./Gutenberg/txt/Jonathan Swift___The Battle of the Books.txt
+./Gutenberg/txt/Jonathan Swift___The Bickerstaff-Partridge Papers.txt
+./Gutenberg/txt/Jonathan Swift___The Journal to Stella.txt
+./Gutenberg/txt/Jonathan Swift___The Poems of Jonathan Swift, D.D., Volume 1.txt
+./Gutenberg/txt/Jonathan Swift___The Poems of Jonathan Swift, D.D., Volume 2.txt
+./Gutenberg/txt/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 10.txt
+./Gutenberg/txt/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 3.txt
+./Gutenberg/txt/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 4.txt
+./Gutenberg/txt/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 6.txt
+./Gutenberg/txt/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 7.txt
+./Gutenberg/txt/Jonathan Swift___The Prose Works of Jonathan Swift, D.D., Volume 9.txt
+./Gutenberg/txt/Jonathan Swift___Three Sermons, Three Prayers.txt
+./Gutenberg/txt/Joseph Conrad___'Twixt Land & Sea.txt
+./Gutenberg/txt/Joseph Conrad___A Personal Record.txt
+./Gutenberg/txt/Joseph Conrad___A Set of Six.txt
+./Gutenberg/txt/Joseph Conrad___Almayer's Folly.txt
+./Gutenberg/txt/Joseph Conrad___Amy Foster.txt
+./Gutenberg/txt/Joseph Conrad___An Outcast of the Islands.txt
+./Gutenberg/txt/Joseph Conrad___Chance.txt
+./Gutenberg/txt/Joseph Conrad___End of the Tether.txt
+./Gutenberg/txt/Joseph Conrad___Falk.txt
+./Gutenberg/txt/Joseph Conrad___Gaspar Ruiz.txt
+./Gutenberg/txt/Joseph Conrad___Heart of Darkness, Version 1.txt
+./Gutenberg/txt/Joseph Conrad___Heart of Darkness, Version 2.txt
+./Gutenberg/txt/Joseph Conrad___Lord Jim.txt
+./Gutenberg/txt/Joseph Conrad___Nostromo, A Tale of the Seaboard.txt
+./Gutenberg/txt/Joseph Conrad___Notes on Life and Letters.txt
+./Gutenberg/txt/Joseph Conrad___Notes on My Books.txt
+./Gutenberg/txt/Joseph Conrad___One Day More.txt
+./Gutenberg/txt/Joseph Conrad___Some Reminiscences.txt
+./Gutenberg/txt/Joseph Conrad___Tales Of Hearsay.txt
+./Gutenberg/txt/Joseph Conrad___Tales of Unrest.txt
+./Gutenberg/txt/Joseph Conrad___The Arrow of Gold.txt
+./Gutenberg/txt/Joseph Conrad___The Mirror of the Sea.txt
+./Gutenberg/txt/Joseph Conrad___The Nigger Of The "Narcissus".txt
+./Gutenberg/txt/Joseph Conrad___The Point Of Honor.txt
+./Gutenberg/txt/Joseph Conrad___The Rescue.txt
+./Gutenberg/txt/Joseph Conrad___The Secret Agent.txt
+./Gutenberg/txt/Joseph Conrad___The Secret Sharer.txt
+./Gutenberg/txt/Joseph Conrad___The Shadow-Line.txt
+./Gutenberg/txt/Joseph Conrad___To-morrow.txt
+./Gutenberg/txt/Joseph Conrad___Typhoon.txt
+./Gutenberg/txt/Joseph Conrad___Under Western Eyes.txt
+./Gutenberg/txt/Joseph Conrad___Victory.txt
+./Gutenberg/txt/Joseph Conrad___Within the Tides.txt
+./Gutenberg/txt/Joseph Conrad___Youth.txt
+./Gutenberg/txt/Leigh Hunt___Captain Sword and Captain Pen.txt
+./Gutenberg/txt/Leigh Hunt___Stories from the Italian Poets: With Lives of the Writers, Volume 1.txt
+./Gutenberg/txt/Leigh Hunt___Stories from the Italian Poets: With Lives of the Writers, Volume 2.txt
+./Gutenberg/txt/Lewis Carroll___A Tangled Tale.txt
+./Gutenberg/txt/Lewis Carroll___Alice's Adventures Under Ground.txt
+./Gutenberg/txt/Lewis Carroll___Alice's Adventures in Wonderland.txt
+./Gutenberg/txt/Lewis Carroll___Eight or Nine Wise Words about Letter-Writing.txt
+./Gutenberg/txt/Lewis Carroll___Feeding the Mind.txt
+./Gutenberg/txt/Lewis Carroll___Phantasmagoria and Other Poems.txt
+./Gutenberg/txt/Lewis Carroll___Rhyme? And Reason?.txt
+./Gutenberg/txt/Lewis Carroll___Songs From Alice in Wonderland and Through the Looking-Glass.txt
+./Gutenberg/txt/Lewis Carroll___Sylvie and Bruno.txt
+./Gutenberg/txt/Lewis Carroll___Symbolic Logic.txt
+./Gutenberg/txt/Lewis Carroll___The Game of Logic.txt
+./Gutenberg/txt/Lewis Carroll___The Hunting of the Snark.txt
+./Gutenberg/txt/Lewis Carroll___Three Sunsets and Other Poems.txt
+./Gutenberg/txt/Lewis Carroll___Through the Looking-Glass.txt
+./Gutenberg/txt/Lord Byron___Byron's Poetical Works, Vol. 1.txt
+./Gutenberg/txt/Lord Byron___Childe Harold's Pilgrimage.txt
+./Gutenberg/txt/Lord Byron___Don Juan.txt
+./Gutenberg/txt/Lord Byron___Fugitive Pieces.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron. Vol. 2.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron. Vol. 3.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron. Vol. 4.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron. Vol. 5.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron. Vol. 6.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron. Vol. 7.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron: Letters and Journals. Vol. 1.txt
+./Gutenberg/txt/Lord Byron___The Works of Lord Byron: Letters and Journals. Vol. 2.txt
+./Gutenberg/txt/Lord Tennyson___Beauties of Tennyson.txt
+./Gutenberg/txt/Lord Tennyson___Becket and other plays.txt
+./Gutenberg/txt/Lord Tennyson___Enoch Arden, &c.txt
+./Gutenberg/txt/Lord Tennyson___Idylls of the King.txt
+./Gutenberg/txt/Lord Tennyson___Lady Clare.txt
+./Gutenberg/txt/Lord Tennyson___Queen Mary and Harold.txt
+./Gutenberg/txt/Lord Tennyson___The Early Poems of Alfred Lord Tennyson.txt
+./Gutenberg/txt/Lord Tennyson___The Last Tournament.txt
+./Gutenberg/txt/Lord Tennyson___The Princess.txt
+./Gutenberg/txt/Lord Tennyson___The Suppressed Poems of Alfred Lord Tennyson.txt
+./Gutenberg/txt/Louisa May Alcott___A Garland for Girls.txt
+./Gutenberg/txt/Louisa May Alcott___A Modern Cinderella.txt
+./Gutenberg/txt/Louisa May Alcott___An Old-fashioned Girl.txt
+./Gutenberg/txt/Louisa May Alcott___Aunt Jo's Scrap-Bag VI.txt
+./Gutenberg/txt/Louisa May Alcott___Aunt Jo's Scrap-Bag, Volume 5.txt
+./Gutenberg/txt/Louisa May Alcott___Aunt Jo's Scrap-Bag.txt
+./Gutenberg/txt/Louisa May Alcott___Behind A Mask, Or A Woman's Power.txt
+./Gutenberg/txt/Louisa May Alcott___Comic Tragedies.txt
+./Gutenberg/txt/Louisa May Alcott___Eight Cousins.txt
+./Gutenberg/txt/Louisa May Alcott___Flower Fables.txt
+./Gutenberg/txt/Louisa May Alcott___Hospital Sketches.txt
+./Gutenberg/txt/Louisa May Alcott___Jack and Jill.txt
+./Gutenberg/txt/Louisa May Alcott___Jo's Boys.txt
+./Gutenberg/txt/Louisa May Alcott___Kitty's Class Day And Other Stories.txt
+./Gutenberg/txt/Louisa May Alcott___Little Men.txt
+./Gutenberg/txt/Louisa May Alcott___Little Women.txt
+./Gutenberg/txt/Louisa May Alcott___Lulu's Library, Volume II.txt
+./Gutenberg/txt/Louisa May Alcott___Marjorie's Three Gifts.txt
+./Gutenberg/txt/Louisa May Alcott___May Flowers.txt
+./Gutenberg/txt/Louisa May Alcott___Moods.txt
+./Gutenberg/txt/Louisa May Alcott___Mountain-Laurel and Maidenhair.txt
+./Gutenberg/txt/Louisa May Alcott___On Picket Duty and Other Tales.txt
+./Gutenberg/txt/Louisa May Alcott___Pauline's Passion and Punishment.txt
+./Gutenberg/txt/Louisa May Alcott___Rose in Bloom.txt
+./Gutenberg/txt/Louisa May Alcott___Shawl-Straps.txt
+./Gutenberg/txt/Louisa May Alcott___Silver Pitchers: and Independence.txt
+./Gutenberg/txt/Louisa May Alcott___Spinning-Wheel Stories.txt
+./Gutenberg/txt/Louisa May Alcott___The Abbot's Ghost, Or Maurice Treherne's Temptation.txt
+./Gutenberg/txt/Louisa May Alcott___The Candy Country.txt
+./Gutenberg/txt/Louisa May Alcott___The Louisa Alcott Reader.txt
+./Gutenberg/txt/Louisa May Alcott___The Mysterious Key And What It Opened.txt
+./Gutenberg/txt/Louisa May Alcott___Three Unpublished Poems.txt
+./Gutenberg/txt/Louisa May Alcott___Under the Lilacs.txt
+./Gutenberg/txt/Louisa May Alcott___Work: A Story of Experience.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Anne Of Avonlea.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Anne Of Green Gables.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Anne Of The Island.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Anne's House of Dreams.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Chronicles of Avonlea.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Further Chronicles of Avonlea.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Kilmeny of the Orchard.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1896 to 1901.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1902 to 1903.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1904.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1905 to 1906.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1907 to 1908.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Lucy Maud Montgomery Short Stories, 1909 to 1922.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Rainbow Valley.txt
+./Gutenberg/txt/Lucy Maud Montgomery___Rilla of Ingleside.txt
+./Gutenberg/txt/Lucy Maud Montgomery___The Golden Road.txt
+./Gutenberg/txt/Lucy Maud Montgomery___The Story Girl.txt
+./Gutenberg/txt/Lyman Frank Baum___A Kidnapped Santa Claus.txt
+./Gutenberg/txt/Lyman Frank Baum___American Fairy Tales.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces Abroad.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces Out West.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces and Uncle John.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces at Millville.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces at Work.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces in Society.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces in the Red Cross.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces on Vacation.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane's Nieces.txt
+./Gutenberg/txt/Lyman Frank Baum___Aunt Jane’s Nieces on the Ranch.txt
+./Gutenberg/txt/Lyman Frank Baum___Dorothy and the Wizard in Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Dot and Tot of Merryland.txt
+./Gutenberg/txt/Lyman Frank Baum___Glinda of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Little Wizard Stories of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Mary Louise Solves a Mystery.txt
+./Gutenberg/txt/Lyman Frank Baum___Mary Louise and the Liberty Girls.txt
+./Gutenberg/txt/Lyman Frank Baum___Mary Louise in the Country.txt
+./Gutenberg/txt/Lyman Frank Baum___Mary Louise.txt
+./Gutenberg/txt/Lyman Frank Baum___Mother Goose in Prose.txt
+./Gutenberg/txt/Lyman Frank Baum___Ozma of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Policeman Bluejay.txt
+./Gutenberg/txt/Lyman Frank Baum___Rinkitink in Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Sky Island.txt
+./Gutenberg/txt/Lyman Frank Baum___The Emerald City of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Enchanted Island of Yew.txt
+./Gutenberg/txt/Lyman Frank Baum___The Life and Adventures of Santa Claus.txt
+./Gutenberg/txt/Lyman Frank Baum___The Lost Princess of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Magic of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Marvellous Land of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Master Key.txt
+./Gutenberg/txt/Lyman Frank Baum___The Patchwork Girl of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Road to Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Scarecrow of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Sea Fairies.txt
+./Gutenberg/txt/Lyman Frank Baum___The Surprising Adventures of the Magical Monarch of Mo and His People.txt
+./Gutenberg/txt/Lyman Frank Baum___The Tin Woodman of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___The Woggle-Bug Book.txt
+./Gutenberg/txt/Lyman Frank Baum___The Wonderful Wizard of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Tik-Tok of Oz.txt
+./Gutenberg/txt/Lyman Frank Baum___Twinkle and Chubbins.txt
+./Gutenberg/txt/Mark Twain___1601.txt
+./Gutenberg/txt/Mark Twain___A Burlesque Autobiography.txt
+./Gutenberg/txt/Mark Twain___A Connecticut Yankee in King Arthur's Court, Complete.txt
+./Gutenberg/txt/Mark Twain___A Dog's Tale.txt
+./Gutenberg/txt/Mark Twain___A Double Barrelled Detective Story.txt
+./Gutenberg/txt/Mark Twain___A Horse's Tale.txt
+./Gutenberg/txt/Mark Twain___A Tramp Abroad.txt
+./Gutenberg/txt/Mark Twain___Adventures of Huckleberry Finn, Complete.txt
+./Gutenberg/txt/Mark Twain___Alonzo Fitz and Other Stories.txt
+./Gutenberg/txt/Mark Twain___Captain Stormfield's Visit to Heaven.txt
+./Gutenberg/txt/Mark Twain___Chapters from My Autobiography.txt
+./Gutenberg/txt/Mark Twain___Christian Science.txt
+./Gutenberg/txt/Mark Twain___Editorial Wild Oats.txt
+./Gutenberg/txt/Mark Twain___Essays on Paul Bourget.txt
+./Gutenberg/txt/Mark Twain___Eve's Diary, Complete.txt
+./Gutenberg/txt/Mark Twain___Extracts From Adam's Diary.txt
+./Gutenberg/txt/Mark Twain___Fenimore Cooper's Literary Offences.txt
+./Gutenberg/txt/Mark Twain___Following the Equator, Complete.txt
+./Gutenberg/txt/Mark Twain___Goldsmith's Friend Abroad Again.txt
+./Gutenberg/txt/Mark Twain___How Tell a Story and Others.txt
+./Gutenberg/txt/Mark Twain___In Defense of Harriet Shelley.txt
+./Gutenberg/txt/Mark Twain___Is Shakespeare Dead?.txt
+./Gutenberg/txt/Mark Twain___Life On The Mississippi, Complete.txt
+./Gutenberg/txt/Mark Twain___Mark Twain's Speeches.txt
+./Gutenberg/txt/Mark Twain___On the Decay of the Art of Lying.txt
+./Gutenberg/txt/Mark Twain___Personal Recollections of Joan of Arc, Volume 1.txt
+./Gutenberg/txt/Mark Twain___Personal Recollections of Joan of Arc, Volume 2.txt
+./Gutenberg/txt/Mark Twain___Roughing It.txt
+./Gutenberg/txt/Mark Twain___Sketches New and Old, Complete.txt
+./Gutenberg/txt/Mark Twain___Some Rambling Notes of an Idle Excursion.txt
+./Gutenberg/txt/Mark Twain___The $30,000 Bequest and Other Stories.txt
+./Gutenberg/txt/Mark Twain___The Adventures of Tom Sawyer, Complete.txt
+./Gutenberg/txt/Mark Twain___The American Claimant.txt
+./Gutenberg/txt/Mark Twain___The Curious Republic of Gondour and Other Whimsical Sketches.txt
+./Gutenberg/txt/Mark Twain___The Facts Concerning The Recent Carnival Of Crime In Connecticut.txt
+./Gutenberg/txt/Mark Twain___The Innocents Abroad.txt
+./Gutenberg/txt/Mark Twain___The Letters Of Mark Twain, Complete.txt
+./Gutenberg/txt/Mark Twain___The Man That Corrupted Hadleyburg and Other Stories.txt
+./Gutenberg/txt/Mark Twain___The Mysterious Stranger and Other Stories.txt
+./Gutenberg/txt/Mark Twain___The Prince and The Pauper, Complete.txt
+./Gutenberg/txt/Mark Twain___The Stolen White Elephant.txt
+./Gutenberg/txt/Mark Twain___The Tragedy of Pudd'nhead Wilson.txt
+./Gutenberg/txt/Mark Twain___The Treaty With China, its Provisions Explained.txt
+./Gutenberg/txt/Mark Twain___Those Extraordinary Twins.txt
+./Gutenberg/txt/Mark Twain___Tom Sawyer Abroad.txt
+./Gutenberg/txt/Mark Twain___Tom Sawyer, Detective.txt
+./Gutenberg/txt/Mark Twain___What Is Man? And Other Essays.txt
+./Gutenberg/txt/Mary Shelley___Frankenstein.txt
+./Gutenberg/txt/Mary Shelley___Mathilda.txt
+./Gutenberg/txt/Mary Shelley___Notes to the Complete Poetical Works of Percy Bysshe Shelley.txt
+./Gutenberg/txt/Mary Shelley___Proserpine and Midas.txt
+./Gutenberg/txt/Mary Shelley___The Last Man.txt
+./Gutenberg/txt/Mary Stewart Daggett___Mariposilla.txt
+./Gutenberg/txt/Mary Stewart Daggett___The Higher Court.txt
+./Gutenberg/txt/Michael Faraday___Experimental Researches in Electricity, Volume 1.txt
+./Gutenberg/txt/Michael Faraday___The Chemical History Of A Candle.txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Bell's Biography.txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Book of Autographs.txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Rill from the Town Pump (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Select Party (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Virtuoso's Collection (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Wonder Book and Tanglewood Tales.txt
+./Gutenberg/txt/Nathaniel Hawthorne___A Wonder Book for Girls & Boys.txt
+./Gutenberg/txt/Nathaniel Hawthorne___An Old Woman's Tale.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Beneath an Umbrella (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Biographical Sketches.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Biographical Stories.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Browne's Folly.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Buds and Bird Voices (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Chippings With A Chisel (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Doctor Grimshawe's Secret.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Dr. Bullivant.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Earth's Holocaust (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Edward Fane's Rosebud (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Fancy's Show-Box (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Fanshawe.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Fire Worship (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Footprints on the Sea-Shore (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Fragments from The Journal of a Solitary Man.txt
+./Gutenberg/txt/Nathaniel Hawthorne___From Twice Told Tales.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Grandfather's Chair.txt
+./Gutenberg/txt/Nathaniel Hawthorne___John Inglefield's Thanksgiving.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Little Annie's Ramble (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Little Daffydowndilly.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Little Masterpieces.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Main Street.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Monsieur du Muroir (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Mosses from an Old Manse and Other Stories.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Old News.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Old Ticonderoga, A Picture of The Past.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Other Tales and Sketches.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Our Old Home.txt
+./Gutenberg/txt/Nathaniel Hawthorne___P.'s Correspondence (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Passages From the English Notebooks.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Passages from a Relinquished Work (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Passages from the American Notebooks, Volume 1.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Passages from the American Notebooks, Volume 2.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Passages from the French and Italian Notebooks, Complete.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Septimius Felton.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Sights from a Steeple (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Sketches and Studies.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Sketches from Memory (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Sketches from Memory.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Snow Flakes (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Sunday at Home (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___Sylph Etherege.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Tanglewood Tales.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Ancestral Footstep (fragment).txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Blithedale Romance.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Christmas Banquet (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Dolliver Romance.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Gorgon's Head.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Great Stone Face.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Hall of Fantasy (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Haunted Mind (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The House of the Seven Gables.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Intelligence Office (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Lily's Quest (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Man of Adamant.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Marble Faun, Volume 1.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Marble Faun, Volume 2.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Miraculous Pitcher.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The New Adam and Eve (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Old Apple Dealer (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Old Manse (From "Mosses From An Old Manse").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Paradise of Children.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Prophetic Pictures (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Scarlet Letter.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Seven Vagabonds (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Sister Years (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Snow Image.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Snow-Image.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Three Golden Apples.txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Threefold Destiny (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Toll Gatherer's Day (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Village Uncle (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Vision of the Fountain (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The White Old Maid (From "Twice Told Tales").txt
+./Gutenberg/txt/Nathaniel Hawthorne___The Wives of The Dead.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Time's Portraiture.txt
+./Gutenberg/txt/Nathaniel Hawthorne___True Stories from History and Biography.txt
+./Gutenberg/txt/Nathaniel Hawthorne___Twice Told Tales.txt
+./Gutenberg/txt/O Henry___Cabbages and Kings.txt
+./Gutenberg/txt/O Henry___Heart of the West.txt
+./Gutenberg/txt/O Henry___Options.txt
+./Gutenberg/txt/O Henry___Roads of Destiny.txt
+./Gutenberg/txt/O Henry___Rolling Stones.txt
+./Gutenberg/txt/O Henry___Sixes and Sevens.txt
+./Gutenberg/txt/O Henry___Strictly Business.txt
+./Gutenberg/txt/O Henry___The Four Million.txt
+./Gutenberg/txt/O Henry___The Gentle Grafter.txt
+./Gutenberg/txt/O Henry___The Gift of the Magi.txt
+./Gutenberg/txt/O Henry___The Trimmed Lamp.txt
+./Gutenberg/txt/O Henry___The Voice of the City.txt
+./Gutenberg/txt/O Henry___Waifs and Strays Part 1.txt
+./Gutenberg/txt/O Henry___Whirligigs.txt
+./Gutenberg/txt/Oscar Wilde___A Critic in Pall Mall.txt
+./Gutenberg/txt/Oscar Wilde___A House of Pomegranates.txt
+./Gutenberg/txt/Oscar Wilde___A Woman of No Importance.txt
+./Gutenberg/txt/Oscar Wilde___An Ideal Husband.txt
+./Gutenberg/txt/Oscar Wilde___Charmides and Other Poems.txt
+./Gutenberg/txt/Oscar Wilde___De Profundis.txt
+./Gutenberg/txt/Oscar Wilde___Essays and Lectures.txt
+./Gutenberg/txt/Oscar Wilde___For Love of the King.txt
+./Gutenberg/txt/Oscar Wilde___Intentions.txt
+./Gutenberg/txt/Oscar Wilde___La Sainte Courtisane.txt
+./Gutenberg/txt/Oscar Wilde___Lady Windermere's Fan.txt
+./Gutenberg/txt/Oscar Wilde___Lord Arthur Savile's Crime and Other Stories.txt
+./Gutenberg/txt/Oscar Wilde___Miscellaneous Aphorisms; The Soul of Man.txt
+./Gutenberg/txt/Oscar Wilde___Miscellanies.txt
+./Gutenberg/txt/Oscar Wilde___Poems.txt
+./Gutenberg/txt/Oscar Wilde___Reviews.txt
+./Gutenberg/txt/Oscar Wilde___Selected Poems of Oscar Wilde.txt
+./Gutenberg/txt/Oscar Wilde___Selected Prose of Oscar Wilde.txt
+./Gutenberg/txt/Oscar Wilde___Shorter Prose Pieces.txt
+./Gutenberg/txt/Oscar Wilde___The Ballad of Reading Gaol.txt
+./Gutenberg/txt/Oscar Wilde___The Canterville Ghost.txt
+./Gutenberg/txt/Oscar Wilde___The Duchess of Padua.txt
+./Gutenberg/txt/Oscar Wilde___The Happy Prince and Other Tales.txt
+./Gutenberg/txt/Oscar Wilde___The Importance of Being Earnest.txt
+./Gutenberg/txt/Oscar Wilde___The Picture of Dorian Gray.txt
+./Gutenberg/txt/Oscar Wilde___The Soul of Man.txt
+./Gutenberg/txt/Oscar Wilde___Vera.txt
+./Gutenberg/txt/P B Shelley___A Defence of Poetry and Other Essays.txt
+./Gutenberg/txt/P B Shelley___A Vindication of Natural Diet.txt
+./Gutenberg/txt/P B Shelley___Adonais.txt
+./Gutenberg/txt/P B Shelley___Peter Bell the Third.txt
+./Gutenberg/txt/P B Shelley___The Complete Poetical Works of Percy Bysshe Shelley.txt
+./Gutenberg/txt/P B Shelley___The Daemon of the World.txt
+./Gutenberg/txt/P B Shelley___The Witch of Atlas.txt
+./Gutenberg/txt/P G Wodehouse___A Damsel in Distress.txt
+./Gutenberg/txt/P G Wodehouse___A Prefect's Uncle.txt
+./Gutenberg/txt/P G Wodehouse___A Wodehouse Miscellany.txt
+./Gutenberg/txt/P G Wodehouse___Death At The Excelsior.txt
+./Gutenberg/txt/P G Wodehouse___Indiscretions of Archie.txt
+./Gutenberg/txt/P G Wodehouse___Jill the Reckless.txt
+./Gutenberg/txt/P G Wodehouse___Love Among the Chickens.txt
+./Gutenberg/txt/P G Wodehouse___Mike and Psmith.txt
+./Gutenberg/txt/P G Wodehouse___Mike.txt
+./Gutenberg/txt/P G Wodehouse___My Man Jeeves.txt
+./Gutenberg/txt/P G Wodehouse___Piccadilly Jim.txt
+./Gutenberg/txt/P G Wodehouse___Psmith in the City.txt
+./Gutenberg/txt/P G Wodehouse___Psmith, Journalist.txt
+./Gutenberg/txt/P G Wodehouse___Right Ho, Jeeves.txt
+./Gutenberg/txt/P G Wodehouse___Something New.txt
+./Gutenberg/txt/P G Wodehouse___Tales of St. Austin's.txt
+./Gutenberg/txt/P G Wodehouse___The Adventures of Sally.txt
+./Gutenberg/txt/P G Wodehouse___The Clicking of Cuthbert.txt
+./Gutenberg/txt/P G Wodehouse___The Coming of Bill.txt
+./Gutenberg/txt/P G Wodehouse___The Gem Collector.txt
+./Gutenberg/txt/P G Wodehouse___The Girl on the Boat.txt
+./Gutenberg/txt/P G Wodehouse___The Gold Bat.txt
+./Gutenberg/txt/P G Wodehouse___The Head of Kay's.txt
+./Gutenberg/txt/P G Wodehouse___The Intrusion of Jimmy.txt
+./Gutenberg/txt/P G Wodehouse___The Little Nugget.txt
+./Gutenberg/txt/P G Wodehouse___The Man Upstairs and Other Stories.txt
+./Gutenberg/txt/P G Wodehouse___The Man with Two Left Feet.txt
+./Gutenberg/txt/P G Wodehouse___The Politeness of Princes.txt
+./Gutenberg/txt/P G Wodehouse___The Pothunters.txt
+./Gutenberg/txt/P G Wodehouse___The Prince and Betty.txt
+./Gutenberg/txt/P G Wodehouse___The Swoop!.txt
+./Gutenberg/txt/P G Wodehouse___The White Feather.txt
+./Gutenberg/txt/P G Wodehouse___Three Men and a Maid.txt
+./Gutenberg/txt/P G Wodehouse___Uneasy Money.txt
+./Gutenberg/txt/P G Wodehouse___William Tell Told Again.txt
+./Gutenberg/txt/Percival Lowell___Noto, An Unexplored Corner of Japan.txt
+./Gutenberg/txt/Percival Lowell___The Soul of the Far East.txt
+./Gutenberg/txt/Philip Kindred Dick___Beyond Lies the Wub.txt
+./Gutenberg/txt/Philip Kindred Dick___Beyond the Door.txt
+./Gutenberg/txt/Philip Kindred Dick___Mr. Spaceship.txt
+./Gutenberg/txt/Philip Kindred Dick___Piper in the Woods.txt
+./Gutenberg/txt/Philip Kindred Dick___Second Variety.txt
+./Gutenberg/txt/Philip Kindred Dick___The Crystal Crypt.txt
+./Gutenberg/txt/Philip Kindred Dick___The Defenders.txt
+./Gutenberg/txt/Philip Kindred Dick___The Eyes Have It.txt
+./Gutenberg/txt/Philip Kindred Dick___The Gun.txt
+./Gutenberg/txt/Philip Kindred Dick___The Skull.txt
+./Gutenberg/txt/Philip Kindred Dick___The Variable Man.txt
+./Gutenberg/txt/R M Ballantyne___Away in the Wilderness.txt
+./Gutenberg/txt/R M Ballantyne___Battles with the Sea.txt
+./Gutenberg/txt/R M Ballantyne___Black Ivory.txt
+./Gutenberg/txt/R M Ballantyne___Blown to Bits.txt
+./Gutenberg/txt/R M Ballantyne___Blue Lights.txt
+./Gutenberg/txt/R M Ballantyne___Charlie to the Rescue.txt
+./Gutenberg/txt/R M Ballantyne___Chasing the Sun.txt
+./Gutenberg/txt/R M Ballantyne___Deep Down, a Tale of the Cornish Mines.txt
+./Gutenberg/txt/R M Ballantyne___Digging for Gold.txt
+./Gutenberg/txt/R M Ballantyne___Dusty Diamonds Cut and Polished.txt
+./Gutenberg/txt/R M Ballantyne___Erling the Bold.txt
+./Gutenberg/txt/R M Ballantyne___Fast in the Ice.txt
+./Gutenberg/txt/R M Ballantyne___Fighting the Flames.txt
+./Gutenberg/txt/R M Ballantyne___Fighting the Whales.txt
+./Gutenberg/txt/R M Ballantyne___Fort Desolation.txt
+./Gutenberg/txt/R M Ballantyne___Freaks on the Fells.txt
+./Gutenberg/txt/R M Ballantyne___Gascoyne, the Sandal-Wood Trader.txt
+./Gutenberg/txt/R M Ballantyne___Handbook to the new Gold-fields.txt
+./Gutenberg/txt/R M Ballantyne___Hudson Bay.txt
+./Gutenberg/txt/R M Ballantyne___Hunted and Harried.txt
+./Gutenberg/txt/R M Ballantyne___Hunting the Lions.txt
+./Gutenberg/txt/R M Ballantyne___In the Track of the Troops.txt
+./Gutenberg/txt/R M Ballantyne___Jarwin and Cuffy.txt
+./Gutenberg/txt/R M Ballantyne___Jeff Benson, or the Young Coastguardsman.txt
+./Gutenberg/txt/R M Ballantyne___Life in the Red Brigade.txt
+./Gutenberg/txt/R M Ballantyne___Lost in the Forest.txt
+./Gutenberg/txt/R M Ballantyne___Man on the Ocean.txt
+./Gutenberg/txt/R M Ballantyne___Martin Rattler.txt
+./Gutenberg/txt/R M Ballantyne___My Doggie and I.txt
+./Gutenberg/txt/R M Ballantyne___Over the Rocky Mountains.txt
+./Gutenberg/txt/R M Ballantyne___Personal Reminiscences in Book Making.txt
+./Gutenberg/txt/R M Ballantyne___Philosopher Jack.txt
+./Gutenberg/txt/R M Ballantyne___Post Haste.txt
+./Gutenberg/txt/R M Ballantyne___Red Rooney.txt
+./Gutenberg/txt/R M Ballantyne___Rivers of Ice.txt
+./Gutenberg/txt/R M Ballantyne___Saved by the Lifeboat.txt
+./Gutenberg/txt/R M Ballantyne___Shifting Winds.txt
+./Gutenberg/txt/R M Ballantyne___Silver Lake.txt
+./Gutenberg/txt/R M Ballantyne___Six Months at the Cape.txt
+./Gutenberg/txt/R M Ballantyne___Sunk at Sea.txt
+./Gutenberg/txt/R M Ballantyne___The Battery and the Boiler.txt
+./Gutenberg/txt/R M Ballantyne___The Battle and the Breeze.txt
+./Gutenberg/txt/R M Ballantyne___The Big Otter.txt
+./Gutenberg/txt/R M Ballantyne___The Buffalo Runners.txt
+./Gutenberg/txt/R M Ballantyne___The Butterfly's Ball.txt
+./Gutenberg/txt/R M Ballantyne___The Cannibal Islands.txt
+./Gutenberg/txt/R M Ballantyne___The Coral Island.txt
+./Gutenberg/txt/R M Ballantyne___The Coxswain's Bride.txt
+./Gutenberg/txt/R M Ballantyne___The Crew of the Water Wagtail.txt
+./Gutenberg/txt/R M Ballantyne___The Dog Crusoe and his Master.txt
+./Gutenberg/txt/R M Ballantyne___The Eagle Cliff.txt
+./Gutenberg/txt/R M Ballantyne___The Floating Light of the Goodwin Sands.txt
+./Gutenberg/txt/R M Ballantyne___The Fugitives.txt
+./Gutenberg/txt/R M Ballantyne___The Garret and the Garden.txt
+./Gutenberg/txt/R M Ballantyne___The Giant of the North.txt
+./Gutenberg/txt/R M Ballantyne___The Golden Dream.txt
+./Gutenberg/txt/R M Ballantyne___The Gorilla Hunters.txt
+./Gutenberg/txt/R M Ballantyne___The Hot Swamp.txt
+./Gutenberg/txt/R M Ballantyne___The Iron Horse.txt
+./Gutenberg/txt/R M Ballantyne___The Island Queen.txt
+./Gutenberg/txt/R M Ballantyne___The Life of a Ship.txt
+./Gutenberg/txt/R M Ballantyne___The Lifeboat.txt
+./Gutenberg/txt/R M Ballantyne___The Lighthouse.txt
+./Gutenberg/txt/R M Ballantyne___The Lively Poll.txt
+./Gutenberg/txt/R M Ballantyne___The Lonely Island.txt
+./Gutenberg/txt/R M Ballantyne___The Madman and the Pirate.txt
+./Gutenberg/txt/R M Ballantyne___The Middy and the Moors.txt
+./Gutenberg/txt/R M Ballantyne___The Norsemen in the West.txt
+./Gutenberg/txt/R M Ballantyne___The Ocean and its Wonders.txt
+./Gutenberg/txt/R M Ballantyne___The Pioneers.txt
+./Gutenberg/txt/R M Ballantyne___The Pirate City.txt
+./Gutenberg/txt/R M Ballantyne___The Prairie Chief.txt
+./Gutenberg/txt/R M Ballantyne___The Red Eric.txt
+./Gutenberg/txt/R M Ballantyne___The Red Man's Revenge.txt
+./Gutenberg/txt/R M Ballantyne___The Rover of the Andes.txt
+./Gutenberg/txt/R M Ballantyne___The Settler and the Savage.txt
+./Gutenberg/txt/R M Ballantyne___The Story of the Rock.txt
+./Gutenberg/txt/R M Ballantyne___The Thorogood Family.txt
+./Gutenberg/txt/R M Ballantyne___The Walrus Hunters.txt
+./Gutenberg/txt/R M Ballantyne___The Wild Man of the West.txt
+./Gutenberg/txt/R M Ballantyne___The World of Ice.txt
+./Gutenberg/txt/R M Ballantyne___The Young Fur Traders.txt
+./Gutenberg/txt/R M Ballantyne___The Young Trawler.txt
+./Gutenberg/txt/R M Ballantyne___Twice Bought.txt
+./Gutenberg/txt/R M Ballantyne___Under the Waves.txt
+./Gutenberg/txt/R M Ballantyne___Ungava.txt
+./Gutenberg/txt/R M Ballantyne___Up in the Clouds.txt
+./Gutenberg/txt/R M Ballantyne___Wrecked but not Ruined.txt
+./Gutenberg/txt/Rafael Sabatini___Bardelys the Magnificent.txt
+./Gutenberg/txt/Rafael Sabatini___Captain Blood.txt
+./Gutenberg/txt/Rafael Sabatini___Love-at-Arms.txt
+./Gutenberg/txt/Rafael Sabatini___Mistress Wilding.txt
+./Gutenberg/txt/Rafael Sabatini___Scaramouche.txt
+./Gutenberg/txt/Rafael Sabatini___St. Martin's Summer.txt
+./Gutenberg/txt/Rafael Sabatini___The Historical Nights' Entertainment, First Series.txt
+./Gutenberg/txt/Rafael Sabatini___The Historical Nights' Entertainment, Second Series.txt
+./Gutenberg/txt/Rafael Sabatini___The Life of Cesare Borgia.txt
+./Gutenberg/txt/Rafael Sabatini___The Lion's Skin.txt
+./Gutenberg/txt/Rafael Sabatini___The Sea-Hawk.txt
+./Gutenberg/txt/Rafael Sabatini___The Shame of Motley.txt
+./Gutenberg/txt/Rafael Sabatini___The Snare.txt
+./Gutenberg/txt/Rafael Sabatini___The Strolling Saint.txt
+./Gutenberg/txt/Rafael Sabatini___The Suitors of Yvonne.txt
+./Gutenberg/txt/Rafael Sabatini___The Tavern Knight.txt
+./Gutenberg/txt/Rafael Sabatini___The Trampling of the Lilies.txt
+./Gutenberg/txt/Ralph Waldo Emerson___Essays, First Series.txt
+./Gutenberg/txt/Ralph Waldo Emerson___Essays, Second Series.txt
+./Gutenberg/txt/Ralph Waldo Emerson___Essays.txt
+./Gutenberg/txt/Ralph Waldo Emerson___May-Day.txt
+./Gutenberg/txt/Ralph Waldo Emerson___Nature.txt
+./Gutenberg/txt/Ralph Waldo Emerson___Poems.txt
+./Gutenberg/txt/Ralph Waldo Emerson___Representative Men.txt
+./Gutenberg/txt/Richard Brinsley Sheridan___Scarborough and the Critic.txt
+./Gutenberg/txt/Richard Brinsley Sheridan___St. Patrick's Day.txt
+./Gutenberg/txt/Richard Brinsley Sheridan___The Duenna.txt
+./Gutenberg/txt/Richard Brinsley Sheridan___The Rivals.txt
+./Gutenberg/txt/Richard Brinsley Sheridan___The School For Scandal.txt
+./Gutenberg/txt/Robert Browning___A Blot In The 'Scutcheon.txt
+./Gutenberg/txt/Robert Browning___Browning's Shorter Poems.txt
+./Gutenberg/txt/Robert Browning___Christmas Eve.txt
+./Gutenberg/txt/Robert Browning___Dramatic Romances.txt
+./Gutenberg/txt/Robert Browning___Men and Women.txt
+./Gutenberg/txt/Robert Browning___Selections from the Poems and Plays of Robert Browning.txt
+./Gutenberg/txt/Robert Browning___The Pied Piper of Hamelin.txt
+./Gutenberg/txt/Robert Burns___Poems And Songs Of Robert Burns.txt
+./Gutenberg/txt/Robert Burns___Tam O'Shanter.txt
+./Gutenberg/txt/Robert Burns___The Letters of Robert Burns.txt
+./Gutenberg/txt/Robert Frost___A Boy's Will.txt
+./Gutenberg/txt/Robert Frost___Mountain Interval.txt
+./Gutenberg/txt/Robert Frost___North of Boston.txt
+./Gutenberg/txt/Robert Hooke___Micrographia.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Verse 130.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Verse 142.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Verse 154.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Verse 158.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Version 1.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Version 2.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Version 3.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Child's Garden of Verses, Version 4.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Christmas Sermon.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Footnote to History.txt
+./Gutenberg/txt/Robert Louis Stevenson___A Lowden Sabbath Morn.txt
+./Gutenberg/txt/Robert Louis Stevenson___Across The Plains.txt
+./Gutenberg/txt/Robert Louis Stevenson___An Inland Voyage.txt
+./Gutenberg/txt/Robert Louis Stevenson___Ballads.txt
+./Gutenberg/txt/Robert Louis Stevenson___Catriona.txt
+./Gutenberg/txt/Robert Louis Stevenson___David Balfour, Second Part.txt
+./Gutenberg/txt/Robert Louis Stevenson___Edinburgh.txt
+./Gutenberg/txt/Robert Louis Stevenson___Essays of Robert Louis Stevenson.txt
+./Gutenberg/txt/Robert Louis Stevenson___Essays of Travel.txt
+./Gutenberg/txt/Robert Louis Stevenson___Fables.txt
+./Gutenberg/txt/Robert Louis Stevenson___Familiar Studies of Men & Books.txt
+./Gutenberg/txt/Robert Louis Stevenson___Father Damien.txt
+./Gutenberg/txt/Robert Louis Stevenson___In the South Seas.txt
+./Gutenberg/txt/Robert Louis Stevenson___Island Nights' Entertainments.txt
+./Gutenberg/txt/Robert Louis Stevenson___Kidnapped.txt
+./Gutenberg/txt/Robert Louis Stevenson___Lay Morals.txt
+./Gutenberg/txt/Robert Louis Stevenson___Letters of Robert Louis Stevenson, Volume 1.txt
+./Gutenberg/txt/Robert Louis Stevenson___Letters of Robert Louis Stevenson, Volume 2.txt
+./Gutenberg/txt/Robert Louis Stevenson___Memoir of Fleeming Jenkin.txt
+./Gutenberg/txt/Robert Louis Stevenson___Memories and Portraits.txt
+./Gutenberg/txt/Robert Louis Stevenson___Moral Emblems.txt
+./Gutenberg/txt/Robert Louis Stevenson___New Arabian Nights.txt
+./Gutenberg/txt/Robert Louis Stevenson___New Poems.txt
+./Gutenberg/txt/Robert Louis Stevenson___Prayers Written At Vailima.txt
+./Gutenberg/txt/Robert Louis Stevenson___Prince Otto.txt
+./Gutenberg/txt/Robert Louis Stevenson___Records of a Family of Engineers.txt
+./Gutenberg/txt/Robert Louis Stevenson___Songs of Travel.txt
+./Gutenberg/txt/Robert Louis Stevenson___St. Ives.txt
+./Gutenberg/txt/Robert Louis Stevenson___Tales and Fantasies.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Art of Writing and Other Essays.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Black Arrow.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Dynamiter.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Master of Ballantrae.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Merry Men.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Sea Fogs.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Silverado Squatters.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Strange Case Of Dr. Jekyll And Mr. Hyde.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Waif Woman.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 1.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 10.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 11.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 12.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 13.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 14.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 15.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 16.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 17.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 18.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 19.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 2.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 20.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 21.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 22.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 23.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 24.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 25.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 3.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 4.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 5.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 6.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 7.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 8.txt
+./Gutenberg/txt/Robert Louis Stevenson___The Works of Robert Louis Stevenson - Swanston Edition, Volume 9.txt
+./Gutenberg/txt/Robert Louis Stevenson___Travels with a Donkey in the Cevennes.txt
+./Gutenberg/txt/Robert Louis Stevenson___Treasure Island.txt
+./Gutenberg/txt/Robert Louis Stevenson___Underwoods.txt
+./Gutenberg/txt/Robert Louis Stevenson___Vailima Letters.txt
+./Gutenberg/txt/Robert Louis Stevenson___Virginibus Puerisque.txt
+./Gutenberg/txt/Robert Louis Stevenson___Weir of Hermiston.txt
+./Gutenberg/txt/Robert Southey___Colloquies on Society.txt
+./Gutenberg/txt/Robert Southey___Poems, 1799.txt
+./Gutenberg/txt/Robert Southey___Poems.txt
+./Gutenberg/txt/Robert Southey___The Life of Horatio Lord Nelson.txt
+./Gutenberg/txt/Rudyard Kipling___A Diversity of Creatures.txt
+./Gutenberg/txt/Rudyard Kipling___A Song of the English.txt
+./Gutenberg/txt/Rudyard Kipling___Actions and Reactions.txt
+./Gutenberg/txt/Rudyard Kipling___American Notes.txt
+./Gutenberg/txt/Rudyard Kipling___An Almanac of Twelve Sports.txt
+./Gutenberg/txt/Rudyard Kipling___Barrack-Room Ballads.txt
+./Gutenberg/txt/Rudyard Kipling___Captains Courageous.txt
+./Gutenberg/txt/Rudyard Kipling___Departmental Ditties and Barrack Room Ballads.txt
+./Gutenberg/txt/Rudyard Kipling___France At War.txt
+./Gutenberg/txt/Rudyard Kipling___From Sea to Sea.txt
+./Gutenberg/txt/Rudyard Kipling___Indian Tales.txt
+./Gutenberg/txt/Rudyard Kipling___Just So Stories.txt
+./Gutenberg/txt/Rudyard Kipling___Kim.txt
+./Gutenberg/txt/Rudyard Kipling___Kipling Stories and Poems Every Child Should Know, Book II.txt
+./Gutenberg/txt/Rudyard Kipling___Letters of Travel (1892-1913).txt
+./Gutenberg/txt/Rudyard Kipling___Life's Handicap.txt
+./Gutenberg/txt/Rudyard Kipling___Plain Tales from the Hills.txt
+./Gutenberg/txt/Rudyard Kipling___Puck of Pook's Hill.txt
+./Gutenberg/txt/Rudyard Kipling___Rewards and Fairies.txt
+./Gutenberg/txt/Rudyard Kipling___Sea Warfare.txt
+./Gutenberg/txt/Rudyard Kipling___Soldier Stories.txt
+./Gutenberg/txt/Rudyard Kipling___Soldiers Three, Part 2.txt
+./Gutenberg/txt/Rudyard Kipling___Soldiers Three.txt
+./Gutenberg/txt/Rudyard Kipling___Songs from Books.txt
+./Gutenberg/txt/Rudyard Kipling___Stalky & Co.txt
+./Gutenberg/txt/Rudyard Kipling___The Bridge-Builders.txt
+./Gutenberg/txt/Rudyard Kipling___The Day's Work, Part 1.txt
+./Gutenberg/txt/Rudyard Kipling___The Day's Work, Volume 1.txt
+./Gutenberg/txt/Rudyard Kipling___The Eyes of Asia.txt
+./Gutenberg/txt/Rudyard Kipling___The Jungle Book.txt
+./Gutenberg/txt/Rudyard Kipling___The Kipling Reader.txt
+./Gutenberg/txt/Rudyard Kipling___The Light That Failed.txt
+./Gutenberg/txt/Rudyard Kipling___The Man Who Would Be King.txt
+./Gutenberg/txt/Rudyard Kipling___The Phantom Rickshaw and Other Ghost Stories.txt
+./Gutenberg/txt/Rudyard Kipling___The Second Jungle Book.txt
+./Gutenberg/txt/Rudyard Kipling___The Seven Seas.txt
+./Gutenberg/txt/Rudyard Kipling___The Story of the Gadsby.txt
+./Gutenberg/txt/Rudyard Kipling___The Works of Rudyard Kipling One Volume Edition.txt
+./Gutenberg/txt/Rudyard Kipling___The Years Between.txt
+./Gutenberg/txt/Rudyard Kipling___Traffics and Discoveries.txt
+./Gutenberg/txt/Rudyard Kipling___Under the Deodars.txt
+./Gutenberg/txt/Rudyard Kipling___Verses 1889-1896.txt
+./Gutenberg/txt/Rudyard Kipling___With The Night Mail.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Biographia Epistolaris, Volume 1.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Biographia Literaria.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Coleridge's Ancient Mariner and Select Poems.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 1.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 2.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Coleridge's Literary Remains, Volume 4.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Confessions of an Inquiring Spirit.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Hints towards the formation of a more comprehensive theory of life.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Shakespeare, Ben Jonson, Beaumont and Fletcher.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___Specimens of the Table Talk of S.T.Coleridge.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___The Complete Poetical Works of Samuel Taylor Coleridge.txt
+./Gutenberg/txt/Samuel Taylor Coleridge___The Rime of the Ancient Mariner.txt
+./Gutenberg/txt/Sinclair Lewis___Babbitt.txt
+./Gutenberg/txt/Sinclair Lewis___Free Air.txt
+./Gutenberg/txt/Sinclair Lewis___Main Street.txt
+./Gutenberg/txt/Sinclair Lewis___Our Mr. Wrenn.txt
+./Gutenberg/txt/Sinclair Lewis___The Innocents.txt
+./Gutenberg/txt/Sinclair Lewis___The Job.txt
+./Gutenberg/txt/Sinclair Lewis___The Trail of the Hawk.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___A Desert Drama.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___A Duet.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___A Study In Scarlet.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___A Visit to Three Fronts.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Beyond the City.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Danger! and Other Stories.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___His Last Bow.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Memoirs of Sherlock Holmes.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Micah Clarke.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___My Friend The Murderer.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Rodney Stone.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Round the Red Lamp.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Sir Nigel.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Songs Of The Road.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Songs of Action.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Tales of Terror and Mystery.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventure of Wisteria Lodge.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventure of the Bruce-Partington Plans.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventure of the Cardboard Box.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventure of the Devil's Foot.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventure of the Dying Detective.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventure of the Red Circle.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventures of Gerard.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Adventures of Sherlock Holmes.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Cabman's Story.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Captain of the Pole-Star and Other Tales.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Crime of the Congo.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Croxley Master.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Dealings of Captain Sharkey and Other Tales of Pirates.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Disappearance of Lady Frances Carfax.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Doings Of Raffles Haw.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Exploits Of Brigadier Gerard.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Firm of Girdlestone.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Great Boer War.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Great Keinplatz Experiment and Other Tales of Twilight and the Unseen.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Great Shadow and Other Napoleonic Tales.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Green Flag.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Guards Came Through and Other Poems.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Hound of the Baskervilles.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Last Galley.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Last of the Legions and Other Tales of Long Ago.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Lost World.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Man from Archangel.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Mystery of Cloomber.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The New Revelation.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Parasite.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Poison Belt.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Refugees.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Return of Sherlock Holmes.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Sign of the Four.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Tragedy of The Korosko.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Valley of Fear.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The Vital Message.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The War in South Africa.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___The White Company.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Through the Magic Door.txt
+./Gutenberg/txt/Sir Arthur Conan Doyle___Uncle Bernac.txt
+./Gutenberg/txt/Sir Francis Galton___Finger Prints.txt
+./Gutenberg/txt/Sir Francis Galton___Inquiries into Human Faculty and Its Development.txt
+./Gutenberg/txt/Sir Francis Galton___The Art of Travel.txt
+./Gutenberg/txt/Sir Humphry Davy___Consolations in Travel.txt
+./Gutenberg/txt/Sir Isaac Newton___Observations upon the Prophecies of Daniel, and the Apocalypse of St. John.txt
+./Gutenberg/txt/Sir Isaac Newton___Opticks.txt
+./Gutenberg/txt/Sir Isaac Newton___The Chronology of Ancient Kingdoms Amended.txt
+./Gutenberg/txt/Sir Joseph Dalton Hooker___Himalayan Journals.txt
+./Gutenberg/txt/Sir Richard Francis Burton___First Footsteps in East Africa.txt
+./Gutenberg/txt/Sir Richard Francis Burton___Personal Narrative of a Pilgrimage to Al-Madinah & Meccah, Volume 1.txt
+./Gutenberg/txt/Sir Richard Francis Burton___Personal Narrative of a Pilgrimage to Al-Madinah & Meccah, Volume 2.txt
+./Gutenberg/txt/Sir Richard Francis Burton___The Kasidah of Haji Abdu El-Yezdi.txt
+./Gutenberg/txt/Sir Richard Francis Burton___The Land of Midian, Volume 1.txt
+./Gutenberg/txt/Sir Richard Francis Burton___The Land of Midian, Volume 2.txt
+./Gutenberg/txt/Sir Richard Francis Burton___To the Gold Coast for Gold, Volume 1.txt
+./Gutenberg/txt/Sir Richard Francis Burton___To the Gold Coast for Gold, Volume 2.txt
+./Gutenberg/txt/Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 1.txt
+./Gutenberg/txt/Sir Richard Francis Burton___Two Trips to Gorilla Land and the Cataracts of the Congo, Volume 2.txt
+./Gutenberg/txt/Sir Richard Francis Burton___Vikram and the Vampire.txt
+./Gutenberg/txt/Sir Walter Scott___A Legend of Montrose.txt
+./Gutenberg/txt/Sir Walter Scott___Bride of Lammermoor.txt
+./Gutenberg/txt/Sir Walter Scott___Chronicles of the Canongate.txt
+./Gutenberg/txt/Sir Walter Scott___Guy Mannering.txt
+./Gutenberg/txt/Sir Walter Scott___Ivanhoe.txt
+./Gutenberg/txt/Sir Walter Scott___Kenilworth.txt
+./Gutenberg/txt/Sir Walter Scott___Letters On Demonology And Witchcraft.txt
+./Gutenberg/txt/Sir Walter Scott___Marmion.txt
+./Gutenberg/txt/Sir Walter Scott___Minstrelsy of the Scottish border (2 of 3).txt
+./Gutenberg/txt/Sir Walter Scott___Minstrelsy of the Scottish border (3rd ed) (1 of 3).txt
+./Gutenberg/txt/Sir Walter Scott___My Aunt Margaret's Mirror.txt
+./Gutenberg/txt/Sir Walter Scott___Old Mortality.txt
+./Gutenberg/txt/Sir Walter Scott___Peveril of the Peak.txt
+./Gutenberg/txt/Sir Walter Scott___Quentin Durward.txt
+./Gutenberg/txt/Sir Walter Scott___Redgauntlet.txt
+./Gutenberg/txt/Sir Walter Scott___Rob Roy.txt
+./Gutenberg/txt/Sir Walter Scott___Some Poems.txt
+./Gutenberg/txt/Sir Walter Scott___St. Ronan's Well.txt
+./Gutenberg/txt/Sir Walter Scott___The Abbot.txt
+./Gutenberg/txt/Sir Walter Scott___The Antiquary, Complete.txt
+./Gutenberg/txt/Sir Walter Scott___The Betrothed.txt
+./Gutenberg/txt/Sir Walter Scott___The Black Dwarf.txt
+./Gutenberg/txt/Sir Walter Scott___The Dramatic Works of John Dryden, Volume I.txt
+./Gutenberg/txt/Sir Walter Scott___The Fair Maid of Perth.txt
+./Gutenberg/txt/Sir Walter Scott___The Fortunes of Nigel.txt
+./Gutenberg/txt/Sir Walter Scott___The Heart of Mid-Lothian.txt
+./Gutenberg/txt/Sir Walter Scott___The Journal of Sir Walter Scott.txt
+./Gutenberg/txt/Sir Walter Scott___The Lady of the Lake.txt
+./Gutenberg/txt/Sir Walter Scott___The Monastery.txt
+./Gutenberg/txt/Sir Walter Scott___The Surgeon's Daughter.txt
+./Gutenberg/txt/Sir Walter Scott___The Talisman.txt
+./Gutenberg/txt/Sir Walter Scott___The Tapestried Chamber, and Death of the Laird's Jock.txt
+./Gutenberg/txt/Sir Walter Scott___Trial of Duncan Terig.txt
+./Gutenberg/txt/Sir Walter Scott___Waverley.txt
+./Gutenberg/txt/Sir Walter Scott___Woodstock; or, The Cavalier.txt
+./Gutenberg/txt/Sir William Schwenck Gilbert___Bab Ballads and Savoy Songs.txt
+./Gutenberg/txt/Sir William Schwenck Gilbert___Fifty Bab Ballads.txt
+./Gutenberg/txt/Sir William Schwenck Gilbert___More Bab Ballads.txt
+./Gutenberg/txt/Sir William Schwenck Gilbert___Songs of a Savoyard.txt
+./Gutenberg/txt/Sir William Schwenck Gilbert___The Bab Ballads.txt
+./Gutenberg/txt/Sir Winston Churchill___Liberalism and the Social Problem.txt
+./Gutenberg/txt/Sir Winston Churchill___London to Ladysmith via Pretoria.txt
+./Gutenberg/txt/Sir Winston Churchill___The River War.txt
+./Gutenberg/txt/Sir Winston Churchill___The Story of the Malakand Field Force.txt
+./Gutenberg/txt/Stephen Leacock___Adventurers of the Far North.txt
+./Gutenberg/txt/Stephen Leacock___Arcadian Adventures with the Idle Rich.txt
+./Gutenberg/txt/Stephen Leacock___Behind the Beyond.txt
+./Gutenberg/txt/Stephen Leacock___Frenzied Fiction.txt
+./Gutenberg/txt/Stephen Leacock___Further Foolishness.txt
+./Gutenberg/txt/Stephen Leacock___Literary Lapses.txt
+./Gutenberg/txt/Stephen Leacock___Moonbeams From the Larger Lunacy.txt
+./Gutenberg/txt/Stephen Leacock___My Discovery of England.txt
+./Gutenberg/txt/Stephen Leacock___Nonsense Novels.txt
+./Gutenberg/txt/Stephen Leacock___Sunshine Sketches of a Little Town.txt
+./Gutenberg/txt/Stephen Leacock___The Dawn of Canadian History - A Chronicle of Aboriginal Canada.txt
+./Gutenberg/txt/Stephen Leacock___The Hohenzollerns in America.txt
+./Gutenberg/txt/Stephen Leacock___The Mariner of St. Malo, A Chronicle of the Voyages of Jacques Cartier.txt
+./Gutenberg/txt/Stephen Leacock___The Unsolved Riddle of Social Justice.txt
+./Gutenberg/txt/Stephen Leacock___Winsome Winnie and other New Nonsense Novels.txt
+./Gutenberg/txt/T S Eliot___Eeldrop and Appleplex.txt
+./Gutenberg/txt/T S Eliot___Ezra Pound: His Metric and Poetry.txt
+./Gutenberg/txt/T S Eliot___Poems.txt
+./Gutenberg/txt/T S Eliot___Prufrock and Other Observations.txt
+./Gutenberg/txt/T S Eliot___The Waste Land.txt
+./Gutenberg/txt/Thomas Carlyle___Early Kings of Norway.txt
+./Gutenberg/txt/Thomas Carlyle___Heroes and Hero Worship.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Appendix.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 1.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 10.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 11.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 12.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 13.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 14.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 15.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 16.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 17.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 18.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 19.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 2.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 20.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 21.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 3.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 4.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 5.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 6.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 7.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 8.txt
+./Gutenberg/txt/Thomas Carlyle___History of Friedrich II of Prussia, Volume 9.txt
+./Gutenberg/txt/Thomas Carlyle___Latter-Day Pamphlets.txt
+./Gutenberg/txt/Thomas Carlyle___Life of Robert Burns.txt
+./Gutenberg/txt/Thomas Carlyle___On the Choice of Books.txt
+./Gutenberg/txt/Thomas Carlyle___Past and Present.txt
+./Gutenberg/txt/Thomas Carlyle___Sartor Resartus.txt
+./Gutenberg/txt/Thomas Carlyle___The French Revolution.txt
+./Gutenberg/txt/Thomas Carlyle___The Life of Friedrich Schiller.txt
+./Gutenberg/txt/Thomas Carlyle___The Life of John Sterling.txt
+./Gutenberg/txt/Thomas Crofton Croker___A Walk from London to Fulham.txt
+./Gutenberg/txt/Thomas Hardy___A Changed Man and Other Tales.txt
+./Gutenberg/txt/Thomas Hardy___A Group of Noble Dames.txt
+./Gutenberg/txt/Thomas Hardy___A Laodicean.txt
+./Gutenberg/txt/Thomas Hardy___A Pair of Blue Eyes.txt
+./Gutenberg/txt/Thomas Hardy___Desperate Remedies.txt
+./Gutenberg/txt/Thomas Hardy___Far from the Madding Crowd.txt
+./Gutenberg/txt/Thomas Hardy___Jude the Obscure.txt
+./Gutenberg/txt/Thomas Hardy___Late Lyrics and Earlier.txt
+./Gutenberg/txt/Thomas Hardy___Life's Little Ironies.txt
+./Gutenberg/txt/Thomas Hardy___Moments of Vision.txt
+./Gutenberg/txt/Thomas Hardy___Poems of the Past and the Present.txt
+./Gutenberg/txt/Thomas Hardy___Satires of Circumstance.txt
+./Gutenberg/txt/Thomas Hardy___Tess of the d'Urbervilles.txt
+./Gutenberg/txt/Thomas Hardy___The Dynasts.txt
+./Gutenberg/txt/Thomas Hardy___The Hand of Ethelberta.txt
+./Gutenberg/txt/Thomas Hardy___The Mayor of Casterbridge.txt
+./Gutenberg/txt/Thomas Hardy___The Return of the Native.txt
+./Gutenberg/txt/Thomas Hardy___The Romantic Adventures of a Milkmaid.txt
+./Gutenberg/txt/Thomas Hardy___The Trumpet-Major.txt
+./Gutenberg/txt/Thomas Hardy___The Well-Beloved.txt
+./Gutenberg/txt/Thomas Hardy___The Woodlanders.txt
+./Gutenberg/txt/Thomas Hardy___Time's Laughingstocks and Other Verses.txt
+./Gutenberg/txt/Thomas Hardy___Two on a Tower.txt
+./Gutenberg/txt/Thomas Hardy___Under the Greenwood Tree.txt
+./Gutenberg/txt/Thomas Hardy___Wessex Poems and Other Verses.txt
+./Gutenberg/txt/Thomas Hardy___Wessex Tales.txt
+./Gutenberg/txt/Thomas Henry Huxley___A Critical Examination Of The Position Of Mr. Darwin's Work, "On The Origin Of Species".txt
+./Gutenberg/txt/Thomas Henry Huxley___American Addresses, with a Lecture on the Study of Biology.txt
+./Gutenberg/txt/Thomas Henry Huxley___Aphorisms and Reflections from the Works of T. H. Huxley.txt
+./Gutenberg/txt/Thomas Henry Huxley___Autobiography and Selected Essays.txt
+./Gutenberg/txt/Thomas Henry Huxley___Collected Essays, Volume V.txt
+./Gutenberg/txt/Thomas Henry Huxley___Coral and Coral Reefs.txt
+./Gutenberg/txt/Thomas Henry Huxley___Criticisms on "The Origin of Species".txt
+./Gutenberg/txt/Thomas Henry Huxley___Critiques and Addresses.txt
+./Gutenberg/txt/Thomas Henry Huxley___Darwiniana Essays, Volume 2.txt
+./Gutenberg/txt/Thomas Henry Huxley___Discourses.txt
+./Gutenberg/txt/Thomas Henry Huxley___Essays Upon Some Controverted Questions.txt
+./Gutenberg/txt/Thomas Henry Huxley___Evidence as to Man's Place in Nature.txt
+./Gutenberg/txt/Thomas Henry Huxley___Evolution and Ethics and Other Essays.txt
+./Gutenberg/txt/Thomas Henry Huxley___Geological Contemporaneity and Persistent Types of Life.txt
+./Gutenberg/txt/Thomas Henry Huxley___Hasisadra's Adventure.txt
+./Gutenberg/txt/Thomas Henry Huxley___Hume.txt
+./Gutenberg/txt/Thomas Henry Huxley___Lay Sermons, Addresses and Reviews.txt
+./Gutenberg/txt/Thomas Henry Huxley___Lectures and Essays, Version 1.txt
+./Gutenberg/txt/Thomas Henry Huxley___Lectures and Essays, Version 2.txt
+./Gutenberg/txt/Thomas Henry Huxley___Lectures on Evolution.txt
+./Gutenberg/txt/Thomas Henry Huxley___Mr. Gladstone and Genesis.txt
+./Gutenberg/txt/Thomas Henry Huxley___Note on the Resemblances and Differences in the Structure and the Development of Brain in Man and the Apes.txt
+./Gutenberg/txt/Thomas Henry Huxley___On Some Fossil Remains of Man.txt
+./Gutenberg/txt/Thomas Henry Huxley___On the Advisableness of Improving Natural Knowledge.txt
+./Gutenberg/txt/Thomas Henry Huxley___On the Method of Zadig.txt
+./Gutenberg/txt/Thomas Henry Huxley___On the Relations of Man to the Lower Animals.txt
+./Gutenberg/txt/Thomas Henry Huxley___On the Study of Zoology.txt
+./Gutenberg/txt/Thomas Henry Huxley___Science & Education.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Advance of Science in the Last Half-Century.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Conditions Of Existence.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Darwinian Hypothesis.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Evolution of Theology: An Anthropological Study.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Interpreters of Genesis and the Interpreters of Nature.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Lights of the Church and the Light of Science.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Method By Which The Causes Of The Present And Past Conditions Of Organic Nature Are To Be Discovered.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Origin of Species.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Past Condition of Organic Nature.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Perpetuation Of Living Beings, Hereditary Transmission And Variation.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Present Condition of Organic Nature.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Reception of the 'Origin of Species'.txt
+./Gutenberg/txt/Thomas Henry Huxley___The Rise and Progress of Palaeontology.txt
+./Gutenberg/txt/Thomas Henry Huxley___Time and Life.txt
+./Gutenberg/txt/Thomas Henry Huxley___William Harvey And The Discovery Of The Circulation Of The Blood.txt
+./Gutenberg/txt/Thomas Henry Huxley___Yeast.txt
+./Gutenberg/txt/Thomas Robert Malthus___An Essay on the Principle of Population.txt
+./Gutenberg/txt/Thomas Robert Malthus___Nature and Progress of Rent.txt
+./Gutenberg/txt/Thomas Robert Malthus___Observations on the Effects of the Corn Laws, and of a Rise or Fall in the Price of Corn on the Agriculture and General Wealth of the Country.txt
+./Gutenberg/txt/Thomas Robert Malthus___The Grounds of an Opinion on the Policy of Restricting the Importation of Foreign Corn.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Blacky the Crow.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Bowser The Hound.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Happy Jack.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Lightfoot the Deer.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Mother West Wind "How" Stories.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Mother West Wind "Where" Stories.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Mother West Wind 'Why' Stories.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Mother West Wind's Animal Friends.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Mother West Wind's Children.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Mrs. Peter Rabbit.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Old Granny Fox.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Old Mother West Wind.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Buster Bear.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Chatterer the Red Squirrel.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Danny Meadow Mouse.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Grandfather Frog.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Jerry Muskrat.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Jimmy Skunk.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Johnny Chuck.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Lightfoot the Deer.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Mr. Mocker.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Old Mr. Toad.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Paddy the Beaver.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Poor Mrs. Quack.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Prickly Porky.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Reddy Fox.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Adventures of Unc' Billy Possum.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Boy Scouts in A Trapper's Camp.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Burgess Animal Book for Children.txt
+./Gutenberg/txt/Thornton Waldo Burgess___The Burgess Bird Book for Children.txt
+./Gutenberg/txt/Thornton Waldo Burgess___Whitefoot the Wood Mouse.txt
+./Gutenberg/txt/Ulysses Grant___Letters of Ulysses S. Grant.txt
+./Gutenberg/txt/Ulysses Grant___Personal Memoirs of U. S. Grant.txt
+./Gutenberg/txt/Ulysses Grant___State of the Union Addresses of Ulysses S. Grant.txt
+./Gutenberg/txt/Virginia Woolf___Jacob's Room.txt
+./Gutenberg/txt/Virginia Woolf___Monday or Tuesday.txt
+./Gutenberg/txt/Virginia Woolf___Night and Day.txt
+./Gutenberg/txt/Virginia Woolf___The Voyage Out.txt
+./Gutenberg/txt/Walt Whitman___Complete Prose Works.txt
+./Gutenberg/txt/Walt Whitman___Drum Taps.txt
+./Gutenberg/txt/Walt Whitman___Leaves of Grass.txt
+./Gutenberg/txt/Walt Whitman___Poems By Walt Whitman.txt
+./Gutenberg/txt/Walt Whitman___The Patriotic Poems of Walt Whitman.txt
+./Gutenberg/txt/Walt Whitman___The Wound Dresser.txt
+./Gutenberg/txt/Walter de la Mare___Collected Poems 1901-1918 in Two Volumes Volume 1.txt
+./Gutenberg/txt/Walter de la Mare___Collected Poems 1901-1918 in Two Volumes Volume 2.txt
+./Gutenberg/txt/Walter de la Mare___Down-Adown-Derry.txt
+./Gutenberg/txt/Walter de la Mare___Henry Brocken.txt
+./Gutenberg/txt/Walter de la Mare___Memoirs of a Midget.txt
+./Gutenberg/txt/Walter de la Mare___Peacock Pie, A Book of Rhymes.txt
+./Gutenberg/txt/Walter de la Mare___Songs of Childhood.txt
+./Gutenberg/txt/Walter de la Mare___The Listeners and Other Poems.txt
+./Gutenberg/txt/Walter de la Mare___The Return.txt
+./Gutenberg/txt/Walter de la Mare___The Three Mulla-mulgars.txt
+./Gutenberg/txt/Washington Irving___Abbotsford and Newstead Abbey.txt
+./Gutenberg/txt/Washington Irving___Astoria.txt
+./Gutenberg/txt/Washington Irving___Bracebridge Hall, or The Humorists.txt
+./Gutenberg/txt/Washington Irving___Chronicle of the Conquest of Granada.txt
+./Gutenberg/txt/Washington Irving___Knickerbocker's History of New York.txt
+./Gutenberg/txt/Washington Irving___Little Britain.txt
+./Gutenberg/txt/Washington Irving___Old Christmas.txt
+./Gutenberg/txt/Washington Irving___Oliver Goldsmith.txt
+./Gutenberg/txt/Washington Irving___Tales of a Traveller.txt
+./Gutenberg/txt/Washington Irving___The Adventures of Captain Bonneville.txt
+./Gutenberg/txt/Washington Irving___The Crayon Papers.txt
+./Gutenberg/txt/Washington Irving___The Legend of Sleepy Hollow.txt
+./Gutenberg/txt/Washington Irving___The Life and Voyages of Christopher Columbus (Vol. II).txt
+./Gutenberg/txt/Washington Irving___The Life of George Washington, Volume I.txt
+./Gutenberg/txt/Washington Irving___The Sketch Book of Geoffrey Crayon.txt
+./Gutenberg/txt/Washington Irving___The Student's Life of Washington.txt
+./Gutenberg/txt/Washington Irving___Wolfert's Roost and Miscellanies.txt
+./Gutenberg/txt/Wilkie Collins___A Fair Penitent.txt
+./Gutenberg/txt/Wilkie Collins___A Rogue's Life.txt
+./Gutenberg/txt/Wilkie Collins___After Dark.txt
+./Gutenberg/txt/Wilkie Collins___Antonina.txt
+./Gutenberg/txt/Wilkie Collins___Armadale.txt
+./Gutenberg/txt/Wilkie Collins___Basil.txt
+./Gutenberg/txt/Wilkie Collins___Blind Love.txt
+./Gutenberg/txt/Wilkie Collins___Heart and Science.txt
+./Gutenberg/txt/Wilkie Collins___Hide and Seek.txt
+./Gutenberg/txt/Wilkie Collins___I Say No.txt
+./Gutenberg/txt/Wilkie Collins___Jezebel's Daughter.txt
+./Gutenberg/txt/Wilkie Collins___Little Novels.txt
+./Gutenberg/txt/Wilkie Collins___Man and Wife.txt
+./Gutenberg/txt/Wilkie Collins___Miss or Mrs.?.txt
+./Gutenberg/txt/Wilkie Collins___My Lady's Money.txt
+./Gutenberg/txt/Wilkie Collins___No Name.txt
+./Gutenberg/txt/Wilkie Collins___Poor Miss Finch.txt
+./Gutenberg/txt/Wilkie Collins___Rambles Beyond Railways.txt
+./Gutenberg/txt/Wilkie Collins___The Black Robe.txt
+./Gutenberg/txt/Wilkie Collins___The Dead Alive.txt
+./Gutenberg/txt/Wilkie Collins___The Evil Genius.txt
+./Gutenberg/txt/Wilkie Collins___The Fallen Leaves.txt
+./Gutenberg/txt/Wilkie Collins___The Frozen Deep.txt
+./Gutenberg/txt/Wilkie Collins___The Guilty River.txt
+./Gutenberg/txt/Wilkie Collins___The Haunted Hotel.txt
+./Gutenberg/txt/Wilkie Collins___The Law and the Lady.txt
+./Gutenberg/txt/Wilkie Collins___The Legacy of Cain.txt
+./Gutenberg/txt/Wilkie Collins___The Moonstone.txt
+./Gutenberg/txt/Wilkie Collins___The New Magdalen.txt
+./Gutenberg/txt/Wilkie Collins___The Queen of Hearts.txt
+./Gutenberg/txt/Wilkie Collins___The Two Destinies.txt
+./Gutenberg/txt/Wilkie Collins___The Woman in White.txt
+./Gutenberg/txt/William Blake___Illustrations of The Book of Job.txt
+./Gutenberg/txt/William Blake___Poems of William Blake.txt
+./Gutenberg/txt/William Blake___Songs of Innocence and Songs of Experience.txt
+./Gutenberg/txt/William Butler Yeats___Discoveries.txt
+./Gutenberg/txt/William Butler Yeats___Four Years.txt
+./Gutenberg/txt/William Butler Yeats___Ideas of Good and Evil.txt
+./Gutenberg/txt/William Butler Yeats___In The Seven Woods.txt
+./Gutenberg/txt/William Butler Yeats___Mosada.txt
+./Gutenberg/txt/William Butler Yeats___Per Amica Silentia Lunae.txt
+./Gutenberg/txt/William Butler Yeats___Poems.txt
+./Gutenberg/txt/William Butler Yeats___Responsibilities.txt
+./Gutenberg/txt/William Butler Yeats___Reveries over Childhood and Youth.txt
+./Gutenberg/txt/William Butler Yeats___Rosa Alchemica.txt
+./Gutenberg/txt/William Butler Yeats___Seven Poems and a Fragment.txt
+./Gutenberg/txt/William Butler Yeats___Stories of Red Hanrahan.txt
+./Gutenberg/txt/William Butler Yeats___Synge And The Ireland Of His Time.txt
+./Gutenberg/txt/William Butler Yeats___The Celtic Twilight.txt
+./Gutenberg/txt/William Butler Yeats___The Countess Cathleen.txt
+./Gutenberg/txt/William Butler Yeats___The Cutting of an Agate.txt
+./Gutenberg/txt/William Butler Yeats___The Green Helmet and Other Poems.txt
+./Gutenberg/txt/William Butler Yeats___The Hour Glass.txt
+./Gutenberg/txt/William Butler Yeats___The Land Of Heart's Desire.txt
+./Gutenberg/txt/William Butler Yeats___The Secret Rose.txt
+./Gutenberg/txt/William Butler Yeats___The Trembling of the Veil.txt
+./Gutenberg/txt/William Butler Yeats___The Wild Swans at Coole.txt
+./Gutenberg/txt/William Butler Yeats___The Wind Among the Reeds.txt
+./Gutenberg/txt/William Butler Yeats___Two plays for dancers.txt
+./Gutenberg/txt/William Butler Yeats___Where There is Nothing.txt
+./Gutenberg/txt/William Dean Howells___A Belated Guest.txt
+./Gutenberg/txt/William Dean Howells___A Boy's Town.txt
+./Gutenberg/txt/William Dean Howells___A Chance Acquaintance.txt
+./Gutenberg/txt/William Dean Howells___A Fearful Responsibility and Other Stories.txt
+./Gutenberg/txt/William Dean Howells___A Foregone Conclusion.txt
+./Gutenberg/txt/William Dean Howells___A Hazard of New Fortunes.txt
+./Gutenberg/txt/William Dean Howells___A Likely Story.txt
+./Gutenberg/txt/William Dean Howells___A Little Swiss Sojourn.txt
+./Gutenberg/txt/William Dean Howells___A Modern Instance.txt
+./Gutenberg/txt/William Dean Howells___A Pair of Patient Lovers.txt
+./Gutenberg/txt/William Dean Howells___A Psychological Counter-current in Recent Fiction.txt
+./Gutenberg/txt/William Dean Howells___A Traveler from Altruria.txt
+./Gutenberg/txt/William Dean Howells___American Literary Centers.txt
+./Gutenberg/txt/William Dean Howells___An Open-Eyed Conspiracy; An Idyl of Saratoga.txt
+./Gutenberg/txt/William Dean Howells___Annie Kilburn.txt
+./Gutenberg/txt/William Dean Howells___April Hopes.txt
+./Gutenberg/txt/William Dean Howells___Between The Dark And The Daylight.txt
+./Gutenberg/txt/William Dean Howells___Boy Life.txt
+./Gutenberg/txt/William Dean Howells___Bride Roses.txt
+./Gutenberg/txt/William Dean Howells___Buying a Horse.txt
+./Gutenberg/txt/William Dean Howells___Cambridge Neighbors.txt
+./Gutenberg/txt/William Dean Howells___Christmas Every Day and Other Stories.txt
+./Gutenberg/txt/William Dean Howells___Criticism And Fiction.txt
+./Gutenberg/txt/William Dean Howells___Dr. Breen's Practice.txt
+./Gutenberg/txt/William Dean Howells___Emile Zola.txt
+./Gutenberg/txt/William Dean Howells___Evening Dress.txt
+./Gutenberg/txt/William Dean Howells___Familiar Spanish Travels.txt
+./Gutenberg/txt/William Dean Howells___Fennel and Rue.txt
+./Gutenberg/txt/William Dean Howells___First Visit to New England and Others.txt
+./Gutenberg/txt/William Dean Howells___Five O'Clock Tea.txt
+./Gutenberg/txt/William Dean Howells___Henry James, Jr.txt
+./Gutenberg/txt/William Dean Howells___Imaginary Interviews.txt
+./Gutenberg/txt/William Dean Howells___Indian Summer.txt
+./Gutenberg/txt/William Dean Howells___Italian Journeys.txt
+./Gutenberg/txt/William Dean Howells___Last Days in a Dutch Hotel.txt
+./Gutenberg/txt/William Dean Howells___Literary Boston.txt
+./Gutenberg/txt/William Dean Howells___Literary Friends And Acquaintances.txt
+./Gutenberg/txt/William Dean Howells___Literature and Life.txt
+./Gutenberg/txt/William Dean Howells___London Films.txt
+./Gutenberg/txt/William Dean Howells___Modern Italian Poets.txt
+./Gutenberg/txt/William Dean Howells___My Literary Passions.txt
+./Gutenberg/txt/William Dean Howells___My Mark Twain.txt
+./Gutenberg/txt/William Dean Howells___Of Literature.txt
+./Gutenberg/txt/William Dean Howells___Oliver Wendell Holmes.txt
+./Gutenberg/txt/William Dean Howells___Poems.txt
+./Gutenberg/txt/William Dean Howells___Questionable Shapes.txt
+./Gutenberg/txt/William Dean Howells___Ragged Lady.txt
+./Gutenberg/txt/William Dean Howells___Roman Holidays and Others.txt
+./Gutenberg/txt/William Dean Howells___Roundabout to Boston.txt
+./Gutenberg/txt/William Dean Howells___Seven English Cities.txt
+./Gutenberg/txt/William Dean Howells___Short Stories and Essays.txt
+./Gutenberg/txt/William Dean Howells___Some Anomalies of the Short Story.txt
+./Gutenberg/txt/William Dean Howells___Spanish Prisoners of War.txt
+./Gutenberg/txt/William Dean Howells___Staccato Notes of a Vanished Summer.txt
+./Gutenberg/txt/William Dean Howells___Stories Of Ohio.txt
+./Gutenberg/txt/William Dean Howells___Studies of Lowell.txt
+./Gutenberg/txt/William Dean Howells___Suburban Sketches.txt
+./Gutenberg/txt/William Dean Howells___The Albany Depot.txt
+./Gutenberg/txt/William Dean Howells___The Coast of Bohemia.txt
+./Gutenberg/txt/William Dean Howells___The Confessions of a Summer Colonist.txt
+./Gutenberg/txt/William Dean Howells___The Daughter of the Storage.txt
+./Gutenberg/txt/William Dean Howells___The Editor's Relations With The Young Contributor.txt
+./Gutenberg/txt/William Dean Howells___The Elevator.txt
+./Gutenberg/txt/William Dean Howells___The Flight of Pony Baker.txt
+./Gutenberg/txt/William Dean Howells___The Garotters.txt
+./Gutenberg/txt/William Dean Howells___The Kentons.txt
+./Gutenberg/txt/William Dean Howells___The Lady of the Aroostook.txt
+./Gutenberg/txt/William Dean Howells___The Landlord at Lion's Head.txt
+./Gutenberg/txt/William Dean Howells___The Leatherwood God.txt
+./Gutenberg/txt/William Dean Howells___The Man of Letters as a Man of Business.txt
+./Gutenberg/txt/William Dean Howells___The March Family Trilogy.txt
+./Gutenberg/txt/William Dean Howells___The Minister's Charge.txt
+./Gutenberg/txt/William Dean Howells___The Parlor-Car.txt
+./Gutenberg/txt/William Dean Howells___The Quality of Mercy.txt
+./Gutenberg/txt/William Dean Howells___The Register.txt
+./Gutenberg/txt/William Dean Howells___The Rise of Silas Lapham.txt
+./Gutenberg/txt/William Dean Howells___The Sleeping Car.txt
+./Gutenberg/txt/William Dean Howells___The Standard Household-Effect Company.txt
+./Gutenberg/txt/William Dean Howells___The Story of a Play.txt
+./Gutenberg/txt/William Dean Howells___The White Mr. Longfellow.txt
+./Gutenberg/txt/William Dean Howells___Their Silver Wedding Journey.txt
+./Gutenberg/txt/William Dean Howells___Their Wedding Journey.txt
+./Gutenberg/txt/William Dean Howells___Through the Eye of the Needle.txt
+./Gutenberg/txt/William Dean Howells___Venetian Life.txt
+./Gutenberg/txt/William Ewart Gladstone___On Books and the Housing of Them.txt
+./Gutenberg/txt/William Henry Hudson___A Crystal Age.txt
+./Gutenberg/txt/William Henry Hudson___A Little Boy Lost.txt
+./Gutenberg/txt/William Henry Hudson___A Shepherd's Life.txt
+./Gutenberg/txt/William Henry Hudson___A Traveller in Little Things.txt
+./Gutenberg/txt/William Henry Hudson___Afoot in England.txt
+./Gutenberg/txt/William Henry Hudson___Birds and Man.txt
+./Gutenberg/txt/William Henry Hudson___Birds in Town and Village.txt
+./Gutenberg/txt/William Henry Hudson___Dead Man's Plack and an Old Thorn.txt
+./Gutenberg/txt/William Henry Hudson___Fan.txt
+./Gutenberg/txt/William Henry Hudson___Far Away and Long Ago.txt
+./Gutenberg/txt/William Henry Hudson___Green Mansions.txt
+./Gutenberg/txt/William Henry Hudson___The Naturalist in La Plata.txt
+./Gutenberg/txt/William Henry Hudson___The Purple Land.txt
+./Gutenberg/txt/William J Long___A Little Brother to the Bear and other Animal Stories.txt
+./Gutenberg/txt/William J Long___English Literature.txt
+./Gutenberg/txt/William J Long___Northern Trails, Book 1.txt
+./Gutenberg/txt/William J Long___Outlines of English and American Literature.txt
+./Gutenberg/txt/William J Long___Secret of the Woods.txt
+./Gutenberg/txt/William J Long___Ways of Wood Folk.txt
+./Gutenberg/txt/William J Long___Wilderness Ways.txt
+./Gutenberg/txt/William J Long___Wood Folk at School.txt
+./Gutenberg/txt/William Makepeace Thackeray___A Little Dinner at Timmins's.txt
+./Gutenberg/txt/William Makepeace Thackeray___Ballads.txt
+./Gutenberg/txt/William Makepeace Thackeray___Barry Lyndon.txt
+./Gutenberg/txt/William Makepeace Thackeray___Burlesques.txt
+./Gutenberg/txt/William Makepeace Thackeray___Catherine: A Story.txt
+./Gutenberg/txt/William Makepeace Thackeray___George Cruikshank.txt
+./Gutenberg/txt/William Makepeace Thackeray___Henry Esmond; The English Humourists; The Four Georges.txt
+./Gutenberg/txt/William Makepeace Thackeray___John Leech's Pictures of Life and Character.txt
+./Gutenberg/txt/William Makepeace Thackeray___Little Travels and Roadside Sketches.txt
+./Gutenberg/txt/William Makepeace Thackeray___Memoirs of Mr. Charles J. Yellowplush.txt
+./Gutenberg/txt/William Makepeace Thackeray___Men's Wives.txt
+./Gutenberg/txt/William Makepeace Thackeray___Notes on a Journey from Cornhill to Grand Cairo.txt
+./Gutenberg/txt/William Makepeace Thackeray___Roundabout Papers.txt
+./Gutenberg/txt/William Makepeace Thackeray___Some Roundabout Papers.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Bedford-Row Conspiracy.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Book of Snobs.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Christmas Books.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Fatal Boots.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Fitz-Boodle Papers.txt
+./Gutenberg/txt/William Makepeace Thackeray___The History of Henry Esmond, Esq.txt
+./Gutenberg/txt/William Makepeace Thackeray___The History of Pendennis.txt
+./Gutenberg/txt/William Makepeace Thackeray___The History of Samuel Titmarsh.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Newcomes.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Paris Sketch Book Of Mr. M. A. Titmarsh.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Rose and the Ring.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Second Funeral of Napoleon.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Tremendous Adventures of Major Gahagan.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Virginians.txt
+./Gutenberg/txt/William Makepeace Thackeray___The Wolves and the Lamb.txt
+./Gutenberg/txt/William Makepeace Thackeray___Vanity Fair.txt
+./Gutenberg/txt/William Penn___A Brief Account of the Rise and Progress of the People Called Quakers.txt
+./Gutenberg/txt/William Penn___A Sermon Preached at the Quaker's Meeting House.txt
+./Gutenberg/txt/William Somerset Maugham___Caesar's Wife.txt
+./Gutenberg/txt/William Somerset Maugham___East of Suez.txt
+./Gutenberg/txt/William Somerset Maugham___Liza of Lambeth.txt
+./Gutenberg/txt/William Somerset Maugham___Of Human Bondage.txt
+./Gutenberg/txt/William Somerset Maugham___Orientations.txt
+./Gutenberg/txt/William Somerset Maugham___Plays: Lady Frederick, The Explorer, A Man of Honor.txt
+./Gutenberg/txt/William Somerset Maugham___The Explorer.txt
+./Gutenberg/txt/William Somerset Maugham___The Hero.txt
+./Gutenberg/txt/William Somerset Maugham___The Land of The Blessed Virgin; Sketches and Impressions in Andalusia.txt
+./Gutenberg/txt/William Somerset Maugham___The Magician.txt
+./Gutenberg/txt/William Somerset Maugham___The Making of a Saint.txt
+./Gutenberg/txt/William Somerset Maugham___The Moon and Sixpence.txt
+./Gutenberg/txt/William Somerset Maugham___The Trembling of a Leaf.txt
+./Gutenberg/txt/William Wordsworth___Lyrical Ballads, With Other Poems, 1800, Volume 1.txt
+./Gutenberg/txt/William Wordsworth___Lyrical Ballads, With Other Poems, 1800, Volume 2.txt
+./Gutenberg/txt/William Wordsworth___Poems in Two Volumes, Volume 1.txt
+./Gutenberg/txt/William Wordsworth___Poems in Two Volumes, Volume 2.txt
+./Gutenberg/txt/William Wordsworth___The Poetical Works of William Wordsworth, Volume 1.txt
+./Gutenberg/txt/William Wordsworth___The Poetical Works of William Wordsworth, Volume 2.txt
+./Gutenberg/txt/William Wordsworth___The Poetical Works of William Wordsworth, Volume 3.txt
+./Gutenberg/txt/William Wordsworth___The Poetical Works of William Wordsworth, Volume 4.txt
+./Gutenberg/txt/William Wordsworth___The Prose Works of William Wordsworth.txt
+./Gutenberg/txt/William Wymark Jacobs___A Golden Venture, The Lady of the Barge and Others, Part 11.txt
+./Gutenberg/txt/William Wymark Jacobs___A Master of Craft.txt
+./Gutenberg/txt/William Wymark Jacobs___A Mixed Proposal, The Lady of the Barge and Others, Part 9.txt
+./Gutenberg/txt/William Wymark Jacobs___A Spirit of Avarice, Odd Craft, Part 11.txt
+./Gutenberg/txt/William Wymark Jacobs___A Tiger's Skin, The Lady of the Barge and Others, Part 8.txt
+./Gutenberg/txt/William Wymark Jacobs___Admiral Peters, Odd Craft, Part 14.txt
+./Gutenberg/txt/William Wymark Jacobs___An Adulteration Act, The Lady of the Barge and Others, Part 10.txt
+./Gutenberg/txt/William Wymark Jacobs___At Sunwich Port.txt
+./Gutenberg/txt/William Wymark Jacobs___Back to Back, Night Watches, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___Bedridden and The Winter Offensive, Deep Waters, Part 8.txt
+./Gutenberg/txt/William Wymark Jacobs___Bill's Lapse, Odd Craft, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___Bill's Paper Chase, Lady of the Barge and Others, Part 3.txt
+./Gutenberg/txt/William Wymark Jacobs___Blundell's Improvement, Odd Craft, Part 3.txt
+./Gutenberg/txt/William Wymark Jacobs___Bob's Redemption, Captains All, Book 5.txt
+./Gutenberg/txt/William Wymark Jacobs___Breaking A Spell, Odd Craft, Part 6.txt
+./Gutenberg/txt/William Wymark Jacobs___Captain Rogers, The Lady of the Barge and Others, Part 7.txt
+./Gutenberg/txt/William Wymark Jacobs___Captains All, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___Captains All.txt
+./Gutenberg/txt/William Wymark Jacobs___Cupboard Love, The Lady of the Barge and Others, Part 5.txt
+./Gutenberg/txt/William Wymark Jacobs___Deep Waters.txt
+./Gutenberg/txt/William Wymark Jacobs___Deserted, Sailor's Knots, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___Dialstone Lane.txt
+./Gutenberg/txt/William Wymark Jacobs___Dirty Work, Deep Waters, Part 11.txt
+./Gutenberg/txt/William Wymark Jacobs___Dixon's Return, Odd Craft, Part 10.txt
+./Gutenberg/txt/William Wymark Jacobs___Double Dealing, Sailor's Knots, Part 11.txt
+./Gutenberg/txt/William Wymark Jacobs___Dual Control, Ship's Company, Part 8.txt
+./Gutenberg/txt/William Wymark Jacobs___Easy Money, Night Watches, Part 9.txt
+./Gutenberg/txt/William Wymark Jacobs___Establishing Relations, Odd Craft, Part 7.txt
+./Gutenberg/txt/William Wymark Jacobs___Fairy Gold, Ship's Company, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___Family Cares, Deep Waters, Part 7.txt
+./Gutenberg/txt/William Wymark Jacobs___Fine Feathers, Ship's Company, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___For Better or Worse, Ship's Company, Part 10.txt
+./Gutenberg/txt/William Wymark Jacobs___Four Pigeons, Captains All, Book 7.txt
+./Gutenberg/txt/William Wymark Jacobs___Friends In Need, Ship's Company, Part 2.txt
+./Gutenberg/txt/William Wymark Jacobs___Good Intentions, Ship's Company, Part 3.txt
+./Gutenberg/txt/William Wymark Jacobs___His Other Self, Night Watches, Part 10.txt
+./Gutenberg/txt/William Wymark Jacobs___Homeward Bound, Sailor's Knots, Part 2.txt
+./Gutenberg/txt/William Wymark Jacobs___Husbandry, Deep Waters, Part 6.txt
+./Gutenberg/txt/William Wymark Jacobs___In The Library, The Lady of the Barge and Others, Part 6.txt
+./Gutenberg/txt/William Wymark Jacobs___Keeping Up Appearances, Sailor's Knots, Part 12.txt
+./Gutenberg/txt/William Wymark Jacobs___Keeping Watch, Night Watches, Part 2.txt
+./Gutenberg/txt/William Wymark Jacobs___Lady of the Barge, Lady of the Barge and Others, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___Lawyer Quince, Odd Craft, Part 5.txt
+./Gutenberg/txt/William Wymark Jacobs___Light Freights.txt
+./Gutenberg/txt/William Wymark Jacobs___Made to Measure, Deep Waters, Part 3.txt
+./Gutenberg/txt/William Wymark Jacobs___Manners Makyth Man, Ship's Company, Part 12.txt
+./Gutenberg/txt/William Wymark Jacobs___Many Cargoes.txt
+./Gutenberg/txt/William Wymark Jacobs___Matrimonial Openings, Sailor's Knots, Part 5.txt
+./Gutenberg/txt/William Wymark Jacobs___More Cargoes.txt
+./Gutenberg/txt/William Wymark Jacobs___Night Watches.txt
+./Gutenberg/txt/William Wymark Jacobs___Odd Charges, Odd Craft, Part 13.txt
+./Gutenberg/txt/William Wymark Jacobs___Odd Craft.txt
+./Gutenberg/txt/William Wymark Jacobs___Odd Man Out, Sailor's Knots, Part 6.txt
+./Gutenberg/txt/William Wymark Jacobs___Over The Side, Captains All, Book 6.txt
+./Gutenberg/txt/William Wymark Jacobs___Paying Off, Deep Waters, Part 2.txt
+./Gutenberg/txt/William Wymark Jacobs___Peter's Pence, Sailor's Knots, Part 8.txt
+./Gutenberg/txt/William Wymark Jacobs___Prize Money, Sailor's Knots, Part 10.txt
+./Gutenberg/txt/William Wymark Jacobs___Salthaven.txt
+./Gutenberg/txt/William Wymark Jacobs___Sam's Ghost, Deep Waters, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___Sea Urchins.txt
+./Gutenberg/txt/William Wymark Jacobs___Self-Help, Sailor's Knots, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___Sentence Deferred, Sailor's Knots, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___Shareholders, Deep Waters, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___Ship's Company.txt
+./Gutenberg/txt/William Wymark Jacobs___Short Cruises.txt
+./Gutenberg/txt/William Wymark Jacobs___Skilled Assistance, Ship's Company, Part 9.txt
+./Gutenberg/txt/William Wymark Jacobs___Stepping Backwards, Night Watches, Part 5.txt
+./Gutenberg/txt/William Wymark Jacobs___Striking Hard, Deep Waters, Part 10.txt
+./Gutenberg/txt/William Wymark Jacobs___The Bequest, Ship's Company, Part 6.txt
+./Gutenberg/txt/William Wymark Jacobs___The Boatswain's Mate, Captains All, Book 2.txt
+./Gutenberg/txt/William Wymark Jacobs___The Castaway, Odd Craft, Part 2.txt
+./Gutenberg/txt/William Wymark Jacobs___The Changing Numbers, Odd Craft, Part 8.txt
+./Gutenberg/txt/William Wymark Jacobs___The Constable's Move, Captains All, Book 4.txt
+./Gutenberg/txt/William Wymark Jacobs___The Convert, Deep Waters, Part 5.txt
+./Gutenberg/txt/William Wymark Jacobs___The Guardian Angel, Ship's Company, Part 7.txt
+./Gutenberg/txt/William Wymark Jacobs___The Head of The Family, Sailor's Knots, Part 9.txt
+./Gutenberg/txt/William Wymark Jacobs___The Lady of the Barge.txt
+./Gutenberg/txt/William Wymark Jacobs___The Madness of Mr. Lister, Captains All, Book 9.txt
+./Gutenberg/txt/William Wymark Jacobs___The Money Box, Odd Craft, Part 1.txt
+./Gutenberg/txt/William Wymark Jacobs___The Monkey's Paw, The Lady of the Barge and Others, Part 2.txt
+./Gutenberg/txt/William Wymark Jacobs___The Nest Egg, Captains All, Book 3.txt
+./Gutenberg/txt/William Wymark Jacobs___The Old Man of the Sea, Ship's Company, Part 11.txt
+./Gutenberg/txt/William Wymark Jacobs___The Persecution of Bob Pretty, Odd Craft, Part 9.txt
+./Gutenberg/txt/William Wymark Jacobs___The Skipper’s Wooing, and The Brown Man’s Servant.txt
+./Gutenberg/txt/William Wymark Jacobs___The Substitute, Deep Waters, Part 9.txt
+./Gutenberg/txt/William Wymark Jacobs___The Temptation of Samuel Burge, Captains All, Book 8.txt
+./Gutenberg/txt/William Wymark Jacobs___The Third String, Odd Craft, Part 12.txt
+./Gutenberg/txt/William Wymark Jacobs___The Three Sisters, Night Watches, Part 6.txt
+./Gutenberg/txt/William Wymark Jacobs___The Toll-House, Sailor's Knots, Part 7.txt
+./Gutenberg/txt/William Wymark Jacobs___The Understudy, Night Watches, Part 3.txt
+./Gutenberg/txt/William Wymark Jacobs___The Unknown, Night Watches, Part 7.txt
+./Gutenberg/txt/William Wymark Jacobs___The Vigil, Night Watches, Part 8.txt
+./Gutenberg/txt/William Wymark Jacobs___The Weaker Vessel, Night Watches, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___The Well, The Lady of the Barge and Others, Part 4.txt
+./Gutenberg/txt/William Wymark Jacobs___The White Cat, Captains All, Book 10.txt
+./Gutenberg/txt/William Wymark Jacobs___Three at Table, The Lady of the Barge and Others, Part 12.txt
+./Gutenberg/txt/William Wymark Jacobs___Watch-Dogs, Ship's Company, Part 5.txt
+./Gutenberg/txt/Winston Churchill___A Far Country, Complete.txt
+./Gutenberg/txt/Winston Churchill___A Modern Chronicle, Complete.txt
+./Gutenberg/txt/Winston Churchill___A Traveller in War-Time.txt
+./Gutenberg/txt/Winston Churchill___An Essay On The American Contribution And The Democratic Idea.txt
+./Gutenberg/txt/Winston Churchill___Coniston, Complete.txt

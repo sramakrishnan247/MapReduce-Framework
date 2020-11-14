@@ -8,10 +8,12 @@
 #include <cstdio>
 #include <cstdlib>
 
-#define NUM_OF_FILES 20 
-#define TABLE_SIZE 10000
+#define NUM_OF_FILES 1000
+#define TABLE_SIZE 100000
+#define MAX_WORD_COUNT 1000000
 
 std::map<std::string, int> globalMap;
+std::vector<std::vector<std::string> >  words(NUM_OF_FILES, std::vector<std::string>(0));
 
 typedef struct node{
     std::string key; 
@@ -25,6 +27,7 @@ typedef struct hashtable{
 
 hashtable* table[NUM_OF_FILES + 1];
 
+
 unsigned int calculateHash(const std::string s){
     std::hash<std::string> hash_fn;
     unsigned int num = (unsigned int) hash_fn(s) % TABLE_SIZE;
@@ -33,8 +36,6 @@ unsigned int calculateHash(const std::string s){
 
 void createTable(void){
     for(int i = 0; i < NUM_OF_FILES; i++){
-        // hashtable * item = (hashtable *)malloc(sizeof(hashtable) * 1);
-        // item->entries = (node**) malloc(sizeof(node*) * TABLE_SIZE);
         hashtable * item = new hashtable;
         node** entries = new node*[TABLE_SIZE];
         item->entries = entries;
@@ -42,7 +43,6 @@ void createTable(void){
             item->entries[j] = nullptr;
         }
         table[i] = item;
-        std::cout<<table[i];
     }
 }
 
@@ -122,39 +122,47 @@ std::string formatWord(std::string input){
     return output;
 }
 
-void mapper(const std::string word, int fileIndex){
-    if(word.length() > 0){
-        insertTable(word, fileIndex);
+void mapper(int fileIndex){
+    int len = words[fileIndex].size();
+    for(int i = 0; i < len; i++){            
+        insertTable(words[fileIndex][i],fileIndex);
+    }
+}
+
+void reducer(void){
+    for(int i = 0; i < NUM_OF_FILES; i++){
+        for(int j = 0; j < TABLE_SIZE; j++){
+            if(table[i]->entries[j] != nullptr){
+                globalMap[table[i]->entries[j]->key]+=table[i]->entries[j]->value;
+            }
+        }
     }
 }
 
 void printMap(){
     std::fstream fptr;
     fptr.open("./mapreduce_word_count.txt");
-
-    for(int i = 0; i < NUM_OF_FILES; i++){
-        for(int j = 0; j < TABLE_SIZE; j++){
-            if(table[i]->entries[j] != nullptr){
-                std::string line  = table[i]->entries[j]->key + " ";
-                line += std::to_string(table[i]->entries[j]->value) + "\n";
-                fptr << line;
-            }
-        }
-        std::cout<<std::endl;
-    } 
-
+    long wordCount = 0;
+    std::map<std::string, int>::iterator it;
+    for(it = globalMap.begin(); it != globalMap.end(); it++){
+        // std::string line = "Key: " + it->first + ", Value: " + std::to_string(it->second) + "\n";
+        std::string line = it->first + " " + std::to_string(it->second) + "\n";
+        fptr << line; 
+        wordCount++;
+    }
     fptr.close();
+    // std::cout<<std::endl;
+    // std::cout<<"Total words: "<<wordCount<<std::endl;
 }
 
 void readFile(std::string filename, int fileIndex){
-    std::cout<<filename;
+    // std::cout<<filename;
     std::fstream fptr;
     fptr.open(filename);
     std::string word;
-    int numOfWords = 0;
     while(fptr >> word){
         word = formatWord(word);
-        mapper(word, fileIndex);
+        words[fileIndex].push_back(word);
     }
     fptr.close();
 }
@@ -169,32 +177,33 @@ int main(int argc, char const *argv[])
     createTable();
 
     clock_t start,end;
-
 	start = clock();
-    //Read files 
-    #pragma omp parallel for
+
+    //Read file_list.txt for file names 
     for(int i = 0; i < NUM_OF_FILES; i++ ){
-        std::cout<<i<<std::endl; 
         std::string line;
         std::getline(fptr, line);
-        std::cout<<line<<std::endl;
         file[i] = line;
     }
 
+    for(int i = 0; i < NUM_OF_FILES; i++)
+        readFile(file[i], i);
+
     #pragma omp parallel for
     for(int i = 0; i < NUM_OF_FILES; i++){
-        readFile(file[i], i);
+        mapper(i);
     }
 
-    #pragma omp barrier 
+    reducer();
+
     printMap();
+
 	end = clock();
     double time = (double)(end - start) / CLOCKS_PER_SEC;
-	printf("With gpu - %f sec\n", time);
+	printf("Time taken: %f sec\n", time);
+    //free memory allocated in free store
+    deleteTable();
     fptr.close();
     
-    
-    printTable();
-    deleteTable();
     return 0;
 }

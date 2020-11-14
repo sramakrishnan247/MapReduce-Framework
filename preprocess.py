@@ -1,7 +1,7 @@
 input_file = open('files.txt', 'r')
 output_file = open('file_list.txt','w')
 
-count = 20
+count = 3000
 i = 0
 for line in input_file:
     print(line)

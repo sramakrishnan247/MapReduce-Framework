@@ -45,7 +45,3 @@ The dataset has been used for this project has been taken from [Project Gutenber
 * [Project Gutenberg](http://www.gutenberg.org/)
 * [Dataset: Complexity of Word Collocation Networks: A Preliminary Structural Analysis, Lahiri, Shibamouli](https://web.eecs.umich.edu/~lahiri/gutenberg_dataset.html)
 * [MapReduce: Simplified Data Processing on Large Clusters, Jeff Dean et al, Google Inc](https://research.google/pubs/pub62/)
-
-## Thank You!
-Please ⭐️ this repo and share it with others!
-
